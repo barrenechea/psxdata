@@ -4,9 +4,9 @@ Data and tools for serializing data provided by the [PSX Data Center](https://ps
 
 ## Parser
 
-The parser utility is included. To use it, you will need [Node](https://nodejs.org) and the [Yarn](https://yarnpkg.com) package manager installed.
+The parser utility is included. To use it, you will need [Node](https://nodejs.org) installed.
 
-Then, having cloned this repository, run `yarn && yarn sync` in the root directory.
+Then, having cloned this repository, run `npm install && npm run sync` in the root directory.
 
 If some data changes, feel free to send a pull request with the updated data, and/or parsing logic!
 
