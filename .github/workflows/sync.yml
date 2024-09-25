@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for all branches and tags
+          fetch-depth: 0
 
       - name: Use Node.js
         uses: actions/setup-node@v4
@@ -31,35 +31,10 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+          git diff --exit-code >> /dev/null || echo "changes=true" >> $GITHUB_OUTPUT
 
-      - name: Configure Git
+      - name: Commit & Push changes
         if: steps.git-check.outputs.changes == 'true'
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-
-      - name: Create or switch to sync branch
-        if: steps.git-check.outputs.changes == 'true'
-        run: |
-          BRANCH_NAME="sync-data-$(date +'%Y-%m-%d')"
-          git checkout $BRANCH_NAME 2>/dev/null || git checkout -b $BRANCH_NAME
-
-      - name: Commit changes
-        if: steps.git-check.outputs.changes == 'true'
-        run: |
-          git add .
-          git commit -m "Sync data $(date +'%Y-%m-%d')"
-
-      - name: Push changes
-        if: steps.git-check.outputs.changes == 'true'
-        run: git push -u origin HEAD
-
-      - name: Create Pull Request
-        if: steps.git-check.outputs.changes == 'true'
-        uses: peter-evans/create-pull-request@v6
+        uses: actions-js/push@master
         with:
-          title: "Sync data $(date +'%Y-%m-%d')"
-          body: "This PR contains the latest synced data."
-          branch: ${{ github.ref }}
-          base: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
