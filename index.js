@@ -45,10 +45,34 @@ async function processInParallel(
   }
 }
 
-async function processGameDetails(game) {
+async function downloadCover(url, platform, region, gameId) {
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to download cover: ${response.status}`);
+  }
+
+  const ext = path.extname(url);
+  const filePath = path.join(
+    __dirname,
+    "dist",
+    platform,
+    region,
+    "cover",
+    `${gameId}${ext}`
+  );
+
+  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  const buffer = await response.arrayBuffer();
+  await fs.writeFile(filePath, Buffer.from(buffer));
+
+  return filePath;
+}
+
+async function processGameDetails(game, platform, region) {
   if (!game.link) return game;
 
-  console.log(`Fetching game details for '${game.link}'...`);
+  let coverDownloaded = false;
+
   try {
     const dom = await JSDOM.fromURL(game.link);
     const document = dom.window.document;
@@ -57,6 +81,13 @@ async function processGameDetails(game) {
     const coverImg = document.querySelector("td.sectional > img");
     if (coverImg) {
       game.cover = new URL(coverImg.src, game.link).href;
+      try {
+        const gameId = Array.isArray(game.id) ? game.id[0] : game.id;
+        await downloadCover(game.cover, platform, region, gameId);
+        coverDownloaded = true;
+      } catch (error) {
+        // Silently handle the error, cover download status will remain false
+      }
     }
 
     // Extract other details
@@ -73,9 +104,15 @@ async function processGameDetails(game) {
       .querySelector('td[style*="Date Released"] + td')
       ?.textContent.trim();
 
+    console.log(
+      `Successfully fetched data for ${game.title}${
+        coverDownloaded ? " (cover downloaded)" : ""
+      }`
+    );
+
     return game;
   } catch (error) {
-    console.error(`Error processing '${game.link}':`, error.message);
+    console.error(`Error processing '${game.title}':`, error.message);
     return game;
   }
 }
@@ -106,7 +143,7 @@ async function processPlatform(platform, platformRegions) {
       const index = consumeIndex(dom.window.document);
 
       await processInParallel(index, async (game) => {
-        const processedGame = await processGameDetails(game);
+        const processedGame = await processGameDetails(game, platform, region);
         await saveGameData(platform, region, processedGame);
       });
 
