@@ -169,7 +169,7 @@ async function generateIndexHtml() {
 
       const files = await fs.readdir(regionDir);
       for (const file of files) {
-        content += `<li><a href="/${platform}/${region}/${file}">${file}</a></li>`;
+        content += `<li><a href="${platform}/${region}/${file}">${file}</a></li>`;
       }
 
       content += "</ul>";
