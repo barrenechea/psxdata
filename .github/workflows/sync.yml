@@ -1,21 +1,16 @@
-name: Sync Data
+name: Sync Data and Deploy
 
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
     - cron: "0 0 1 * *" # Runs at 00:00 UTC on the first day of every month
 
-permissions:
-  contents: write
-
 jobs:
-  sync:
+  sync-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Use Node.js
         uses: actions/setup-node@v4
@@ -28,13 +23,9 @@ jobs:
       - name: Run sync
         run: npm start
 
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code >> /dev/null || echo "changes=true" >> $GITHUB_OUTPUT
-
-      - name: Commit & Push changes
-        if: steps.git-check.outputs.changes == 'true'
-        uses: actions-js/push@master
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=psxdata
