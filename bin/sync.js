@@ -81,7 +81,7 @@ async function processGameDetails(game) {
 
     return { ...game, ...gameDetails };
   } catch (error) {
-    console.error(`Error processing ${game.link}:`, error);
+    console.error(`Error processing '${game.link}':`, error.message);
     return game;
   }
 }
@@ -110,7 +110,7 @@ async function processPlatform(platform, platformRegions) {
       await fs.mkdir(path.dirname(outputFile), { recursive: true });
       await fs.writeFile(outputFile, JSON.stringify(processedGames, null, 2));
     } catch (error) {
-      console.error(`error processing ${platform}/${region}`, error);
+      console.error(`error processing '${platform}/${region}':`, error.message);
     }
   }
 }

@@ -3,7 +3,7 @@ name: Sync Data
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
-    - cron: "0 0 * * 0" # Runs at 00:00 UTC every Sunday
+    - cron: "0 0 1 * *" # Runs at 00:00 UTC on the first day of every month
 
 permissions:
   contents: write
