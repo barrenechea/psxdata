@@ -1,4 +1,4 @@
-import fs from "fs-extra";
+import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
 import { JSDOM } from "jsdom";
@@ -76,7 +76,8 @@ async function processPlatform(platform, platformRegions) {
       const outputFile = path.join(__dirname, "..", platform, `${region}.json`);
       console.log(`writing to '${outputFile}'...`);
 
-      await fs.outputJson(outputFile, index, { spaces: 2 });
+      await fs.mkdir(path.dirname(outputFile), { recursive: true });
+      await fs.writeFile(outputFile, JSON.stringify(index, null, 2));
     } catch (error) {
       console.error(`error processing ${platform}/${region}`, error);
     }
