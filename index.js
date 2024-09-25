@@ -28,8 +28,8 @@ const SOURCES = {
 async function processInParallel(
   items,
   processFunction,
-  concurrency = 5,
-  delayMs = 1000
+  concurrency = 20,
+  delayMs = 300
 ) {
   const chunks = [];
   for (let i = 0; i < items.length; i += concurrency) {
@@ -105,15 +105,10 @@ async function processPlatform(platform, platformRegions) {
       const dom = await JSDOM.fromURL(url);
       const index = consumeIndex(dom.window.document);
 
-      await processInParallel(
-        index,
-        async (game) => {
-          const processedGame = await processGameDetails(game);
-          await saveGameData(platform, region, processedGame);
-        },
-        10, // 10 requests at a time
-        300 // 300ms delay between requests
-      );
+      await processInParallel(index, async (game) => {
+        const processedGame = await processGameDetails(game);
+        await saveGameData(platform, region, processedGame);
+      });
 
       console.log(`Finished processing ${platform}/${region}`);
     } catch (error) {

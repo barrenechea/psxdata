@@ -1,51 +1,65 @@
 # PSX Data
 
-Data and tools for serializing data provided by the [PSX Data Center](https://psxdatacenter.com)
+This project serves data from the [PSX Data Center](https://psxdatacenter.com) as static resources via GitHub Pages, providing fast access across the globe.
 
-## Parser
+## Overview
 
-The parser utility is included. To use it, you will need [Node](https://nodejs.org) installed.
+PSX Data is a modernized version of the original [psxdata](https://github.com/ticky/psxdata) project by [ticky](https://github.com/ticky). While the original project focused on parsing and serializing data from PSX Data Center, this version takes it a step further by hosting the parsed data on GitHub Pages for efficient global distribution.
 
-Then, having cloned this repository, run `npm install && npm start` in the root directory.
+## Features
 
-If some data changes, feel free to send a pull request with the updated data, and/or parsing logic!
+- Parsed data from PSX Data Center for PlayStation 1, PlayStation 2, and PSP
+- Static resources hosted on GitHub Pages for fast, global access
+- Monthly updates to ensure data freshness
+
+## Usage
+
+The data is accessible at [https://barrenechea.github.io/psxdata](https://barrenechea.github.io/psxdata). Each game's data is stored in an individual JSON file, organized by platform, region, and game ID.
+
+The format for accessing a specific game's data is:
+
+```
+https://barrenechea.github.io/psxdata/{Platform}/{Region}/{GameID}.json
+```
+
+Where:
+
+- `{Platform}` is either `PS1`, `PS2`, or `PSP`
+- `{Region}` is either `America`, `Europe`, or `Japan`
+- `{GameID}` is the specific game ID (e.g., SLUS-00594)
+
+For example, to access the data for the game "Crash Bandicoot" (SCUS-94900) on PlayStation 1 in the American region, you would use:
+
+```
+https://barrenechea.github.io/psxdata/PS1/America/SCUS-94900.json
+```
+
+This will return a JSON file containing the game's information.
 
 ## Data Format
 
-Data is sorted into per-platform folders, then per-region files.
+Each JSON file contains an object with the following properties:
 
-_**Note**: the format of the data is in flux while this project is established. There's a good chance that once individual games' data can be parsed the index format will change._
+- `id`: Game ID(s)
+- `title`: Game title
+- `discs`: Number of discs
+- `languages`: List of language codes
+- `link`: URL to the PSX Data Center entry (if available)
+- `includes`: Additional content information (if applicable)
+- `cover`: URL to the cover image (if available)
+- `officialTitle`: Official game title (if different from `title`)
+- `developer`: Game developer (if available)
+- `publisher`: Game publisher (if available)
+- `releaseDate`: Game release date (if available)
 
-### Indexes
+Not all properties may be present for every game.
 
-Each index file contains a JSON array of objects obeying the following format:
+## Contributing
 
-- `id` (`string`, or `Array` of `string`s)  
-  the ID (or IDs, in the case of multi-disc games) of the game release
-- `title` (`string`)  
-  the game's title
-- `discs` (`number`)  
-  the number of discs comprising the game release (inferred from number of product codes)
-- `languages` (`Array` of `string`s, optional)  
-  a list of language IDs, these are intended to comply with [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) and accept regional variants (such as `en-AU`) where necessary.  
-  _**Note**: some languages in the data set are non-standard, however, these can be distinguished by the first and/or second letters not being lower-case._
-- `link` (URL `string`, optional)  
-  the fully-qualified internet URL for the PSX Data Center's entry for the title, if it exists
-- `includes` (`string`, or `Array` of `string`s, optional)  
-  a brief description of the extra content included with the release - extra or named discs, for instance
-- `cover` (URL `string`, optional)  
-  the fully-qualified internet URL for the cover image of the game, if available
-- `officialTitle` (`string`, optional)  
-  the official title of the game
-- `developer` (`string`, optional)  
-  the developer of the game
-- `publisher` (`string`, optional)  
-  the publisher of the game
-- `releaseDate` (`string`, optional)  
-  the release date of the game
+Contributions are welcome! If you notice any discrepancies in the data or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
-Note that the license declared in this repository applies _only_ to the parser utility (basically, the JavaScript).
+The code in this repository is licensed under the GNU General Public License v3.0 (GPL-3.0). You can find a copy of the license in the LICENSE file.
 
-The data set itself has no known license, but crediting the [PSX Data Center](https://psxdatacenter.com) if you use it sure wouldn't go astray!
+Please note that the data itself is sourced from PSX Data Center and may be subject to different terms. We kindly request that you credit [PSX Data Center](https://psxdatacenter.com) if you use this data in your projects.

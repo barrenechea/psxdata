@@ -1,4 +1,4 @@
-name: Sync Data and Deploy
+name: Deploy to GitHub Pages
 
 on:
   workflow_dispatch: # Allows manual triggering
@@ -6,9 +6,8 @@ on:
     - cron: "0 0 1 * *" # Runs at 00:00 UTC on the first day of every month
 
 jobs:
-  sync-and-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
@@ -20,12 +19,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run sync
-        run: npm start
+      - name: Build
+        run: npm run build
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy dist --project-name=psxdata
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

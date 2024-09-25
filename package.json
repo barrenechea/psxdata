@@ -5,7 +5,7 @@
   "description": "Data from the PSX Data Center, in serialized form",
   "homepage": "https://github.com/barrenechea/psxdata",
   "repository": "https://github.com/barrenechea/psxdata.git",
-  "license": "CC-BY-SA-4.0",
+  "license": "GPL-3.0-only",
   "keywords": [
     "playstation",
     "psx",
@@ -16,7 +16,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "build": "node index.js",
     "test": "node --test"
   },
   "devDependencies": {
