@@ -9,19 +9,19 @@ const __dirname = path.dirname(__filename);
 
 const SOURCES = {
   ps1: {
-    "ntsc-j": "https://psxdatacenter.com/jlist.html",
-    "ntsc-uc": "https://psxdatacenter.com/ulist.html",
-    pal: "https://psxdatacenter.com/plist.html",
+    Japan: "https://psxdatacenter.com/jlist.html",
+    America: "https://psxdatacenter.com/ulist.html",
+    Europe: "https://psxdatacenter.com/plist.html",
   },
   ps2: {
-    "ntsc-j": "https://psxdatacenter.com/psx2/jlist2.html",
-    "ntsc-uc": "https://psxdatacenter.com/psx2/ulist2.html",
-    pal: "https://psxdatacenter.com/psx2/plist2.html",
+    Japan: "https://psxdatacenter.com/psx2/jlist2.html",
+    America: "https://psxdatacenter.com/psx2/ulist2.html",
+    Europe: "https://psxdatacenter.com/psx2/plist2.html",
   },
   psp: {
-    "ntsc-j": "https://psxdatacenter.com/psp/jlist.html",
-    "ntsc-uc": "https://psxdatacenter.com/psp/ulist.html",
-    pal: "https://psxdatacenter.com/psp/plist.html",
+    Japan: "https://psxdatacenter.com/psp/jlist.html",
+    America: "https://psxdatacenter.com/psp/ulist.html",
+    Europe: "https://psxdatacenter.com/psp/plist.html",
   },
 };
 
@@ -36,17 +36,13 @@ async function processInParallel(
     chunks.push(items.slice(i, i + concurrency));
   }
 
-  const results = [];
   for (const chunk of chunks) {
     const chunkPromises = chunk.map(processFunction);
-    const chunkResults = await Promise.all(chunkPromises);
-    results.push(...chunkResults);
+    await Promise.all(chunkPromises);
 
     // Add a delay between chunks to avoid overwhelming the server
     await new Promise((resolve) => setTimeout(resolve, delayMs));
   }
-
-  return results;
 }
 
 async function processGameDetails(game) {
@@ -57,60 +53,72 @@ async function processGameDetails(game) {
     const dom = await JSDOM.fromURL(game.link);
     const document = dom.window.document;
 
-    const gameDetails = {};
-
     // Extract cover image link
     const coverImg = document.querySelector("td.sectional > img");
     if (coverImg) {
-      gameDetails.cover = new URL(coverImg.src, game.link).href;
+      game.cover = new URL(coverImg.src, game.link).href;
     }
 
-    // Extract other details (examples)
-    gameDetails.officialTitle = document
+    // Extract other details
+    game.officialTitle = document
       .querySelector('td[style*="Official Title"] + td')
       ?.textContent.trim();
-    gameDetails.developer = document
+    game.developer = document
       .querySelector('td[style*="Developer"] + td')
       ?.textContent.trim();
-    gameDetails.publisher = document
+    game.publisher = document
       .querySelector('td[style*="Publisher"] + td')
       ?.textContent.trim();
-    gameDetails.releaseDate = document
+    game.releaseDate = document
       .querySelector('td[style*="Date Released"] + td')
       ?.textContent.trim();
 
-    return { ...game, ...gameDetails };
+    return game;
   } catch (error) {
     console.error(`Error processing '${game.link}':`, error.message);
     return game;
   }
 }
 
+async function saveGameData(platform, region, game) {
+  const gameIds = Array.isArray(game.id) ? game.id : [game.id];
+  for (const id of gameIds) {
+    const outputFile = path.join(
+      __dirname,
+      "..",
+      "data",
+      platform,
+      region,
+      `${id}.json`
+    );
+    await fs.mkdir(path.dirname(outputFile), { recursive: true });
+    await fs.writeFile(outputFile, JSON.stringify(game, null, 2));
+  }
+}
+
 async function processPlatform(platform, platformRegions) {
-  console.log(`processing platform '${platform}'...`);
+  console.log(`Processing platform '${platform}'...`);
 
   for (const [region, url] of Object.entries(platformRegions)) {
-    console.log(`fetching and parsing '${url}'...`);
+    console.log(`Fetching and parsing '${url}'...`);
 
     try {
       const dom = await JSDOM.fromURL(url);
       const index = consumeIndex(dom.window.document);
 
-      // Process games in parallel
-      const processedGames = await processInParallel(
+      await processInParallel(
         index,
-        processGameDetails,
+        async (game) => {
+          const processedGame = await processGameDetails(game);
+          await saveGameData(platform, region, processedGame);
+        },
         10, // 10 requests at a time
         300 // 300ms delay between requests
       );
 
-      const outputFile = path.join(__dirname, "..", platform, `${region}.json`);
-      console.log(`writing to '${outputFile}'...`);
-
-      await fs.mkdir(path.dirname(outputFile), { recursive: true });
-      await fs.writeFile(outputFile, JSON.stringify(processedGames, null, 2));
+      console.log(`Finished processing ${platform}/${region}`);
     } catch (error) {
-      console.error(`error processing '${platform}/${region}':`, error.message);
+      console.error(`Error processing '${platform}/${region}':`, error.message);
     }
   }
 }
@@ -120,7 +128,7 @@ async function main() {
     for (const [platform, platformRegions] of Object.entries(SOURCES)) {
       await processPlatform(platform, platformRegions);
     }
-    console.log("done!");
+    console.log("Done!");
   } catch (error) {
     console.error(error);
   }
