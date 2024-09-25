@@ -25,6 +25,36 @@ const SOURCES = {
   },
 };
 
+async function processGameDetails(gameUrl) {
+  console.log(`Fetching details for ${gameUrl}...`);
+  const dom = await JSDOM.fromURL(gameUrl);
+  const document = dom.window.document;
+
+  const gameDetails = {};
+
+  // Extract cover image link
+  const coverImg = document.querySelector("td.sectional > img");
+  if (coverImg) {
+    gameDetails.cover = new URL(coverImg.src, gameUrl).href;
+  }
+
+  // Extract other details (examples)
+  gameDetails.officialTitle = document
+    .querySelector('td[style*="Official Title"] + td')
+    ?.textContent.trim();
+  gameDetails.developer = document
+    .querySelector('td[style*="Developer"] + td')
+    ?.textContent.trim();
+  gameDetails.publisher = document
+    .querySelector('td[style*="Publisher"] + td')
+    ?.textContent.trim();
+  gameDetails.releaseDate = document
+    .querySelector('td[style*="Date Released"] + td')
+    ?.textContent.trim();
+
+  return gameDetails;
+}
+
 async function processPlatform(platform, platformRegions) {
   console.log(`processing platform '${platform}'...`);
 
@@ -34,6 +64,14 @@ async function processPlatform(platform, platformRegions) {
     try {
       const dom = await JSDOM.fromURL(url);
       const index = consumeIndex(dom.window.document);
+
+      // Process each game in the index
+      for (const game of index) {
+        if (game.link) {
+          const gameDetails = await processGameDetails(game.link);
+          Object.assign(game, gameDetails);
+        }
+      }
 
       const outputFile = path.join(__dirname, "..", platform, `${region}.json`);
       console.log(`writing to '${outputFile}'...`);

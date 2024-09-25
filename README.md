@@ -6,7 +6,7 @@ Data and tools for serializing data provided by the [PSX Data Center](https://ps
 
 The parser utility is included. To use it, you will need [Node](https://nodejs.org) installed.
 
-Then, having cloned this repository, run `npm install && npm run sync` in the root directory.
+Then, having cloned this repository, run `npm install && npm start` in the root directory.
 
 If some data changes, feel free to send a pull request with the updated data, and/or parsing logic!
 
@@ -20,19 +20,29 @@ _**Note**: the format of the data is in flux while this project is established. 
 
 Each index file contains a JSON array of objects obeying the following format:
 
-* `id` (`string`, or `Array` of `string`s)  
+- `id` (`string`, or `Array` of `string`s)  
   the ID (or IDs, in the case of multi-disc games) of the game release
-* `title` (`string`)  
+- `title` (`string`)  
   the game's title
-* `discs` (`number`)  
+- `discs` (`number`)  
   the number of discs comprising the game release (inferred from number of product codes)
-* `languages` (`Array` of `string`s, optional)  
+- `languages` (`Array` of `string`s, optional)  
   a list of language IDs, these are intended to comply with [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) and accept regional variants (such as `en-AU`) where necessary.  
   _**Note**: some languages in the data set are non-standard, however, these can be distinguished by the first and/or second letters not being lower-case._
-* `link` (URL `string`, optional)  
+- `link` (URL `string`, optional)  
   the fully-qualified internet URL for the PSX Data Center's entry for the title, if it exists
-* `includes` (`string`, or `Array` of `string`s, optional)  
+- `includes` (`string`, or `Array` of `string`s, optional)  
   a brief description of the extra content included with the release - extra or named discs, for instance
+- `cover` (URL `string`, optional)  
+  the fully-qualified internet URL for the cover image of the game, if available
+- `officialTitle` (`string`, optional)  
+  the official title of the game
+- `developer` (`string`, optional)  
+  the developer of the game
+- `publisher` (`string`, optional)  
+  the publisher of the game
+- `releaseDate` (`string`, optional)  
+  the release date of the game
 
 ## License
 

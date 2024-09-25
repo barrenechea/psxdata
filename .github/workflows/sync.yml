@@ -1,0 +1,65 @@
+name: Sync Data
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: "0 0 * * 0" # Runs at 00:00 UTC every Sunday
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for all branches and tags
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run sync
+        run: npm start
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Configure Git
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Create or switch to sync branch
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          BRANCH_NAME="sync-data-$(date +'%Y-%m-%d')"
+          git checkout $BRANCH_NAME 2>/dev/null || git checkout -b $BRANCH_NAME
+
+      - name: Commit changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git add .
+          git commit -m "Sync data $(date +'%Y-%m-%d')"
+
+      - name: Push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: git push -u origin HEAD
+
+      - name: Create Pull Request
+        if: steps.git-check.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "Sync data $(date +'%Y-%m-%d')"
+          body: "This PR contains the latest synced data."
+          branch: ${{ github.ref }}
+          base: main
