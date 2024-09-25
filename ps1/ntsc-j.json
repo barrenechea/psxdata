@@ -664,8 +664,12 @@
   },
   {
     "id": "SLPS-02411",
-    "title": "Ai Mahjong 2000",
-    "discs": 1
+    "title": "AI MAHJONG 2000",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/A/SLPS-02411.html"
   },
   {
     "id": "SLPM-87117",
@@ -1888,8 +1892,12 @@
   },
   {
     "id": "SLPS-03541",
-    "title": "Asonde Kazu Suuji",
-    "discs": 1
+    "title": "ASONDE KAZU SUUJI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/A/SLPS-03541.html"
   },
   {
     "id": "SLPS-00512",
@@ -4730,6 +4738,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/C/SLPS-02712.html"
+  },
+  {
+    "id": "SCPS-10013",
+    "title": "CENTER SHIKEN TRIAL - EIGO NO TETSUJIN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/C/SCPS-10013.html"
   },
   {
     "id": "SLPS-00230",
@@ -8109,6 +8126,15 @@
     "link": "https://psxdatacenter.com/games/J/D/SLPS-02656.html"
   },
   {
+    "id": "SLPM-88502",
+    "title": "DISNEY'S DONALD DUCK GOING QUACKERS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/J/D/SLPM-88502.html"
+  },
+  {
     "id": "SLPS-03460",
     "title": "DISNEY'S KUMA NO POOH-SAN - MORI NO DAIKYOUSOU!",
     "discs": 1,
@@ -9781,11 +9807,6 @@
     "link": "https://psxdatacenter.com/games/J/E/SLPS-02263.html"
   },
   {
-    "id": "SCPS-10013",
-    "title": "English Ironman Center Test Trial (Eigo no Tetsujin - Center Shiken Trial)",
-    "discs": 1
-  },
-  {
     "id": [
       "SLPS-01351",
       "SLPS-01352"
@@ -9814,6 +9835,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/E/SLPS-01465.html"
+  },
+  {
+    "id": "SCPS-40001",
+    "title": "EPS SERIES VOL.01 - YUKIKO MORIKAWA - BECAUSE I LOVE YOU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/E/SCPS-40001.html"
   },
   {
     "id": "SCPS-40002",
@@ -10165,8 +10195,12 @@
   },
   {
     "id": "SLPS-03487",
-    "title": "Family 1500 Series - Mahjong",
-    "discs": 1
+    "title": "FAMILY 1500 SERIES - MAHJONG",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/F/SLPS-03487.html"
   },
   {
     "id": "SLPS-01523",
@@ -10216,8 +10250,12 @@
   },
   {
     "id": "SLPS-03488",
-    "title": "Family Igo 2",
-    "discs": 1
+    "title": "FAMILY IGO 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/F/SLPS-03488.html"
   },
   {
     "id": "SLPS-03377",
@@ -10226,8 +10264,12 @@
   },
   {
     "id": "SLPS-03489",
-    "title": "Family Shogi 2",
-    "discs": 1
+    "title": "FAMILY SHOGI 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/F/SLPS-03489.html"
   },
   {
     "id": "SLPS-01665",
@@ -10372,11 +10414,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/F/SLPM-86874.html"
-  },
-  {
-    "id": "SLPM-86695",
-    "title": "Feng Shui Nyuumon - Fusui Nyumon",
-    "discs": 1
   },
   {
     "id": "SLPS-02371",
@@ -11589,11 +11626,6 @@
     "link": "https://psxdatacenter.com/games/J/F/SLPS-03094.html"
   },
   {
-    "id": "SLPM-87069",
-    "title": "Fuusui Nyuumon [SuperLite 1500 Series]",
-    "discs": 1
-  },
-  {
     "id": "SLPS-00441",
     "title": "FUUUN GOKUU NINDEN",
     "discs": 1,
@@ -11984,28 +12016,48 @@
   },
   {
     "id": "SLPS-00030",
-    "title": "Game no Tatsujin",
-    "discs": 1
+    "title": "GAME NO TATSUJIN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-00030.html"
   },
   {
     "id": "SLPS-02052",
-    "title": "Game no Tatsujin",
-    "discs": 1
+    "title": "GAME NO TATSUJIN [SUNSOFT BEST]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-02052.html"
   },
   {
     "id": "SLPS-03298",
-    "title": "Game no Tatsujin [Value 1500]",
-    "discs": 1
+    "title": "GAME NO TATSUJIN [VALUE 1500]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-03298.html"
   },
   {
     "id": "SLPS-00213",
-    "title": "Game no Tatsujin 2",
-    "discs": 1
+    "title": "GAME NO TATSUJIN 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-00213.html"
   },
   {
     "id": "SLPS-03297",
-    "title": "Game no Tatsujin 2 [Sunkore Best]",
-    "discs": 1
+    "title": "GAME NO TATSUJIN 2 [SUNKORE BEST]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-03297.html"
   },
   {
     "id": "SLPS-00096",
@@ -12182,13 +12234,21 @@
   },
   {
     "id": "SLPS-02094",
-    "title": "Ganso Family Mahjong 2",
-    "discs": 1
+    "title": "GANSO FAMILY MAHJONG 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-02094.html"
   },
   {
     "id": "SLPS-03102",
-    "title": "Ganso Family Mahjong 2 [Nichibutsu Select Vol.5]",
-    "discs": 1
+    "title": "GANSO FAMILY MAHJONG 2 [NICHIBUTSU SELECT VOL.5]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-03102.html"
   },
   {
     "id": "SCPS-45409",
@@ -12707,13 +12767,12 @@
   },
   {
     "id": "SLPS-00528",
-    "title": "Go II Professional Taikyoku Igo",
-    "discs": 1
-  },
-  {
-    "id": "SCPS-45167",
-    "title": "Go Train!",
-    "discs": 1
+    "title": "GO II PROFESSIONAL TAIKYOKU IGO",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/G/SLPS-00528.html"
   },
   {
     "id": "SCPS-45165",
@@ -13788,14 +13847,13 @@
     "link": "https://psxdatacenter.com/games/J/H/SLPS-03080.html"
   },
   {
-    "id": "SLPS-03369",
-    "title": "Hanafuda & Card Game [Nice Price Vol.03]",
-    "discs": 1
-  },
-  {
     "id": "SLPS-01747",
-    "title": "Hanafuda Exact 3D",
-    "discs": 1
+    "title": "HANAFUDA REAL 3D",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/H/SLPS-01747.html"
   },
   {
     "id": "SLPS-00367",
@@ -14134,11 +14192,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/H/SLPS-03159.html"
-  },
-  {
-    "id": "SLPS-01131",
-    "title": "Hei-Sek-Ki-in",
-    "discs": 1
   },
   {
     "id": "SLPS-00413",
@@ -14599,13 +14652,21 @@
   },
   {
     "id": "SLPS-00112",
-    "title": "Hissatsu Pachinko Station",
-    "discs": 1
+    "title": "HISSATSU PACHINKO STATION",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/H/SLPS-00112.html"
   },
   {
     "id": "SLPS-01668",
-    "title": "Hissatsu Pachinko Station [Sunsoft Best]",
-    "discs": 1
+    "title": "HISSATSU PACHINKO STATION [SUNSOFT BEST]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/H/SLPS-01668.html"
   },
   {
     "id": "SLPS-01963",
@@ -14758,8 +14819,12 @@
   },
   {
     "id": "SLPS-02721",
-    "title": "Hissatsu Pachinko Station Now4",
-    "discs": 1
+    "title": "HISSATSU PACHINKO STATION NOW4 - ORE WA NEKKETSU BOUKENOU DA!!",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/H/SLPS-02721.html"
   },
   {
     "id": "SLPS-02856",
@@ -14808,8 +14873,12 @@
   },
   {
     "id": "SLPS-02283",
-    "title": "Hissatsu Pachinko Station Puchi",
-    "discs": 1
+    "title": "HISSATSU PACHINKO STATION PUCHI - NANASY TTE NANI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/H/SLPS-02283.html"
   },
   {
     "id": "SLPS-02493",
@@ -14827,8 +14896,12 @@
   },
   {
     "id": "SLPS-02984",
-    "title": "Hissatsu Pachinko Station Toyomaru Special",
-    "discs": 1
+    "title": "HISSATSU PACHINKO STATION - TOYOMARU SPECIAL",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/H/SLPS-02984.html"
   },
   {
     "id": "SLPS-01361",
@@ -16821,13 +16894,12 @@
   },
   {
     "id": "SLPS-01384",
-    "title": "Kaettekita Pachiokun Dream Collection",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-86320",
-    "title": "Kaettekita Pachiokun Dream Collection [Superlite 1500 Series]",
-    "discs": 1
+    "title": "KAETTEKITA PACHIOKUN - DREAM COLLECTION",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-01384.html"
   },
   {
     "id": "SLPS-01975",
@@ -16903,11 +16975,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/K/SLPM-86438.html"
-  },
-  {
-    "id": "SLPM-86447",
-    "title": "Kain no Tanoshi Mail",
-    "discs": 1
   },
   {
     "id": "SLPS-00743",
@@ -17140,11 +17207,6 @@
     "discs": 1
   },
   {
-    "id": "SLPM-86474",
-    "title": "Karan Koron Gakuen - Byuarabu Hen",
-    "discs": 1
-  },
-  {
     "id": "SLPM-86414",
     "title": "KARAN KORON GAKUEN - DOKI DOKI HEN",
     "discs": 1,
@@ -17161,6 +17223,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/K/SLPM-86468.html"
+  },
+  {
+    "id": "SLPM-86474",
+    "title": "KARAN KORON GAKUEN - PURE LOVE HEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPM-86474.html"
   },
   {
     "id": "SLPS-03041",
@@ -17427,6 +17498,24 @@
     "link": "https://psxdatacenter.com/games/J/K/SLPS-02831.html"
   },
   {
+    "id": "SLPS-02830",
+    "title": "KENKI IPPATSU! SHOVEL MASTER NINAROU!",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-02830.html"
+  },
+  {
+    "id": "SLPS-91510",
+    "title": "KENKI IPPATSU! SHOVEL MASTER NINAROU! [PSONE BOOKS]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-91510.html"
+  },
+  {
     "id": "SLPM-87150",
     "title": "KENKI IPPATSU! CRANE MASTER NINAROU! (MAJOR WAVE SERIES)",
     "discs": 1,
@@ -17461,15 +17550,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/K/SLPS-91236.html"
-  },
-  {
-    "id": "SLPS-91510",
-    "title": "KENSETSU KIKAI SIMULATOR - KENKI IPPAI!! [PSONE BOOKS]",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ],
-    "link": "https://psxdatacenter.com/games/J/K/SLPS-91510.html"
   },
   {
     "id": "SLPM-86621",
@@ -17734,13 +17814,21 @@
   },
   {
     "id": "SLPS-03448",
-    "title": "Kids Station - Hello Kitty no Ouchi he Oideyo!",
-    "discs": 1
+    "title": "KIDS STATION - HELLO KITTY NO UCHI NIOI DEYO",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-03448.html"
   },
   {
     "id": "SLPS-03447",
-    "title": "Kids Station - Hello Kitty no Ouchi he Oideyo! [Kids Station Controller Set]",
-    "discs": 1
+    "title": "KIDS STATION - HELLO KITTY NO UCHI NIOI DEYO [KIDS STATION CONTROLLER SET]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-03447.html"
   },
   {
     "id": "SLPS-03544",
@@ -18032,13 +18120,21 @@
   },
   {
     "id": "SLPM-87167",
-    "title": "Kids Station - Play Rail - Tetsudou Monoshiri Hyakka",
-    "discs": 1
+    "title": "KIDS STATION - PLARAIL - TETSUDOU MONOSHIRI HYAKKA",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPM-87167.html"
   },
   {
     "id": "SLPM-87166",
-    "title": "Kids Station - Play Rail - Tetsudou Monoshiri Hyakka [with Kids Station Controller]",
-    "discs": 1
+    "title": "KIDS STATION - PLARAIL - TETSUDOU MONOSHIRI HYAKKA [KIDS STATION CONTROLLER SET]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPM-87166.html"
   },
   {
     "id": "SLPS-03359",
@@ -18517,13 +18613,13 @@
     "link": "https://psxdatacenter.com/games/J/K/SLPM-86737.html"
   },
   {
-    "id": "SLPS-02877",
-    "title": "KISOU JIDAIGEKI SUGOROKU - SHINOBI NO ROKU",
+    "id": "SLPS-02215",
+    "title": "KISEKI NO MAYA URANAI",
     "discs": 1,
     "languages": [
       "jp"
     ],
-    "link": "https://psxdatacenter.com/games/J/K/SLPS-02877.html"
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-02215.html"
   },
   {
     "id": "SLPM-86449",
@@ -18535,9 +18631,22 @@
     "link": "https://psxdatacenter.com/games/J/K/SLPM-86449.html"
   },
   {
+    "id": "SLPS-02877",
+    "title": "KISOU JIDAIGEKI SUGOROKU - SHINOBI NO ROKU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-02877.html"
+  },
+  {
     "id": "SLPS-01821",
-    "title": "Kita Denshi Virtua Pachi-Slot",
-    "discs": 1
+    "title": "KITA DENSHI - VIRTUA PACHI-SLOT",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-01821.html"
   },
   {
     "id": "SLPS-02746",
@@ -18636,8 +18745,17 @@
     "link": "https://psxdatacenter.com/games/J/K/SLPS-91116.html"
   },
   {
+    "id": "SCPS-45296",
+    "title": "KLAYMEN KLAYMEN 2 - SKULLMONKEY NO GYAKUSHUU",
+    "discs": 1,
+    "languages": [
+      "zh"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SCPS-45296.html"
+  },
+  {
     "id": "SLPS-01501",
-    "title": "KLAYMEN KLAYMEN 2 - SKULLMONKEY NO GYAKUSHUU [PLAYSTATION THE BEST]",
+    "title": "KLAYMEN KLAYMEN 2 - SKULLMONKEY NO GYAKUSHUU",
     "discs": 1,
     "languages": [
       "jp"
@@ -18697,6 +18815,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/K/SLPS-03499.html"
+  },
+  {
+    "id": "SLPM-80195",
+    "title": "KOGUMA-CHAN NO DAIBOUKEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPM-80195.html"
   },
   {
     "id": "SLPS-02955",
@@ -18862,8 +18989,12 @@
   },
   {
     "id": "SLPS-01894",
-    "title": "Konya mo Dorubako!!",
-    "discs": 1
+    "title": "KONYA MO DORUBAKO!!",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPS-01894.html"
   },
   {
     "id": "SLPS-02547",
@@ -19340,6 +19471,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/K/SLPS-01854.html"
+  },
+  {
+    "id": "SLPM-86447",
+    "title": "KYAIIN NO TANOSHI MAIL - PS. I LOVE YOU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/K/SLPM-86447.html"
   },
   {
     "id": "SLPS-01692",
@@ -21345,11 +21485,6 @@
     "link": "https://psxdatacenter.com/games/J/M/SLPS-02871.html"
   },
   {
-    "id": "SLPS-02215",
-    "title": "Maya's Fortune Telling",
-    "discs": 1
-  },
-  {
     "id": "SLPS-03490",
     "title": "MAZE HEROES - MEIKYUU DENSETSU",
     "discs": 1,
@@ -22350,16 +22485,6 @@
     "link": "https://psxdatacenter.com/games/J/M/SLPS-03186.html"
   },
   {
-    "id": "SLPM-86799",
-    "title": "Minna no Mahjong [Superlite Gold Series]",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-86919",
-    "title": "Minna no Othello [Superlite Gold Series]",
-    "discs": 1
-  },
-  {
     "id": "SLPS-03279",
     "title": "MINNA NO SHIIKU KYOUSHITSU - KUWAGATAHEN",
     "discs": 1,
@@ -22367,21 +22492,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/M/SLPS-03279.html"
-  },
-  {
-    "id": "SLPM-87009",
-    "title": "Minna no Shogi - Chuukyuuhen - Middle Class [Superlite Gold Series]",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-87010",
-    "title": "Minna no Shogi - Jokyuuhen - Expert Class [Superlite Gold Series]",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-86920",
-    "title": "Minna no Shogi - Shokyuuhen - Beginners Class [Superlite Gold Series]",
-    "discs": 1
   },
   {
     "id": "SLPS-03491",
@@ -23114,12 +23224,16 @@
   },
   {
     "id": "SLPS-02487",
-    "title": "Morita Kazuo no Gomokuheibe to Rentama",
-    "discs": 1
+    "title": "MORITA KAZURO NO GOMOKU NARABE TO RENJU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/M/SLPS-02487.html"
   },
   {
     "id": "SLPS-02486",
-    "title": "MORITA KAZUO NO HANAFUDA",
+    "title": "MORITA KAZURO NO HANAFUDA",
     "discs": 1,
     "languages": [
       "jp"
@@ -23128,18 +23242,26 @@
   },
   {
     "id": "SLPS-02588",
-    "title": "Morita Kazuo no Mahjong",
+    "title": "Morita Kazuro no Mahjong",
     "discs": 1
   },
   {
     "id": "SLPS-02278",
-    "title": "Morita Kazuo no Reversi",
-    "discs": 1
+    "title": "MORITA KAZURO NO REVERSI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/M/SLPS-02278.html"
   },
   {
     "id": "SLPS-02277",
-    "title": "Morita Kazuo no Shogi Dojo",
-    "discs": 1
+    "title": "MORITA KAZURO NO SHOUGI DOUJOU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/M/SLPS-02277.html"
   },
   {
     "id": "SLPS-01119",
@@ -23574,26 +23696,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/M/SLPS-01562.html"
-  },
-  {
-    "id": "SLPM-86528",
-    "title": "Nadashiki Unou de Adventure - Katachi 123 0Sai - 2Sai Muke",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-86530",
-    "title": "Nadashiki Unou de Adventure - Katachi 123 2Sai - 4Sai Muke",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-86527",
-    "title": "Nadashiki Unou de Adventure - Kotoba ABC 0Sai - 2Sai Muke",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-86529",
-    "title": "Nadashiki Unou de Adventure - Kotoba ABC 2Sai - 4Sai Muke",
-    "discs": 1
   },
   {
     "id": "SLPS-00692",
@@ -24395,6 +24497,15 @@
     "link": "https://psxdatacenter.com/games/J/N/SIPS-60018.html"
   },
   {
+    "id": "SLPS-03369",
+    "title": "NICE PRICE SERIES VOL. 03 - HANAFUDA & CARD GAME",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/N/SLPS-03369.html"
+  },
+  {
     "id": "SLPS-03410",
     "title": "NICE PRICE SERIES VOL. 10 - IGO WO UTOU!",
     "discs": 1,
@@ -24642,13 +24753,21 @@
   },
   {
     "id": "SLPS-02484",
-    "title": "Nippon Pro Mahjong Renmei Kounin - Doujou Yaburi 2",
-    "discs": 1
+    "title": "NIPPON PRO MAHJONG RENMEI KOUNIN - DOUJOU YABURI 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/N/SLPS-02484.html"
   },
   {
     "id": "SLPS-03128",
-    "title": "Nippon Pro Mahjong Renmei Kounin - Doujou Yaburi 2 [Reprint]",
-    "discs": 1
+    "title": "NIPPON PRO MAHJONG RENMEI KOUNIN - DOUJOU YABURI 2 [2800Y]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/N/SLPS-03128.html"
   },
   {
     "id": "SLPS-01653",
@@ -24697,8 +24816,12 @@
   },
   {
     "id": "SLPS-00614",
-    "title": "Nishijin Pachinko Tengoku Vol.1",
-    "discs": 1
+    "title": "NISHIJIN PACHINKO TENGOKU VOL.1",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/N/SLPS-00614.html"
   },
   {
     "id": "SLPS-00886",
@@ -24720,8 +24843,12 @@
   },
   {
     "id": "SLPS-03268",
-    "title": "Nishijin Pachinko Tettel Kouryaku",
-    "discs": 1
+    "title": "NISHIJIN PACHINKO TETTEI KOURYAKU - CR HANAMAN SOKUHOU & CR OBAKE LAND",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/N/SLPS-03268.html"
   },
   {
     "id": "SLPS-00265",
@@ -25696,8 +25823,12 @@
   },
   {
     "id": "SLPS-02013",
-    "title": "Osaka Naniwa Matenrow",
-    "discs": 1
+    "title": "OSAKA NANIWA MATENROW",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/O/SLPS-02013.html"
   },
   {
     "id": "SLPS-03056",
@@ -25716,11 +25847,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/O/SLPM-87316.html"
-  },
-  {
-    "id": "SLPM-86819",
-    "title": "Otenami Haiken [Superlite Gold Series]",
-    "discs": 1
   },
   {
     "id": "SLPM-87047",
@@ -26399,13 +26525,21 @@
   },
   {
     "id": "SLPS-02627",
-    "title": "Pachi-Slot Teiou 5",
-    "discs": 1
+    "title": "PACHI-SLOT TEIOU 5 - KONGDOM, SUPER STAR DUST 2, FLYING MOMONGA",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPS-02627.html"
   },
   {
     "id": "SLPS-03149",
-    "title": "Pachi-Slot Teiou 5 [Best of The Best]",
-    "discs": 1
+    "title": "PACHI-SLOT TEIOU 5 - KONGDOM, SUPER STAR DUST 2, FLYING MOMONGA [BEST OF THE BEST]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPS-03149.html"
   },
   {
     "id": "SLPS-02657",
@@ -26427,8 +26561,12 @@
   },
   {
     "id": "SLPS-02991",
-    "title": "Pachi-Slot Teiou 7",
-    "discs": 1
+    "title": "PACHI-SLOT TEIOU 7 - MAKER SUSISHOU MANUAL 1 - BEAT THE DRAGON 2 - LUPIN SANSHEI - HOT ROD QUEEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPS-02991.html"
   },
   {
     "id": "SLPS-03475",
@@ -26751,6 +26889,24 @@
     "link": "https://psxdatacenter.com/games/J/P/SLPS-00552.html"
   },
   {
+    "id": "SLPM-86695",
+    "title": "PAO LEEMING KANSHUU - FUUSUI NYUUMON",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPM-86695.html"
+  },
+  {
+    "id": "SLPM-87069",
+    "title": "PAO LEEMING KANSHUU - FUUSUI NYUUMON [SUPERLITE 1500]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPM-87069.html"
+  },
+  {
     "id": "SCPS-10097",
     "title": "PAQA",
     "discs": 1,
@@ -27004,8 +27160,12 @@
   },
   {
     "id": "SLPS-02949",
-    "title": "Parlor! Pro Collection",
-    "discs": 1
+    "title": "PARLOR! PRO COLLECTION",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPS-02949.html"
   },
   {
     "id": "SLPS-02781",
@@ -27072,8 +27232,12 @@
   },
   {
     "id": "SLPS-02996",
-    "title": "Parlor! Pro Special - CR Harenchi Gakuen & CR Chou-Shindai",
-    "discs": 1
+    "title": "PARLOR! PRO SPECIAL - CR HARENCHI GAKUEN & CR TOUKON",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPS-02996.html"
   },
   {
     "id": "SLPM-86016",
@@ -27864,8 +28028,12 @@
   },
   {
     "id": "SLPS-02664",
-    "title": "Pokeler DX Pink",
-    "discs": 1
+    "title": "POKELER DX PINK",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/P/SLPS-02664.html"
   },
   {
     "id": "SCPS-10108",
@@ -28982,16 +29150,6 @@
     "link": "https://psxdatacenter.com/games/J/Q/SLPS-02310.html"
   },
   {
-    "id": "SLPM-87156",
-    "title": "Quiz Darakeno Jinsei Game Dai-2-kai!",
-    "discs": 1
-  },
-  {
-    "id": "SLPM-87346",
-    "title": "Quiz Darakeno Jinsei Game Dai-2-kai! (PSOne Books)",
-    "discs": 1
-  },
-  {
     "id": "SLPS-02282",
     "title": "QUIZ DARAKE NO JINSEI GAME",
     "discs": 1,
@@ -29008,6 +29166,24 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/Q/SLPM-87097.html"
+  },
+  {
+    "id": "SLPM-87156",
+    "title": "QUIZ DARAKE NO JINSEI GAME DAI-2-KAI!",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/Q/SLPM-87156.html"
+  },
+  {
+    "id": "SLPM-87346",
+    "title": "QUIZ DARAKE NO JINSEI GAME DAI-2-KAI! [PSONE BOOKS]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/Q/SLPM-87346.html"
   },
   {
     "id": "SLPS-03384",
@@ -29119,6 +29295,18 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/R/SCPS-45354.html"
+  },
+  {
+    "id": [
+      "SCPS-45356",
+      "SCPS-45357"
+    ],
+    "title": "R4 - RIDGE RACER TYPE 4",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/R/SCPS-45356.html"
   },
   {
     "id": [
@@ -29404,6 +29592,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/R/SLPS-00026.html"
+  },
+  {
+    "id": "SLPM-88503",
+    "title": "RAYMAN RUSH",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/J/R/SLPM-88503.html"
   },
   {
     "id": "SLPS-00678",
@@ -30812,6 +31009,15 @@
     "link": "https://psxdatacenter.com/games/J/S/SLPS-03482.html"
   },
   {
+    "id": "SLPS-03461",
+    "title": "SAIKYOU GINSEI MAHJONG",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03461.html"
+  },
+  {
     "id": "SLPS-01679",
     "title": "SAIKYOU TODAI SHOGI",
     "discs": 1,
@@ -30848,24 +31054,31 @@
     "link": "https://psxdatacenter.com/games/J/S/SLPS-03230.html"
   },
   {
-    "id": "SLPS-03461",
-    "title": "Saikyou Ginsei Mahjong",
-    "discs": 1
-  },
-  {
     "id": "SLPS-01321",
-    "title": "Saikyou no Go - The Strongest Game of Go",
-    "discs": 1
+    "title": "SAIKYOU NO IGO - THE STRONGEST GAME OF GO",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-01321.html"
   },
   {
     "id": "SLPM-86731",
-    "title": "Saikyou no Go - The Strongest Game of Go [Reprint]",
-    "discs": 1
+    "title": "SAIKYOU NO IGO - THE STRONGEST GAME OF GO [REPRINT]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86731.html"
   },
   {
     "id": "SLPS-01978",
-    "title": "Saikyou no Shogi",
-    "discs": 1
+    "title": "SAIKYOU NO SHOGI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-01978.html"
   },
   {
     "id": "SLPS-01257",
@@ -31446,13 +31659,21 @@
   },
   {
     "id": "SLPS-02988",
-    "title": "Sanyo Pachinko Paradise 4",
-    "discs": 1
+    "title": "SANYO PACHINKO PARADISE 4 - SUSHIYA DA GEN-SAN!!",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-02988.html"
   },
   {
     "id": "SLPS-03190",
-    "title": "Sanyo Pachinko Paradise 5",
-    "discs": 1
+    "title": "SANYO PACHINKO PARADISE 5 - UKIUKI TAIRYOUBATA",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03190.html"
   },
   {
     "id": "SLPS-03312",
@@ -31874,13 +32095,21 @@
   },
   {
     "id": "SLPS-03563",
-    "title": "Sekai Saikyou Ginsei Igo 3",
-    "discs": 1
+    "title": "SEKAI SAIKYOU GINSEI IGO 3",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03563.html"
   },
   {
     "id": "SLPS-03326",
-    "title": "Sekai Saikyou Ginsei Shogi",
-    "discs": 1
+    "title": "SEKAI SAIKYOU GINSEI SHOGI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03326.html"
   },
   {
     "id": "SLPS-03481",
@@ -31961,8 +32190,12 @@
   },
   {
     "id": "SLPS-00142",
-    "title": "Senryaku Shogi",
-    "discs": 1
+    "title": "SENRYAKU SHOUGI",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-00142.html"
   },
   {
     "id": "SLPS-03184",
@@ -32248,8 +32481,12 @@
   },
   {
     "id": "SLPM-86530",
-    "title": "Shichidashiki Unou de Adventure - Katachi 123 2Sai - 4Sai Muke",
-    "discs": 1
+    "title": "SHICHIDASHIKI UNOU DE ADVENTURE - KATACHI 123 2SAI - 4SAI MUKE",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86530.html"
   },
   {
     "id": "SLPM-86532",
@@ -32258,13 +32495,21 @@
   },
   {
     "id": "SLPM-86527",
-    "title": "Shichidashiki Unou de Adventure - Kotoba ABC 0Sai - 2Sai Muke",
-    "discs": 1
+    "title": "SHICHIDASHIKI UNOU DE ASOVENTURE - KOTOBA ABC 0-2SAI MUKE",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86527.html"
   },
   {
     "id": "SLPM-86529",
-    "title": "Shichidashiki Unou de Adventure - Kotoba ABC 2Sai - 4Sai Muke",
-    "discs": 1
+    "title": "SHICHIDASHIKI UNOU DE ASOVENTURE - KOTOBA ABC 2-4SAI MUKE",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86529.html"
   },
   {
     "id": "SLPM-86532",
@@ -32668,11 +32913,6 @@
     "discs": 1
   },
   {
-    "id": "SLPM-86467",
-    "title": "Shinzui Go Sennin 2",
-    "discs": 1
-  },
-  {
     "id": "SLPM-86680",
     "title": "SHIRITSU HOUOU GAKUEN 1-NEN JUNAI GUMI",
     "discs": 1,
@@ -32778,28 +33018,48 @@
   },
   {
     "id": "SLPS-00139",
-    "title": "Shogi Joryuu Meijin Kurai Ikusa",
-    "discs": 1
+    "title": "SHOUGI JORYUU MEIJINI-SEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-00139.html"
   },
   {
     "id": "SLPM-86069",
-    "title": "Shogi Saikyou 2",
-    "discs": 1
+    "title": "SHOUGI SAIKYOU 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86069.html"
   },
   {
     "id": "SLPS-03083",
-    "title": "Shogi Saikyou 2 [Magical 1500]",
-    "discs": 1
+    "title": "SHOUGI SAIKYOU 2 [MAGICAL 1500]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03083.html"
   },
   {
     "id": "SLPS-01976",
-    "title": "Shogi Saikyou Pro Nimanabu",
-    "discs": 1
+    "title": "SHOUGI SAIKYOU - PRO NI MANABU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-01976.html"
   },
   {
     "id": "SLPS-03081",
-    "title": "Shogi Saikyou Pro Nimanabu [Magical 1500]",
-    "discs": 1
+    "title": "SHOUGI SAIKYOU - PRO NI MANABU [MAGICAL 1500]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03081.html"
   },
   {
     "id": "SLPS-00253",
@@ -32809,11 +33069,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/S/SLPS-00253.html"
-  },
-  {
-    "id": "SLPS-02830",
-    "title": "Shovel Master Ninarou! Kenki Ippatsu!",
-    "discs": 1
   },
   {
     "id": "SLPS-01202",
@@ -34800,18 +35055,30 @@
   },
   {
     "id": "SLPS-03394",
-    "title": "Slot! Pro 4 - Tairyou Special",
-    "discs": 1
+    "title": "SLOT! PRO 4 - TAIRYOU SPECIAL",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03394.html"
   },
   {
     "id": "SLPS-03439",
-    "title": "Slot! Pro 5",
-    "discs": 1
+    "title": "SLOT! PRO 5 - NANIWA SAKURA FUBUKI & SHIMAUTA",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03439.html"
   },
   {
     "id": "SLPS-03469",
-    "title": "Slot! Pro 6",
-    "discs": 1
+    "title": "SLOT! PRO 6 - HYPER JUGGLER V",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03469.html"
   },
   {
     "id": "SLPS-03485",
@@ -34901,8 +35168,12 @@
   },
   {
     "id": "SLPS-03520",
-    "title": "Slotter Mania 8",
-    "discs": 1
+    "title": "SLOTTER MANIA 8",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPS-03520.html"
   },
   {
     "id": "SLPS-03533",
@@ -35497,6 +35768,19 @@
     "link": "https://psxdatacenter.com/games/J/S/SCPS-10058.html"
   },
   {
+    "id": [
+      "SLPM-86408",
+      "SLPM-86409",
+      "SLPM-86410"
+    ],
+    "title": "SOUTHERN ALL STARS - SPACE MOSA - SPACE MUSEUM OF SOUTHERN ART",
+    "discs": 3,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86408.html"
+  },
+  {
     "id": "SLPS-00735",
     "title": "SOVIET STRIKE",
     "discs": 1,
@@ -35647,11 +35931,6 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/S/SLPS-00697.html"
-  },
-  {
-    "id": "SLPM-86408",
-    "title": "Space Mosa - Space Museum of Southern Art",
-    "discs": 1
   },
   {
     "id": "SLPS-01400",
@@ -36430,6 +36709,15 @@
     "link": "https://psxdatacenter.com/games/J/S/SLPS-00407.html"
   },
   {
+    "id": "SLKA-02001",
+    "title": "STRIKERS 1945 II",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLKA-02001.html"
+  },
+  {
     "id": "SLPS-01637",
     "title": "STRIKERS 1945 II",
     "discs": 1,
@@ -37134,8 +37422,12 @@
   },
   {
     "id": "SLPM-86796",
-    "title": "Superlite 1500 Series - Crossword 3",
-    "discs": 1
+    "title": "SUPERLITE 1500 SERIES - CROSSWORD 3",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86796.html"
   },
   {
     "id": "SLPM-86319",
@@ -37159,6 +37451,15 @@
     "id": "SLPM-86832",
     "title": "Superlite 1500 Series - Kaiteiban Mark Yagazaki no Seiyou Senseijutsu",
     "discs": 1
+  },
+  {
+    "id": "SLPM-86320",
+    "title": "SUPERLITE 1500 SERIES - KAETTEKITA PACHIOKUN - DREAM COLLECTION",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86320.html"
   },
   {
     "id": "SLPM-87161",
@@ -37333,13 +37634,21 @@
   },
   {
     "id": "SLPM-86954",
-    "title": "Superlite 3 in 1 - Crossword Syuu",
-    "discs": 1
+    "title": "SUPERLITE 3 IN 1 - CROSSWORD SYUU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86954.html"
   },
   {
     "id": "SLPM-86957",
-    "title": "Superlite 3 in 1 - Nankuro Syuu",
-    "discs": 1
+    "title": "SUPERLITE 3 IN 1 - NANKURO SYUU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86957.html"
   },
   {
     "id": "SLPM-86955",
@@ -37376,6 +37685,60 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/S/SLPM-86981.html"
+  },
+  {
+    "id": "SLPM-86799",
+    "title": "SUPERLITE GOLD SERIES - MINNA NO MAHJONG",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86799.html"
+  },
+  {
+    "id": "SLPM-86919",
+    "title": "SUPERLITE GOLD SERIES - MINNA NO OTHELLO",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86919.html"
+  },
+  {
+    "id": "SLPM-87009",
+    "title": "SUPERLITE GOLD SERIES - MINNA NO SHOUGI - CHUUKYUU HEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-87009.html"
+  },
+  {
+    "id": "SLPM-87010",
+    "title": "SUPERLITE GOLD SERIES - MINNA NO SHOUGI - JOUKYUU HEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-87010.html"
+  },
+  {
+    "id": "SLPM-86920",
+    "title": "SUPERLITE GOLD SERIES - MINNA NO SHOUGI - SHOKYUU HEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86920.html"
+  },
+  {
+    "id": "SLPM-86819",
+    "title": "SUPERLITE GOLD SERIES - OTENAMI HAIKEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/S/SLPM-86819.html"
   },
   {
     "id": "SLPS-01737",
@@ -37614,6 +37977,24 @@
     "link": "https://psxdatacenter.com/games/J/T/SLPM-86608.html"
   },
   {
+    "id": "SLPS-01131",
+    "title": "TAIKYOKU IGO - HEISEI KIIN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-01131.html"
+  },
+  {
+    "id": "SLPM-86467",
+    "title": "TAIKYOKU IGO - SHINZUI GOSENNIN - NIGOU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPM-86467.html"
+  },
+  {
     "id": "SLPS-01299",
     "title": "TAIL CONCERTO",
     "discs": 1,
@@ -37687,8 +38068,12 @@
   },
   {
     "id": "SLPS-00362",
-    "title": "Takeo Oshima - Mahjong Teiou",
-    "discs": 1
+    "title": "TAKEO OSHIMA MAHJONG TEIOU",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-00362.html"
   },
   {
     "id": "SLPS-00593",
@@ -38155,6 +38540,15 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/T/SLPS-91055.html"
+  },
+  {
+    "id": "SCPS-45213",
+    "title": "TEKKEN 3",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SCPS-45213.html"
   },
   {
     "id": "SCPS-45215",
@@ -39257,8 +39651,12 @@
   },
   {
     "id": "SLPS-02507",
-    "title": "The Next Tetris - Deluxe DLX",
-    "discs": 1
+    "title": "THE NEXT TETRIS DLX",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-02507.html"
   },
   {
     "id": "SLPS-00089",
@@ -39307,18 +39705,30 @@
   },
   {
     "id": "SLPM-86139",
-    "title": "The Pro Mahjong - Menkyo Minnaten",
-    "discs": 1
+    "title": "THE PRO MAHJONG - MENKYO KAIDEN",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPM-86139.html"
   },
   {
     "id": "SLPS-02632",
-    "title": "The Pro Mahjong - Menkyo Minnaten [Reprint]",
-    "discs": 1
+    "title": "THE PRO MAHJONG - MENKYO KAIDEN [REPRINT]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-02632.html"
   },
   {
     "id": "SLPS-03104",
-    "title": "The Pro Mahjong - Menkyo Minnaten [Reprint]",
-    "discs": 1
+    "title": "THE PRO MAHJONG - MENKYO KAIDEN [REPRINT]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-03104.html"
   },
   {
     "id": "SLPS-01553",
@@ -39457,13 +39867,21 @@
   },
   {
     "id": "SLPS-03109",
-    "title": "The Shinri Game 9 - The Psychological Game 9",
-    "discs": 1
+    "title": "THE SHINRI GAME 9",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-03109.html"
   },
   {
     "id": "SLPS-03174",
-    "title": "The Shinri Game 10 - The Psychological Game 10",
-    "discs": 1
+    "title": "THE SHINRI GAME 10",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SLPS-03174.html"
   },
   {
     "id": "SLPS-00140",
@@ -40672,6 +41090,19 @@
       "jp"
     ],
     "link": "https://psxdatacenter.com/games/J/T/SLPS-91434.html"
+  },
+  {
+    "id": [
+      "SCPS-45385",
+      "SCPS-45386"
+    ],
+    "title": "TOMB RAIDER III - ADVENTURES OF LARA CROFT",
+    "discs": 2,
+    "languages": [
+      "jp",
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/J/T/SCPS-45385.html"
   },
   {
     "id": [
@@ -43002,8 +43433,12 @@
   },
   {
     "id": "SLPM-86548",
-    "title": "Winning Lure",
-    "discs": 1
+    "title": "WINNING LURE [FISHING ROD SERIES]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ],
+    "link": "https://psxdatacenter.com/games/J/W/SLPM-86548.html"
   },
   {
     "id": "SLPS-00293",

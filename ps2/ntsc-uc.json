@@ -1,8 +1,11 @@
 [
   {
-    "id": "SLUS-21258",
-    "title": ".Hack - G.U. Vol.1 - Rebirth",
-    "discs": 1
+    "id": [
+      "SLUS-21258",
+      "SLUS-21480"
+    ],
+    "title": ".Hack - G.U. Vol.1 - Rebirth + Terminal Disc",
+    "discs": 2
   },
   {
     "id": "SLUS-21488",
@@ -53,8 +56,12 @@
   },
   {
     "id": "SLUS-20265",
-    "title": "007 - Agent Under Fire",
-    "discs": 1
+    "title": "007 - AGENT UNDER FIRE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20265.html"
   },
   {
     "id": "SLUS-20751",
@@ -85,8 +92,12 @@
   },
   {
     "id": "SLUS-20579",
-    "title": "007 - NightFire",
-    "discs": 1
+    "title": "007 - NIGHTFIRE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20579.html"
   },
   {
     "id": "SLUS-21813",
@@ -96,6 +107,16 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21813.html"
+  },
+  {
+    "id": "SLUS-20091",
+    "title": "4x4 Evolution",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21693",
+    "title": "7 Wonders of the Ancient World",
+    "discs": 1
   },
   {
     "id": "SLUS-20210",
@@ -127,21 +148,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21016.html"
   },
   {
-    "id": "SLUS-21116",
-    "title": "187 - Ride or Die",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "es"
-    ]
-  },
-  {
-    "id": "SLUS-20091",
-    "title": "4x4 Evolution",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21315",
     "title": "50 CENT BULLETPROOF",
     "discs": 1,
@@ -151,9 +157,24 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21315.html"
   },
   {
-    "id": "SLUS-21693",
-    "title": "7 Wonders of the Ancient World",
-    "discs": 1
+    "id": "SLUS-21116",
+    "title": "187 - RIDE OR DIE",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21116.html"
+  },
+  {
+    "id": "SLUS-20404",
+    "title": "2002 Fifa World Cup",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20152",
@@ -166,12 +187,12 @@
   },
   {
     "id": "SLUS-20851",
-    "title": "Ace Combat 5 - The Unsung War",
+    "title": "ACE COMBAT 5 - THE UNSUNG WAR",
     "discs": 1,
     "languages": [
-      "en",
-      "jp"
-    ]
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20851.html"
   },
   {
     "id": "SLUS-21346",
@@ -185,8 +206,12 @@
   },
   {
     "id": "SLUS-21205",
-    "title": "Aeon Flux",
-    "discs": 1
+    "title": "AEON FLUX",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21205.html"
   },
   {
     "id": "SLUS-20614",
@@ -208,9 +233,13 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20327.html"
   },
   {
-    "id": "SLUS-20703",
-    "title": "Air Force - Delta Strike",
-    "discs": 1
+    "id": "SLUS-20346",
+    "title": "AIRFORCE DELTA STRIKE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20703.html"
   },
   {
     "id": "SLUS-20346",
@@ -229,6 +258,11 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21125.html"
+  },
+  {
+    "id": "SLUS-21321",
+    "title": "Alfa Romeo Racing Italiano",
+    "discs": 1
   },
   {
     "id": "SLUS-20673",
@@ -261,7 +295,7 @@
   },
   {
     "id": "SLUS-20569",
-    "title": "All-Star Baseball 2002",
+    "title": "All-Star Baseball 2004",
     "discs": 1
   },
   {
@@ -301,11 +335,6 @@
   {
     "id": "SLUS-20816",
     "title": "American Idol",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21188",
-    "title": "America's Army - Rise of a Soldier",
     "discs": 1
   },
   {
@@ -353,8 +382,12 @@
   },
   {
     "id": "SCUS-97501",
-    "title": "Ape Escape 3",
-    "discs": 1
+    "title": "APE ESCAPE 3",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97501.html"
   },
   {
     "id": "SLUS-20162",
@@ -400,8 +433,12 @@
   },
   {
     "id": "SLUS-21720",
-    "title": "Arcana Heart",
-    "discs": 1
+    "title": "ARCANA HEART",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21720.html"
   },
   {
     "id": "SLUS-20217",
@@ -488,7 +525,7 @@
   },
   {
     "id": "SLUS-20206",
-    "title": "Army Men - RTS",
+    "title": "Army Men - RTS - Real Time Strategy",
     "discs": 1
   },
   {
@@ -519,13 +556,14 @@
   },
   {
     "id": "SLUS-21305",
-    "title": "Arthur and the Invisibles",
+    "title": "ARTHUR AND THE INVISIBLES - THE GAME",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21305.html"
   },
   {
     "id": "SLUS-20866",
@@ -675,18 +713,13 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21403",
-    "title": "Backyard Baseball '07",
+    "id": "SLUS-21751",
+    "title": "Backyard Baseball '09",
     "discs": 1
   },
   {
     "id": "SLUS-21884",
-    "title": "Backyard Baseball 2010",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21485",
-    "title": "Backyard Baskeball '07",
+    "title": "Backyard Baseball '10",
     "discs": 1
   },
   {
@@ -696,17 +729,32 @@
   },
   {
     "id": "SLUS-21670",
-    "title": "Backyard Football 2008",
+    "title": "Backyard Football '08",
     "discs": 1
   },
   {
     "id": "SLUS-21809",
-    "title": "Backyard Football 2009",
+    "title": "Backyard Football '09",
     "discs": 1
   },
   {
     "id": "SLUS-21919",
-    "title": "Backyard Football 2010",
+    "title": "Backyard Football '10",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20704",
+    "title": "Backyard NBA Basketball",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21403",
+    "title": "Backyard Sports Baseball 2007",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21485",
+    "title": "Backyard Sports NBA Basketball 2007",
     "discs": 1
   },
   {
@@ -721,7 +769,7 @@
   },
   {
     "id": "SLUS-20982",
-    "title": "Bad Boys 2",
+    "title": "Bad Boys - Miami Takedown",
     "discs": 1
   },
   {
@@ -736,7 +784,7 @@
   },
   {
     "id": "SLUS-20675",
-    "title": "Baldur's Gate - Dark Alliance 2",
+    "title": "Baldur's Gate - Dark Alliance II",
     "discs": 1
   },
   {
@@ -765,7 +813,11 @@
   {
     "id": "SLUS-21806",
     "title": "Barbie Horse Adventures - Riding Camp",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20664",
@@ -785,11 +837,6 @@
   {
     "id": "SLUS-21714",
     "title": "Baroque",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20339",
-    "title": "Bass Fishing Duel",
     "discs": 1
   },
   {
@@ -833,8 +880,12 @@
   },
   {
     "id": "SLUS-21026",
-    "title": "Battlefield 2 - Mordern Combat",
-    "discs": 1
+    "title": "BATTLEFIELD 2 - MODERN COMBAT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21026.html"
   },
   {
     "id": "SLUS-20421",
@@ -913,7 +964,11 @@
   {
     "id": "SLUS-21711",
     "title": "Biathlon 2008",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21440",
@@ -965,7 +1020,7 @@
   },
   {
     "id": "SLUS-20360",
-    "title": "Blade 2",
+    "title": "Blade II",
     "discs": 1
   },
   {
@@ -975,7 +1030,7 @@
   },
   {
     "id": "SLUS-20782",
-    "title": "Biood Will Tell",
+    "title": "Biood Will Tell - Osamu Tezuka's Dororo",
     "discs": 1
   },
   {
@@ -1010,7 +1065,11 @@
   {
     "id": "SLUS-20415",
     "title": "BMX XXX",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20415.html"
   },
   {
     "id": "SLUS-21381",
@@ -1028,11 +1087,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20606",
-    "title": "Bounty Hunter - Seek & Destroy",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21470",
     "title": "Bratz - Forever Diamonds",
     "discs": 1
@@ -1040,7 +1094,11 @@
   {
     "id": "SLUS-21791",
     "title": "Bratz - Girls Really Rock",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21225",
@@ -1117,8 +1175,12 @@
   },
   {
     "id": "SLUS-20895",
-    "title": "Bujingai - The Forsaken City",
-    "discs": 1
+    "title": "BUJINGAI - THE FORSAKEN CITY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20895.html"
   },
   {
     "id": "SLUS-21269",
@@ -1202,22 +1264,34 @@
   {
     "id": "SCUS-97633",
     "title": "Buzz! The Hollywood Quiz",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SCUS-97594",
     "title": "Buzz! The Hollywood Quiz (With Buzzers)",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SCUS-97601",
     "title": "Buzz! The Mega Quiz",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SCUS-97592",
     "title": "Buzz! The Mega Quiz (With Buzzers)",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-21379",
@@ -1241,7 +1315,7 @@
   },
   {
     "id": "SLUS-21625",
-    "title": "Cabela's Big Game Hunter III",
+    "title": "Cabela's Big Game Hunter 2008",
     "discs": 1
   },
   {
@@ -1252,6 +1326,11 @@
   {
     "id": "SLUS-21350",
     "title": "Cabela's Dangerous Hunts 2",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21841",
+    "title": "Cabela's Dangerous Hunts 2009",
     "discs": 1
   },
   {
@@ -1275,8 +1354,18 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21935",
+    "title": "Cabela's North American Adventures",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21192",
     "title": "Cabela's  Outdoor Adventures 2006",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21906",
+    "title": "Cabela's  Outdoor Adventures 2010",
     "discs": 1
   },
   {
@@ -1285,9 +1374,18 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20725",
-    "title": "Call of Duty - Finest Hour",
+    "id": "SLUS-21764",
+    "title": "Cake Mania - Baker's Challenge",
     "discs": 1
+  },
+  {
+    "id": "SLUS-20725",
+    "title": "CALL OF DUTY - FINEST HOUR",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20725.html"
   },
   {
     "id": "SLUS-21746",
@@ -1483,12 +1581,22 @@
   {
     "id": "SLUS-21663",
     "title": "Cocoto - Fishing Master",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21743",
     "title": "Code Lyoko - Quest for Infinity",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21155",
@@ -1526,6 +1634,11 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21463",
+    "title": "College Hoops 2K7",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21673",
     "title": "College Hoops 2K8",
     "discs": 1
@@ -1533,6 +1646,11 @@
   {
     "id": "SLUS-21179",
     "title": "Colloseum - Road to Freedom",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20715",
+    "title": "Combat Elite - WWII Paratroopers",
     "discs": 1
   },
   {
@@ -1634,11 +1752,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21499.html"
   },
   {
-    "id": "SLUS-20699",
-    "title": "Cowboy Bebop",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21013",
     "title": "Crash 'N' Burn",
     "discs": 1
@@ -1691,8 +1804,13 @@
   },
   {
     "id": "SLUS-21634",
-    "title": "Crazy Frog Racer",
-    "discs": 1
+    "title": "Crazy Frog Arcade Racer",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20202",
@@ -1715,8 +1833,12 @@
   },
   {
     "id": "SLUS-20523",
-    "title": "Crouching Tiger Hidden Dragon",
-    "discs": 1
+    "title": "CROUCHING TIGER, HIDDEN DRAGON",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20523.html"
   },
   {
     "id": "SLUS-21655",
@@ -1731,7 +1853,7 @@
   },
   {
     "id": "SLUS-20547",
-    "title": "Cubix Showdown",
+    "title": "Cubix Robots for Everyone - Showdown",
     "discs": 1
   },
   {
@@ -1766,11 +1888,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20674.html"
   },
   {
-    "id": "SLUS-21181",
-    "title": "D.I.C.E.",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21416",
     "title": "D1 PROFESSIONAL DRIFT GRAND PRIX SERIES",
     "discs": 1,
@@ -1786,27 +1903,17 @@
   },
   {
     "id": "SLUS-21609",
-    "title": "Dance Dance Revolution Disney Channel",
+    "title": "Dance Dance Revolution - Disney Channel Edition",
     "discs": 1
   },
   {
     "id": "SLUS-20916",
-    "title": "Dance Dance Revolution Extreme",
+    "title": "Dance Dance Revolution X",
     "discs": 1
   },
   {
     "id": "SLUS-21174",
-    "title": "Dance Dance Revolution Extreme 2",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20437",
-    "title": "Dance Dance Revolution MAX",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20711",
-    "title": "Dance Dance Revolution MAX 2",
+    "title": "Dance Dance Revolution X2",
     "discs": 1
   },
   {
@@ -1831,7 +1938,12 @@
   {
     "id": "SLUS-21917",
     "title": "Dance Dance Revolution X2",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21296",
@@ -1895,17 +2007,28 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21574.html"
   },
   {
+    "id": "SLUS-20437",
+    "title": "DDR MAX - Dance Dance Revolution",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20711",
+    "title": "DDR MAX 2 - Dance Dance Revolution",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20071",
-    "title": "Dead or Alive 2",
+    "title": "DEAD OR ALIVE 2 - HARDCORE",
     "discs": 1,
     "languages": [
       "en",
+      "jp",
       "fr",
       "de",
       "it",
-      "jp",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20071.html"
   },
   {
     "id": "SLUS-20220",
@@ -1932,8 +2055,12 @@
   },
   {
     "id": "SLUS-21004",
-    "title": "Def Jam - Fight for NY",
-    "discs": 1
+    "title": "DEF JAM - FIGHT FOR NY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21004.html"
   },
   {
     "id": "SLUS-20639",
@@ -1960,7 +2087,7 @@
   },
   {
     "id": "SLUS-21414",
-    "title": "Delta Force - Team Sabre",
+    "title": "Delta Force - Black Hawk Down - Team Sabre",
     "discs": 1
   },
   {
@@ -2004,8 +2131,12 @@
   },
   {
     "id": "SLUS-21297",
-    "title": "Devil Kings",
-    "discs": 1
+    "title": "DEVIL KINGS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21297.html"
   },
   {
     "id": "SLUS-20216",
@@ -2048,6 +2179,11 @@
     ]
   },
   {
+    "id": "SLUS-21181",
+    "title": "DICE - DNA Integrated Cybernetic Enterprises",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21067",
     "title": "DIGIMON RUMBLE ARENA 2",
     "discs": 1,
@@ -2063,7 +2199,16 @@
   },
   {
     "id": "SLUS-20836",
-    "title": "Digimon World 4",
+    "title": "DIGIMON WORLD 4",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20836.html"
+  },
+  {
+    "id": "SLUS-20785",
+    "title": "Digital Hitz Factory",
     "discs": 1
   },
   {
@@ -2103,6 +2248,40 @@
     ]
   },
   {
+    "id": "SLUS-20532",
+    "title": "DISNEY GOLF",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20532.html"
+  },
+  {
+    "id": "SLUS-21750",
+    "title": "Disney Hannah Montana - Spotlight World Tour",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21599",
+    "title": "Disney High School Musical - Sing It!",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21819",
+    "title": "Disney High School Musical 3 - Senior Year DANCE!",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21545",
+    "title": "Disney Pirates of the Caribbean - At World's End",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21110",
+    "title": "Disney Pirates of the Caribbean - The Legend of Jack Sparrow",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21660",
     "title": "Disney Princess - Enchanted Journey",
     "discs": 1
@@ -2125,7 +2304,11 @@
   {
     "id": "SLUS-21844",
     "title": "Disney's Bolt",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21088",
@@ -2143,7 +2326,7 @@
   },
   {
     "id": "SLUS-20077",
-    "title": "Disney's Donald Duck Goin' Quackers",
+    "title": "Disney's Donald Duck - Goin' Quackers",
     "discs": 1
   },
   {
@@ -2158,21 +2341,11 @@
   {
     "id": "SLUS-21891",
     "title": "Disney's G-Force",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20532",
-    "title": "DISNEY'S GOLF",
     "discs": 1,
     "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20532.html"
-  },
-  {
-    "id": "SLUS-20075",
-    "title": "Disney's Jungle Book - Rhythm & Groove",
-    "discs": 1
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21437",
@@ -2206,7 +2379,10 @@
     "title": "DISNEY'S PK - OUT OF THE SHADOWS",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "de",
+      "it"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20478.html"
   },
@@ -2256,7 +2432,12 @@
   {
     "id": "SLUS-21084",
     "title": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21151",
@@ -2348,7 +2529,11 @@
   {
     "id": "SLUS-21864",
     "title": "Disney-Pixar's Up",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21736",
@@ -2360,6 +2545,14 @@
       "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21736.html"
+  },
+  {
+    "id": "SLUS-21909",
+    "title": "DJ Hero (Bundled with DJ Turntable Controller)",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-21018",
@@ -2381,13 +2574,23 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21796.html"
   },
   {
+    "id": "SLUS-21944",
+    "title": "Dora the Explorer- Dora's Big Birthday Adventure",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21923",
+    "title": "Dora the Explorer- Dora Saves the Crystal Kingdom",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21717",
     "title": "Dora the Explorer - Dora Saves the Mermaids",
     "discs": 1
   },
   {
     "id": "SLUS-21173",
-    "title": "Dora the Explorer - To The Purple Planet",
+    "title": "Dora the Explorer- Journey to the Purple Planet",
     "discs": 1
   },
   {
@@ -2423,20 +2626,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20797.html"
   },
   {
-    "id": "SLUS-21207",
-    "title": "DRAGON QUEST VIII - JOURNEY OF THE CURSED KING",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21207.html"
-  },
-  {
-    "id": "SLUS-20195",
-    "title": "Dragon Rage",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20591",
     "title": "DRAGON BALL Z - BUDOKAI",
     "discs": 1,
@@ -2447,8 +2636,12 @@
   },
   {
     "id": "SLUS-20779",
-    "title": "Dragon Ball Z - Budokai 2",
-    "discs": 1
+    "title": "DRAGON BALL Z - BUDOKAI 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20779.html"
   },
   {
     "id": "SLUS-20998",
@@ -2495,6 +2688,20 @@
   {
     "id": "SLUS-20874",
     "title": "Dragon Ball Z - Sagas",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21207",
+    "title": "DRAGON QUEST VIII - JOURNEY OF THE CURSED KING",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21207.html"
+  },
+  {
+    "id": "SLUS-20195",
+    "title": "Dragon Rage",
     "discs": 1
   },
   {
@@ -2603,8 +2810,12 @@
   },
   {
     "id": "SLUS-21484",
-    "title": "Dreamworks & Aardman Flushed Away",
-    "discs": 1
+    "title": "DREAMWORKS' FLUSHED AWAY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21484.html"
   },
   {
     "id": "SLUS-21109",
@@ -2618,17 +2829,34 @@
   {
     "id": "SLUS-20239",
     "title": "Driven",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21271",
     "title": "Driver - Parallel Lines",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21399",
-    "title": "Driver - Parallel Lines (Limited Edition9",
-    "discs": 1
+    "title": "Driver - Parallel Lines (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20587",
@@ -2642,8 +2870,12 @@
   },
   {
     "id": "SLUS-20113",
-    "title": "Driving Emotion Type S",
-    "discs": 1
+    "title": "DRIVING EMOTION TYPE-S",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20113.html"
   },
   {
     "id": "SLUS-20577",
@@ -2667,8 +2899,12 @@
   },
   {
     "id": "SLUS-20475",
-    "title": "Dual Hearts",
-    "discs": 1
+    "title": "DUAL HEARTS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20475.html"
   },
   {
     "id": "SLUS-20924",
@@ -2767,6 +3003,26 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20262.html"
   },
   {
+    "id": "SLUS-21368",
+    "title": "EA Sports Rugby '06",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21640",
+    "title": "EA Sports Rugby '08",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20749",
+    "title": "EA Sports Rugby 2004",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21158",
+    "title": "EA Sports Rugby 2005",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21486",
     "title": "EAGLE EYE GOLF",
     "discs": 1,
@@ -2796,7 +3052,11 @@
   {
     "id": "SLUS-21260",
     "title": "Ed, Edd, 'n Eddy - The Mis-Edventures",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20452",
@@ -2805,7 +3065,7 @@
   },
   {
     "id": "SLUS-20525",
-    "title": "Ejay Club World",
+    "title": "Ejay Club World - The Music Making Experience",
     "discs": 1
   },
   {
@@ -2846,11 +3106,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20169.html"
   },
   {
-    "id": "SLUS-21401",
-    "title": "Equestriad",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21322",
     "title": "ERAGON",
     "discs": 1,
@@ -2858,11 +3113,6 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21322.html"
-  },
-  {
-    "id": "SCUA-97530",
-    "title": "ESA Foundation Compilatin Set",
-    "discs": 1
   },
   {
     "id": "SLUS-20181",
@@ -2903,77 +3153,77 @@
   },
   {
     "id": "SLUS-20794",
-    "title": "ESPN - Major League Baseball",
+    "title": "ESPN Major League Baseball",
     "discs": 1
   },
   {
     "id": "SLUS-20128",
-    "title": "ESPN - MLS Extra Time",
+    "title": "ESPN MLS Extra Time",
     "discs": 1
   },
   {
     "id": "SLUS-20166",
-    "title": "ESPN - National Hockey Night",
+    "title": "ESPN National Hockey Night",
     "discs": 1
   },
   {
     "id": "SLUS-20143",
-    "title": "ESPN - NBA 2 Night",
+    "title": "ESPN NBA 2 Night",
     "discs": 1
   },
   {
     "id": "SLUS-20261",
-    "title": "ESPN - NBA 2 Night 2002",
+    "title": "ESPN NBA 2 Night 2002",
     "discs": 1
   },
   {
     "id": "SLUS-20920",
-    "title": "ESPN - NBA 2k5t",
+    "title": "ESPN NBA 2K5",
     "discs": 1
   },
   {
     "id": "SLUS-20726",
-    "title": "ESPN - NBA Basketball",
+    "title": "ESPN NBA Basketball",
     "discs": 1
   },
   {
     "id": "SLUS-20919",
-    "title": "ESPN - NFL 2K5",
+    "title": "ESPN NFL 2K5",
     "discs": 1
   },
   {
     "id": "SLUS-20727",
-    "title": "ESPN - NFL Football",
+    "title": "ESPN NFL Football",
     "discs": 1
   },
   {
     "id": "SLUS-20308",
-    "title": "ESPN - NFL Prime Time 2002",
+    "title": "ESPN NFL Prime Time 2002",
     "discs": 1
   },
   {
     "id": "SLUS-20921",
-    "title": "ESPN - NHL 2K5",
+    "title": "ESPN NHL 2K5",
     "discs": 1
   },
   {
     "id": "SLUS-20728",
-    "title": "ESPN - NHL Hockey",
+    "title": "ESPN NHL Hockey",
     "discs": 1
   },
   {
     "id": "SLUS-20089",
-    "title": "ESPN - Winter X Games - Snowboarding",
+    "title": "ESPN Winter X Games - Snowboarding",
     "discs": 1
   },
   {
     "id": "SLUS-20321",
-    "title": "ESPN - Winter X Games - Snowboarding 2002",
+    "title": "ESPN Winter X Games - Snowboarding 2002",
     "discs": 1
   },
   {
     "id": "SLUS-20237",
-    "title": "ESPN - X Games Skateboarding",
+    "title": "ESPN X Games Skateboarding",
     "discs": 1
   },
   {
@@ -3039,8 +3289,12 @@
   },
   {
     "id": "SLUS-21048",
-    "title": "Evil Dead - Regeneration",
-    "discs": 1
+    "title": "EVIL DEAD - REGENERATION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21048.html"
   },
   {
     "id": "SLUS-20540",
@@ -3055,16 +3309,6 @@
   {
     "id": "SCUS-97112",
     "title": "Extermination",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20302",
-    "title": "Extreme-G Racing - XG3",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20632",
-    "title": "Extreme-G Racing Association - XGRA",
     "discs": 1
   },
   {
@@ -3113,34 +3357,52 @@
     "discs": 1
   },
   {
-    "id": "SCUS-97498",
-    "title": "EyeToy - Play 3",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20103",
-    "title": "F-1 2000 Championship Edition",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20264",
-    "title": "F-1 2001",
-    "discs": 1
+    "title": "F1 2001",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20455",
-    "title": "F-1 2002",
-    "discs": 1
+    "title": "F1 2002",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de"
+    ]
   },
   {
     "id": "SLUS-20693",
-    "title": "F-1 Career Challenge",
+    "title": "F1 Career Challenge",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de"
+    ]
+  },
+  {
+    "id": "SLUS-20103",
+    "title": "F1 Championship Season 2000",
     "discs": 1
   },
   {
     "id": "SLUS-21734",
     "title": "Falling Stars",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "ru",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20539",
@@ -3154,7 +3416,10 @@
   {
     "id": "SLUS-21446",
     "title": "Family Feud",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-21560",
@@ -3203,13 +3468,21 @@
   },
   {
     "id": "SLUS-20766",
-    "title": "Fatal Frame 2 - Crimson Butterfly",
-    "discs": 1
+    "title": "FATAL FRAME II - CRIMSON BUTTERFLY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20766.html"
   },
   {
     "id": "SLUS-21244",
-    "title": "Fatal Frame 3 - The Tormented",
-    "discs": 1
+    "title": "FATAL FRAME III - THE TORMENTED",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21244.html"
   },
   {
     "id": "SLUS-21537",
@@ -3223,7 +3496,7 @@
   },
   {
     "id": "SLUS-21780",
-    "title": "Ferrari Challenge",
+    "title": "Ferrari Challenge - Trofeo Pirelli",
     "discs": 1
   },
   {
@@ -3237,25 +3510,12 @@
   },
   {
     "id": "SLUS-21280",
-    "title": "Fifa '06",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20280",
-    "title": "Fifa 2002",
+    "title": "Fifa Soccer 06",
     "discs": 1,
     "languages": [
       "en",
-      "nl",
-      "de",
-      "es",
-      "sv"
+      "es"
     ]
-  },
-  {
-    "id": "SLUS-21051",
-    "title": "Fifa 2005",
-    "discs": 1
   },
   {
     "id": "SLUS-21433",
@@ -3269,17 +3529,30 @@
   {
     "id": "SLUS-21648",
     "title": "Fifa Soccer 08",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21776",
     "title": "Fifa Soccer 09",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21905",
     "title": "Fifa Soccer 10",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21941",
@@ -3287,6 +3560,7 @@
     "discs": 1,
     "languages": [
       "en",
+      "fr",
       "es"
     ]
   },
@@ -3300,8 +3574,40 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21947.html"
   },
   {
+    "id": "SLUS-21954",
+    "title": "Fifa Soccer 13",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
+  },
+  {
+    "id": "SLUS-27093",
+    "title": "Fifa Soccer 14",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
+  },
+  {
     "id": "SLUS-20097",
-    "title": "Fifa Soccer 2001",
+    "title": "Fifa 2001",
+    "discs": 1,
+    "languages": [
+      "en",
+      "nl",
+      "de",
+      "es",
+      "sv"
+    ]
+  },
+  {
+    "id": "SLUS-20280",
+    "title": "Fifa Soccer 2002",
     "discs": 1,
     "languages": [
       "en",
@@ -3314,32 +3620,56 @@
   {
     "id": "SLUS-20580",
     "title": "Fifa Soccer 2003",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20750",
     "title": "Fifa Soccer 2004",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
+  },
+  {
+    "id": "SLUS-21051",
+    "title": "Fifa Soccer 2005",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21147",
     "title": "Fifa Street",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21369",
     "title": "Fifa Street 2",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21408",
-    "title": "Fifa World Cup '06",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20404",
-    "title": "Fifa World Cup 2002",
-    "discs": 1
+    "title": "Fifa World Cup - Germany 2006",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20857",
@@ -3404,14 +3734,20 @@
   {
     "id": [
       "SCUS-97266",
-      "SCUS-97269"
+      "SCUS-97269",
+      "SCUS-97395"
     ],
     "title": "Final Fantasy XI",
-    "discs": 2
+    "discs": 3
   },
   {
     "id": "SLUS-21070",
     "title": "Final Fantasy XI - Chains of Promathia",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21704",
+    "title": "Final Fantasy XI - The Vana'diel Collection 2008",
     "discs": 1
   },
   {
@@ -3509,7 +3845,7 @@
   },
   {
     "id": "SLUS-21157",
-    "title": "Flipnic - Ultimate Pinball",
+    "title": "FLIPNIC - ULTIMSTE PINBALL",
     "discs": 1,
     "languages": [
       "en"
@@ -3524,6 +3860,11 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21319.html"
+  },
+  {
+    "id": "SLUS-21290",
+    "title": "Ford Bold Moves Street Racing",
+    "discs": 1
   },
   {
     "id": "SLUS-21162",
@@ -3545,8 +3886,8 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21290",
-    "title": "Ford Street Racing",
+    "id": "SLUS-21696",
+    "title": "Ford Racing - Off Road",
     "discs": 1
   },
   {
@@ -3610,7 +3951,7 @@
   },
   {
     "id": "SLUS-20494",
-    "title": "Freekstyle Metal X",
+    "title": "Freestyle Metal X",
     "discs": 1,
     "languages": [
       "en"
@@ -3665,6 +4006,20 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21145",
+    "title": "FULL SPECTRUM WARRIOR",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21145.html"
+  },
+  {
+    "id": "SLUS-21250",
+    "title": "Full Spectrum Warrior - Ten Hammers",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20994",
     "title": "FULLMETAL ALCHEMIST AND THE BROKEN ANGEL",
     "discs": 1,
@@ -3681,25 +4036,6 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21166.html"
-  },
-  {
-    "id": "SLUS-21145",
-    "title": "FULL SPECTRUM WARRIOR",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21145.html"
-  },
-  {
-    "id": "SLUS-21250",
-    "title": "Full Spectrum Warrior - Ten Hammers",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20785",
-    "title": "Funkmaster Flex - Digital Hitz Factory",
-    "discs": 1
   },
   {
     "id": "SLUS-20088",
@@ -3761,8 +4097,12 @@
   },
   {
     "id": "SLUS-20560",
-    "title": "Galerian -Ash",
-    "discs": 1
+    "title": "GALERIANS - ASH",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20560.html"
   },
   {
     "id": "SLUS-20255",
@@ -3826,8 +4166,12 @@
   },
   {
     "id": "SLUS-21668",
-    "title": "George  of the Jungle",
-    "discs": 1
+    "title": "GEORGE OF THE JUNGLE AND THE SEARCH FOR THE SECRET",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21668.html"
   },
   {
     "id": "SLUS-21036",
@@ -3972,7 +4316,7 @@
   },
   {
     "id": "SLUS-21834",
-    "title": "GOOSEBUMPS HORRORLAND",
+    "title": "GOOSEBUMPS - HORRORLAND",
     "discs": 1,
     "languages": [
       "en"
@@ -4027,19 +4371,23 @@
     "link": "https://psxdatacenter.com/psx2/games2/PBPX-95503.html"
   },
   {
-    "id": "SCUS-97219",
-    "title": "Gran Turismo 3 - A-Spec - Nissan 350Z Edition",
-    "discs": 1
-  },
-  {
     "id": "SCUS-97328",
     "title": "Gran Turismo 4",
     "discs": 1
   },
   {
     "id": "SLUS-20630",
-    "title": "Gran Prix Challenge",
+    "title": "Grand Prix Challenge",
     "discs": 1
+  },
+  {
+    "id": "SLUS-20062",
+    "title": "GRAND THEFT AUTO III",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20062.html"
   },
   {
     "id": "SLUS-27003GH",
@@ -4049,6 +4397,11 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-27003GH.html"
+  },
+  {
+    "id": "SLUS-20946",
+    "title": "Grand Theft Auto - San Andreas",
+    "discs": 1
   },
   {
     "id": "SLUS-21423",
@@ -4072,20 +4425,6 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21590.html"
-  },
-  {
-    "id": "SLUS-20062",
-    "title": "GRAND THEFT AUTO III",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20062.html"
-  },
-  {
-    "id": "SLUS-20946",
-    "title": "Grand Theft Auto - San Andreas",
-    "discs": 1
   },
   {
     "id": "SLUS-20194",
@@ -4118,11 +4457,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20417.html"
   },
   {
-    "id": "SLUS-20466",
-    "title": "Gravenville - Ghost Master",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20310",
     "title": "GRAVITY GAMES BIKE - STREET. VERT. DIRT.",
     "discs": 1,
@@ -4151,14 +4485,10 @@
     "title": "GRIMGRIMOIRE",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "jp"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21604.html"
-  },
-  {
-    "id": "SLUS-21571",
-    "title": "Growlanser - Heritage of War",
-    "discs": 1
   },
   {
     "id": [
@@ -4167,6 +4497,11 @@
     ],
     "title": "Growlanser - Generations",
     "discs": 2
+  },
+  {
+    "id": "SLUS-21571",
+    "title": "Growlanser - Heritage of War",
+    "discs": 1
   },
   {
     "id": "SLUS-20908",
@@ -4226,15 +4561,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21586",
-    "title": "GUITAR HERO - ROCKS THE 80'S",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21586.html"
-  },
-  {
     "id": "SLUS-21866",
     "title": "Guitar Hero - Smash Hits",
     "discs": 1
@@ -4242,7 +4568,11 @@
   {
     "id": "SLUS-21867",
     "title": "Guitar Hero - Van Halen",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21781",
@@ -4252,6 +4582,15 @@
       "en",
       "fr"
     ]
+  },
+  {
+    "id": "SLUS-21586",
+    "title": "GUITAR HERO ENCORE - ROCKS THE 80'S",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21586.html"
   },
   {
     "id": "SLUS-21224P2",
@@ -4321,7 +4660,7 @@
   },
   {
     "id": "SLUS-20066",
-    "title": "HALF LIFE",
+    "title": "HALF-LIFE",
     "discs": 1,
     "languages": [
       "en"
@@ -4329,9 +4668,15 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20066.html"
   },
   {
-    "id": "SLUS-21750",
-    "title": "Hannah Montana - Spotlight World Tour",
-    "discs": 1
+    "id": "SLUS-21656",
+    "title": "HANNSPREE TEN KATE HONDA - SBK",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21656.html"
   },
   {
     "id": "SLUS-21455",
@@ -4378,7 +4723,10 @@
   {
     "id": "SLUS-20576",
     "title": "Harry Potter and The Chamber of Secrets",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-21325",
@@ -4412,14 +4760,18 @@
   {
     "id": "SLUS-20926",
     "title": "Harry Potter and The Prisioner of Azkaban",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-20826",
     "title": "HARRY POTTER AND THE SORCEROR'S STONE",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20826.html"
   },
@@ -4484,8 +4836,12 @@
   },
   {
     "id": "SLUS-20817",
-    "title": "Headhunter - Redemption",
-    "discs": 1
+    "title": "HEADHUNTER - REDEMPTION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20817.html"
   },
   {
     "id": "SLUS-21570",
@@ -4516,13 +4872,11 @@
   },
   {
     "id": "SLUS-20158",
-    "title": "Heroes of Might and Magic",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21747",
-    "title": "Heroes of the Indianapolis 500",
-    "discs": 1
+    "title": "Heroes of Might and Magic - Quest for the DragonBone Staff",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-20943",
@@ -4543,6 +4897,11 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20301.html"
   },
   {
+    "id": "SLUS-20133",
+    "title": "High Heat Major League Baseball 2002",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20298",
     "title": "High Heat - Major League Baseball 2003",
     "discs": 1
@@ -4553,38 +4912,8 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20133",
-    "title": "High Heat  Baseball 2002",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21014",
     "title": "High Roller Casino",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21599",
-    "title": "High School Musical - Sing It!",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21819",
-    "title": "High School Musical 3 - Senior Year DANCE!",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21712",
-    "title": "History Channel - Battle for the Pacific",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21474",
-    "title": "History Channel - Civil War - A Nation Divided",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21835",
-    "title": "History Channel - Civil War - Secret Mission",
     "discs": 1
   },
   {
@@ -4605,6 +4934,14 @@
     "id": "SLUS-20374",
     "title": "Hitman 2 - Silent Assasin",
     "discs": 1
+  },
+  {
+    "id": "SLUS-21563",
+    "title": "Horsez",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SCUS-97130",
@@ -4631,7 +4968,7 @@
   },
   {
     "id": "SLUS-21628",
-    "title": "Hot Wheels - Beat That",
+    "title": "Hot Wheels - Beat That!",
     "discs": 1
   },
   {
@@ -4645,7 +4982,7 @@
   },
   {
     "id": "SLUS-20412",
-    "title": "Hot Wheels - Velocity X",
+    "title": "Hot Wheels - Velocity X - Maximum Justice",
     "discs": 1
   },
   {
@@ -4654,8 +4991,18 @@
     "discs": 1
   },
   {
+    "id": "SLUS-20592",
+    "title": "HSX - HyperSonic.Xtreme",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20422",
+    "title": "Hulk",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21357",
-    "title": "Hummer Badlands",
+    "title": "Hummer - Badlands",
     "discs": 1
   },
   {
@@ -4666,11 +5013,6 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20511.html"
-  },
-  {
-    "id": "SLUS-20592",
-    "title": "HyperSonic Xtreme - HSX",
-    "discs": 1
   },
   {
     "id": "SLUS-20705",
@@ -4684,12 +5026,20 @@
   {
     "id": "SLUS-21878",
     "title": "Ice Age - Dawn of the Dinosaurs",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21307",
-    "title": "Ice Age 2 - The Meltdown",
-    "discs": 1
+    "title": "ICE AGE 2 - THE MELTDOWN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21307.html"
   },
   {
     "id": "SCUS-97113",
@@ -4760,7 +5110,7 @@
   },
   {
     "id": "SLUS-21641",
-    "title": "Innocent Life: A Futuristic Harvest Moon (Special Edition)",
+    "title": "Innocent Life - A Futuristic Harvest Moon (Special Edition)",
     "discs": 1
   },
   {
@@ -4801,11 +5151,6 @@
       "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21739.html"
-  },
-  {
-    "id": "SLUS-20575",
-    "title": "Island Xtreme Stunts",
-    "discs": 1
   },
   {
     "id": "SLUS-21627",
@@ -4925,8 +5270,8 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21062.html"
   },
   {
-    "id": "SLUS-21874",
-    "title": "Jelly Belly - Ballistic Beans",
+    "id": "SLUS-21760",
+    "title": "Jeep Thrills",
     "discs": 1
   },
   {
@@ -4948,14 +5293,18 @@
     "title": "JET LI - RISE TO HONOR",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "zh"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SCUS-97279.html"
   },
   {
     "id": "SCUS-97173",
     "title": "Jet X20",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
   },
   {
     "id": "SLUS-20537",
@@ -5000,13 +5349,23 @@
     "title": "JUMPER - GRIFFIN'S STORY",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21730.html"
   },
   {
     "id": "SLUS-20380",
-    "title": "Jurassic Park - Operation Genesis",
+    "title": "JURASSIC PARK - OPERATION GENESIS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20380.html"
+  },
+  {
+    "id": "SLUS-21907",
+    "title": "Jurassic - The Hunted",
     "discs": 1
   },
   {
@@ -5031,7 +5390,7 @@
   },
   {
     "id": "SLUS-20682",
-    "title": "K1 World Grand Prix",
+    "title": "K-1 World Grand Prix",
     "discs": 1
   },
   {
@@ -5046,16 +5405,6 @@
   {
     "id": "SLUS-20781",
     "title": "Karaoke Revolution",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20968",
-    "title": "Karaoke Revolution 2",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21089",
-    "title": "Karaoke Revolution 3",
     "discs": 1
   },
   {
@@ -5076,6 +5425,16 @@
   {
     "id": "SLUS-21719",
     "title": "Karaoke Revolution Presents - American Idol Encore",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20968",
+    "title": "Karaoke Revolution Volume 2",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21089",
+    "title": "Karaoke Revolution Volume 3",
     "discs": 1
   },
   {
@@ -5116,12 +5475,12 @@
   },
   {
     "id": "SLUS-20275",
-    "title": "Kessen 2",
+    "title": "Kessen II",
     "discs": 1
   },
   {
     "id": "SLUS-21119",
-    "title": "Kessen 3",
+    "title": "Kessen III",
     "discs": 1
   },
   {
@@ -5170,11 +5529,6 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21046.html"
   },
   {
-    "id": "SLUS-20522",
-    "title": "King of Route 66",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20370",
     "title": "KINGDOM HEARTS",
     "discs": 1,
@@ -5199,12 +5553,7 @@
   },
   {
     "id": "SLUS-20318",
-    "title": "King's Field IV",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20353",
-    "title": "King's Field IV - The Ancient City",
+    "title": "King's Field -The Ancient City",
     "discs": 1
   },
   {
@@ -5435,6 +5784,14 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21759.html"
   },
   {
+    "id": "SLUS-20575",
+    "title": "LEGO Island Xtreme Stunts",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "SLUS-20042",
     "title": "LEGO RACERS 2",
     "discs": 1,
@@ -5442,6 +5799,11 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20042.html"
+  },
+  {
+    "id": "SLUS-20456",
+    "title": "LEGO Soccer Mania",
+    "discs": 1
   },
   {
     "id": "SLUS-21083",
@@ -5480,6 +5842,15 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21078.html"
   },
   {
+    "id": "SLUS-21309",
+    "title": "LET'S RIDE - SILVER BUCKLE STABLES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21309.html"
+  },
+  {
     "id": "SLUS-20386",
     "title": "Lethal Skies - Elite Pilot - Team SW",
     "discs": 1
@@ -5488,15 +5859,6 @@
     "id": "SLUS-20735",
     "title": "Lethal Skies 2",
     "discs": 1
-  },
-  {
-    "id": "SLUS-21309",
-    "title": "LET'S RIDE - SILVER BUCKLE STABLES",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21309.html"
   },
   {
     "id": "SLUS-20848",
@@ -5530,13 +5892,20 @@
     "title": "LOONEY TUNES - SPACE RACE",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20352.html"
   },
   {
     "id": "SLUS-20676",
     "title": "Lowrider",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21401",
+    "title": "Lucinda Green's Equestrian Challenge",
     "discs": 1
   },
   {
@@ -5556,16 +5925,6 @@
   {
     "id": "SLUS-21703",
     "title": "Luxor - Pharaoh's Challenge",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21875",
-    "title": "M&M's Adventure",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21411",
-    "title": "M2 Rock",
     "discs": 1
   },
   {
@@ -5752,6 +6111,11 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21951",
+    "title": "Major League Baseball 2K12",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21170",
     "title": "MAKAI KINGDOM - CHRONICLES OF THE SACRED TOME",
     "discs": 1,
@@ -5878,7 +6242,7 @@
   },
   {
     "id": "SLUS-20814",
-    "title": "MAX PAYNE 2",
+    "title": "MAX PAYNE 2 - THE FALL OF MAX PAYNE",
     "discs": 1,
     "languages": [
       "en"
@@ -5963,18 +6327,18 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20833.html"
   },
   {
+    "id": "SLUS-21370",
+    "title": "Megaman X - Collection",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20903",
-    "title": "MEGAMAN X COMMAND MISSION",
+    "title": "MEGAMAN X - COMMAND MISSION",
     "discs": 1,
     "languages": [
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20903.html"
-  },
-  {
-    "id": "SLUS-21370",
-    "title": "Megaman X - Collection",
-    "discs": 1
   },
   {
     "id": "SLUS-20487",
@@ -6060,12 +6424,13 @@
       "SLUS-21359",
       "SLUS-21360"
     ],
-    "title": "Metal Gear Solid 3 - Subsistence",
+    "title": "METAL GEAR SOLID 3 - SUBSISTENCE",
     "discs": 3,
     "languages": [
       "en",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21243.html"
   },
   {
     "id": "SLUS-21293",
@@ -6081,18 +6446,30 @@
       "SLUS-20971",
       "SLUS-20990"
     ],
-    "title": "Metal Slug 4 % 5",
-    "discs": 2
+    "title": "METAL SLUG 4 % 5",
+    "discs": 2,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20971.html"
   },
   {
     "id": "SLUS-21550",
-    "title": "Metal Slug Anthology",
-    "discs": 1
+    "title": "METAL SLUG ANTHOLOGY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21550.html"
   },
   {
     "id": "SLUS-20377",
-    "title": "Metropolismania",
-    "discs": 1
+    "title": "METROPOLISMANIA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20377.html"
   },
   {
     "id": "SLUS-21606",
@@ -6119,13 +6496,21 @@
   },
   {
     "id": "SLUS-20063",
-    "title": "Midnight Club - Street Racing",
-    "discs": 1
+    "title": "MIDNIGHT CLUB - STREET RACING",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20063.html"
   },
   {
     "id": "SLUS-20209",
-    "title": "Midnight Club II",
-    "discs": 1
+    "title": "MIDNIGHT CLUB II",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20209.html"
   },
   {
     "id": "SLUS-21029",
@@ -6134,12 +6519,12 @@
   },
   {
     "id": "SLUS-21355",
-    "title": "Midnight Club 3 - DUB Edition Remix",
+    "title": "Midnight Club 3 - DUB Edition Remix Greatest Hits",
     "discs": 1
   },
   {
     "id": "SLUS-20801",
-    "title": "Midway Arcade Treasures",
+    "title": "Midway Arcade Treasures 1",
     "discs": 1
   },
   {
@@ -6164,18 +6549,30 @@
   },
   {
     "id": "SLUS-20331",
-    "title": "Minority Report - Everybody Runs",
-    "discs": 1
+    "title": "MINORITY REPORTS - EVERYBODY RUNS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20331.html"
   },
   {
     "id": "SLUS-20400",
-    "title": "Mission Impossible - Operation Surma",
-    "discs": 1
+    "title": "MISSION IMPOSSIBLE - OPERATION SURMA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20400.html"
   },
   {
     "id": "SLUS-20375",
-    "title": "Mister Mosquito",
-    "discs": 1
+    "title": "MISTER MOSKEETO",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20375.html"
   },
   {
     "id": "SCUS-97500",
@@ -6219,7 +6616,7 @@
   },
   {
     "id": "SCUS-97347",
-    "title": "MLB 2005",
+    "title": "MLB 2006",
     "discs": 1
   },
   {
@@ -6274,8 +6671,12 @@
   },
   {
     "id": "SLUS-20175",
-    "title": "Mobile Suit Gundam - Journey to Jaburo",
-    "discs": 1
+    "title": "MOBILE SUIT GUNDAM - JOURNEY TO JABURO",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20175.html"
   },
   {
     "id": "SLUS-20233",
@@ -6323,8 +6724,12 @@
   },
   {
     "id": "SLUS-20896",
-    "title": "Monster Hunter",
-    "discs": 1
+    "title": "MONSTER HUNTER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20896.html"
   },
   {
     "id": "SLUS-21635",
@@ -6369,63 +6774,94 @@
   },
   {
     "id": "SLUS-21330",
-    "title": "Monster Rancher 5",
+    "title": "Monster Rancher EVO",
     "discs": 1
   },
   {
     "id": "SLUS-21410",
-    "title": "Mortal Kombat - Armageddon",
-    "discs": 1
+    "title": "MORTAL KOMBAT - ARMAGEDDON",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21410.html"
   },
   {
     "id": "SLUS-21543",
-    "title": "Mortal Kombat - Armageddon (Collectors Edition)",
-    "discs": 1
+    "title": "MORTAL KOMBAT - ARMAGEDDON [PREMIUM EDITION]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21543.html"
   },
   {
     "id": "SLUS-20423",
-    "title": "Mortal Kombat - Deadly Alliance",
-    "discs": 1
+    "title": "MORTAL KOMBAT - DEADLY ALLIANCE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20423.html"
   },
   {
     "id": "SLUS-20881",
-    "title": "Mortal Kombat - Deception",
-    "discs": 1
+    "title": "MORTAL KOMBAT - DECEPTION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20881.html"
   },
   {
     "id": "SLUS-21081",
-    "title": "Mortal Kombat - Deception (Premium Disc))",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21101",
-    "title": "Mortal Kombat - Deception (Premium Pack)",
-    "discs": 1
+    "title": "MORTAL KOMBAT - DECEPTION [PREMIUM PACK SUB-ZERO EDITION]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21081.html"
   },
   {
     "id": "SLUS-21087",
-    "title": "Mortal Kombat - Shaolin Monks",
-    "discs": 1
+    "title": "MORTAL KOMBAT - SHAOLIN MONKS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21087.html"
   },
   {
     "id": "SLUS-21229",
-    "title": "Motocross Mania",
+    "title": "Motocross Mania 3",
     "discs": 1
   },
   {
     "id": "SLUS-20058",
-    "title": "MotoGP",
-    "discs": 1
+    "title": "MOTOGP",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20058.html"
   },
   {
     "id": "SLUS-20285",
-    "title": "MotoGP 2",
-    "discs": 1
+    "title": "MOTOGP 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20285.html"
   },
   {
     "id": "SLUS-20625",
-    "title": "MotoGP 3",
-    "discs": 1
+    "title": "MOTOGP 3",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20625.html"
   },
   {
     "id": "SLUS-21159",
@@ -6437,7 +6873,8 @@
     "title": "MOTOGP 07",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21688.html"
   },
@@ -6458,8 +6895,12 @@
   },
   {
     "id": "SLUS-21666",
-    "title": "Mountain Bike Adrenaline",
-    "discs": 1
+    "title": "MOUNTAIN BIKE ADRENALINE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21666.html"
   },
   {
     "id": "SLUS-21270",
@@ -6478,6 +6919,16 @@
   {
     "id": "SLUS-20861",
     "title": "MTV - Music Generator 3 - This is the Remix",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21580",
+    "title": "MTV - Pimp my Ride",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21872",
+    "title": "MTV - Pimp my Ride - Street Racing",
     "discs": 1
   },
   {
@@ -6501,7 +6952,7 @@
   },
   {
     "id": "SLUS-20983",
-    "title": "Musashi Samurai Legend",
+    "title": "Musashi - Samurai Legend",
     "discs": 1
   },
   {
@@ -6531,17 +6982,22 @@
   },
   {
     "id": "SLUS-20072",
-    "title": "MX 2002 - featuring Ricky Carmichael",
+    "title": "MX 2002 featuring Ricky Carmichael",
     "discs": 1
   },
   {
     "id": "SLUS-20234",
     "title": "MX Rider",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20381",
-    "title": "MX Superfly",
+    "title": "MX Superfly featuring Ricky Carmichae",
     "discs": 1
   },
   {
@@ -6550,19 +7006,23 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21701",
-    "title": "MX vs. ATV - Untamed",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21104",
     "title": "MX vs. ATV - Unleashed",
     "discs": 1
   },
   {
+    "id": "SLUS-21701",
+    "title": "MX vs. ATV - Untamed",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21097",
     "title": "MX World Tour featuring Jamie Little",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SCUS-97212",
@@ -6572,12 +7032,21 @@
   {
     "id": "SLUS-20434",
     "title": "Myst III - Exile",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20521",
-    "title": "Mystic Heroes",
-    "discs": 1
+    "title": "MYSTIC HEROES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20521.html"
   },
   {
     "id": "SLUS-20273",
@@ -6586,28 +7055,44 @@
   },
   {
     "id": "SLUS-21164",
-    "title": "Namco Museum -50th Anniversary",
+    "title": "Namco Museum -50th Anniversary Greatest Hits",
     "discs": 1
   },
   {
     "id": "SLUS-21010",
-    "title": "Nano Breaker",
-    "discs": 1
+    "title": "NANO BREAKER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21010.html"
   },
   {
     "id": "SLUS-20730",
     "title": "NARC",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20730.html"
   },
   {
     "id": "SLUS-21358",
-    "title": "Naruto - Ultimate Ninja",
-    "discs": 1
+    "title": "NARUTO - ULTIMATE NINJA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21358.html"
   },
   {
     "id": "SLUS-21575",
-    "title": "Naruto - Ultimate Ninja 2",
-    "discs": 1
+    "title": "NARUTO - ULTIMATE NINJA 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21575.html"
   },
   {
     "id": "SLUS-21727",
@@ -6631,7 +7116,11 @@
   {
     "id": "SLUS-21862",
     "title": "Naruto Shippuden - Ultimate Ninja 4",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20441",
@@ -6639,8 +7128,23 @@
     "discs": 1
   },
   {
+    "id": "SLUS-20176",
+    "title": "NASCAR - Heat 2002",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20266",
     "title": "NASCAR - Thunder 2002",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20535",
+    "title": "NASCAR - Thunder 2003",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20824",
+    "title": "NASCAR - Thunder 2004",
     "discs": 1
   },
   {
@@ -6674,21 +7178,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20176",
-    "title": "NASCAR Heat 2002",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20535",
-    "title": "NASCAR Thunder 2003",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20824",
-    "title": "NASCAR Thunder 2004",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20871",
     "title": "Naval Ops - Commander",
     "discs": 1
@@ -6700,7 +7189,7 @@
   },
   {
     "id": "SCUS-97348",
-    "title": "NBA '06",
+    "title": "NBA '06 - Featuring the Life Vol.1",
     "discs": 1
   },
   {
@@ -6710,7 +7199,7 @@
   },
   {
     "id": "SCUS-97589",
-    "title": "NBA '08 featuring The Life Vol.3",
+    "title": "NBA '08 featuring The Life V3",
     "discs": 1
   },
   {
@@ -6784,7 +7273,7 @@
   },
   {
     "id": "SLUS-20648",
-    "title": "NBA Jam 2004",
+    "title": "NBA Jam",
     "discs": 1
   },
   {
@@ -6805,7 +7294,11 @@
   {
     "id": "SLUS-21777",
     "title": "NBA Live '09",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20102",
@@ -6854,12 +7347,16 @@
   },
   {
     "id": "SLUS-20187",
-    "title": "NBA Street",
-    "discs": 1
+    "title": "NBA STREET",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20187.html"
   },
   {
     "id": "SLUS-20651",
-    "title": "NBA Street 2",
+    "title": "NBA Street Vol.2",
     "discs": 1
   },
   {
@@ -6874,7 +7371,12 @@
   },
   {
     "id": "SLUS-20538",
-    "title": "NCAA Basketball 2K3",
+    "title": "NCAA College Basketball 2K3",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20453",
+    "title": "NCAA College Football 2K3",
     "discs": 1
   },
   {
@@ -6898,6 +7400,11 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21214",
+    "title": "NCAA Football '06",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21459",
     "title": "NCAA Football '07",
     "discs": 1
@@ -6918,6 +7425,11 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21932",
+    "title": "NCAA Football '11",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20241",
     "title": "NCAA Football 2002",
     "discs": 1
@@ -6935,16 +7447,6 @@
   {
     "id": "SLUS-20991",
     "title": "NCAA Football 2005",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21214",
-    "title": "NCAA Football 2006",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20453",
-    "title": "NCAA Football 2K3",
     "discs": 1
   },
   {
@@ -6999,13 +7501,23 @@
   },
   {
     "id": "SLUS-21493",
-    "title": "Need for Speed - Carbon",
-    "discs": 1
+    "title": "NEED FOR SPEED - CARBON",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21493.html"
   },
   {
     "id": "SLUS-21494",
-    "title": "Need for Speed - Carbon (Collectors Edition)",
-    "discs": 1
+    "title": "NEED FOR SPEED - CARBON [COLLECTOR'S EDITION]",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21494.html"
   },
   {
     "id": "SLUS-20362",
@@ -7027,6 +7539,11 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21267",
+    "title": "Need for Speed - Most Wanted (Greatest Hits)",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21658",
     "title": "Need for Speed - ProStreet",
     "discs": 1
@@ -7043,8 +7560,14 @@
   },
   {
     "id": "SLUS-20811",
-    "title": "Need for Speed - Underground",
-    "discs": 1
+    "title": "NEED FOR SPEED - UNDERGROUND",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20811.html"
   },
   {
     "id": "SLUS-21065",
@@ -7053,23 +7576,30 @@
   },
   {
     "id": "SLUS-20961",
-    "title": "Neo Contra",
-    "discs": 1
+    "title": "NEO CONTRA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20961.html"
   },
   {
     "id": "SLUS-21708",
-    "title": "NeoGeo Battle Coliseum",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21537",
-    "title": "NeoGeo Fatal Fury Collection",
-    "discs": 1
+    "title": "NEOGEO BATTLE COLISEUM",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21708.html"
   },
   {
     "id": "SCUS-97367",
-    "title": "Neopets - The Darkest Faerie",
-    "discs": 1
+    "title": "NEOPETS - THE DARKEST FAERIE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97367.html"
   },
   {
     "id": "SLUS-20322",
@@ -7144,7 +7674,11 @@
   {
     "id": "SLUS-21241",
     "title": "NHL '06",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21458",
@@ -7184,7 +7718,11 @@
   {
     "id": "SLUS-21001",
     "title": "NHL 2005",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20477",
@@ -7242,18 +7780,23 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21547",
-    "title": "NHRA - Countdown to the Championship 2007",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21114",
     "title": "NHRA Championship Drag Racing",
     "discs": 1
   },
   {
+    "id": "SLUS-21547",
+    "title": "NHRA Drag Racing - Countdown to the championship",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21926",
+    "title": "Ni Hao. Kai-Lan - Super Game Day",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21605",
-    "title": "Nicktoons - Attack of the Toybotsg",
+    "title": "Nicktoons - Attack of the Toybots",
     "discs": 1
   },
   {
@@ -7268,13 +7811,21 @@
   },
   {
     "id": "SLUS-21284",
-    "title": "Nicktoons Unite'",
-    "discs": 1
+    "title": "NICKTOONS UNITE!",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21284.html"
   },
   {
     "id": "SLUS-20810",
-    "title": "Nightshade",
-    "discs": 1
+    "title": "NIGHTSHADE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20810.html"
   },
   {
     "id": "SLUS-20492",
@@ -7286,9 +7837,14 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20492.html"
   },
   {
-    "id": "SLUS-20028",
-    "title": "No One Lives Forever",
-    "discs": 1
+    "id": "SLUS-21738",
+    "title": "Nitrobike",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21868",
@@ -7301,34 +7857,36 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21651",
-    "title": "Noddy and the Magic Book",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21855",
     "title": "NPPL Championship Paintball 2009",
     "discs": 1
   },
   {
     "id": "SLUS-21432",
-    "title": "NRA Gun Club",
+    "title": "NRA - Gun Club",
     "discs": 1
   },
   {
     "id": "SLUS-20777",
-    "title": "Obscure",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21709",
-    "title": "Obscure - The Aftermath",
+    "title": "OBSCURE",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20777.html"
+  },
+  {
+    "id": "SLUS-21709",
+    "title": "OBSCURE - THE AFTERMATH",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21709.html"
   },
   {
     "id": "SLUS-21577",
@@ -7341,9 +7899,13 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21577.html"
   },
   {
-    "id": "SCUS-91129",
-    "title": "Okage - Shadow King",
-    "discs": 1
+    "id": "SCUS-97129",
+    "title": "OKAGE - SHADOW KING",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97129.html"
   },
   {
     "id": "SLUS-21115",
@@ -7361,8 +7923,12 @@
   },
   {
     "id": "SLUS-20975",
-    "title": "One Piece - Grand Battle",
-    "discs": 1
+    "title": "ONE PIECE - GRAND BATTLE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20975.html"
   },
   {
     "id": "SLUS-21364",
@@ -7375,13 +7941,21 @@
   },
   {
     "id": "SLUS-20064",
-    "title": "Oni",
-    "discs": 1
+    "title": "ONI",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20064.html"
   },
   {
     "id": "SLUS-20710",
-    "title": "Onimusha - Blade Warriors",
-    "discs": 1
+    "title": "ONIMUSHA - BLADE WARRIORS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20710.html"
   },
   {
     "id": [
@@ -7407,23 +7981,39 @@
   },
   {
     "id": "SLUS-20393",
-    "title": "Onimusha 2 - Samurai's Destiny",
-    "discs": 1
+    "title": "ONIMUSHA 2 - SAMURAI'S DESTINY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20393.html"
   },
   {
     "id": "SLUS-20694",
-    "title": "Onimusha 3 - Demon Siege",
-    "discs": 1
+    "title": "ONIMUSHA 3 - DEMON SIEGE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20694.html"
   },
   {
     "id": "SLUS-21467",
-    "title": "Open Season",
-    "discs": 1
+    "title": "OPEN SEASON",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21467.html"
   },
   {
     "id": "SLUS-20011",
-    "title": "Orphen - Scion of Sorcery",
-    "discs": 1
+    "title": "ORPHEN - SCION OF SORCERY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20011.html"
   },
   {
     "id": "SLUS-21030",
@@ -7432,8 +8022,12 @@
   },
   {
     "id": "SLUS-21190",
-    "title": "Outlaw Tennis",
-    "discs": 1
+    "title": "OUTLAW TENNIS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21190.html"
   },
   {
     "id": "SLUS-21049",
@@ -7463,13 +8057,21 @@
   },
   {
     "id": "SLUS-20224",
-    "title": "Pac-Man World 2",
-    "discs": 1
+    "title": "PAC-MAN WORLD 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20224.html"
   },
   {
     "id": "SLUS-21219",
-    "title": "Pac-Man World 3",
-    "discs": 1
+    "title": "PAC-MAN WORLD 3",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21219.html"
   },
   {
     "id": "SLUS-21328",
@@ -7481,14 +8083,19 @@
     "title": "PARAPPA THE RAPPER 2",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "jp"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SCUS-97167.html"
   },
   {
     "id": "SLUS-20324",
-    "title": "Paris Dakar Rally",
-    "discs": 1
+    "title": "PARIS-DAKAR RALLY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20324.html"
   },
   {
     "id": "SLUS-21825",
@@ -7502,8 +8109,14 @@
   },
   {
     "id": "SLUS-21311",
-    "title": "Peter Jackson's King Kong - The Official Game of the Movie",
-    "discs": 1
+    "title": "PETER JACKSON'S KING KONG - THE OFFICIAL GAME OF THE MOVIE",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21311.html"
   },
   {
     "id": "SLUS-21675",
@@ -7544,16 +8157,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21580",
-    "title": "Pimp my Ride",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21872",
-    "title": "Pimp my Ride - Street Racing",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21038",
     "title": "PINBALL HALL OF FAME - THE GOTTLIEB COLLECTION",
     "discs": 1,
@@ -7569,23 +8172,28 @@
   },
   {
     "id": "SLUS-21766",
-    "title": "Pipemania",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20365",
-    "title": "Pirates - Legend of Black Kat",
+    "title": "Pipe Mania",
     "discs": 1
   },
   {
     "id": "SLUS-21478",
-    "title": "Pirates - Legend of the Black Buccaneer",
+    "title": "PIRATES - LEGEND OF THE BLACK BUCCANEER",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21478.html"
+  },
+  {
+    "id": "SLUS-20365",
+    "title": "PIRATES - THE LEGEND OF BLACK KAT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20365.html"
   },
   {
     "id": "SLUS-21545",
@@ -7603,14 +8211,13 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20813",
-    "title": "Plague of Darkness",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20988",
-    "title": "Playboy the Mansion",
-    "discs": 1
+    "title": "PLAYBOY - THE MANSION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20988.html"
   },
   {
     "id": "SLUS-20987",
@@ -7619,27 +8226,38 @@
   },
   {
     "id": "SLUS-21710",
-    "title": "PopCap Hits Volume 1",
+    "title": "PopCap Hits Vol 1",
     "discs": 1
   },
   {
     "id": "SLUS-21768",
-    "title": "PopCap Hits Volume 2",
+    "title": "PopCap Hits Vol 2",
     "discs": 1
   },
   {
     "id": "SLUS-21827",
     "title": "PopStar Guitar",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20003",
-    "title": "Portal Runner",
-    "discs": 1
+    "title": "PORTAL RUNNER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20003.html"
   },
   {
     "id": "SLUS-20978",
-    "title": "Powerdrome",
+    "title": "Power Drome",
     "discs": 1
   },
   {
@@ -7649,13 +8267,17 @@
   },
   {
     "id": "SLUS-21679",
-    "title": "Power Rangers - Super Legends",
+    "title": "Power Rangers - Super Legends - 15th Anniversary",
     "discs": 1
   },
   {
     "id": "SLUS-20875",
-    "title": "Predator - Concrete Jungle",
-    "discs": 1
+    "title": "PREDATOR - CONCRETE JUNGLE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20875.html"
   },
   {
     "id": "SLUS-20406",
@@ -7664,8 +8286,13 @@
   },
   {
     "id": "SCUS-97142",
-    "title": "Primal - Civilization Is Only Skin Deep",
-    "discs": 1
+    "title": "Primal",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20743",
@@ -7680,23 +8307,25 @@
   },
   {
     "id": "SLUS-21287",
-    "title": "Prince of Persia - The Two Thrones",
+    "title": "PRINCE OF PERSIA - THE TWO THRONES",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21287.html"
   },
   {
     "id": "SLUS-21022",
-    "title": "Prince of Persia - Warrior Within",
+    "title": "PRINCE OF PERSIA - WARRIOR WITHIN",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21022.html"
   },
   {
     "id": "SLUS-21685",
@@ -7713,6 +8342,16 @@
       "pt",
       "es"
     ]
+  },
+  {
+    "id": "SLUS-21918",
+    "title": "Pro Evolution Soccer 2010",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21942",
+    "title": "Pro Evolution Soccer 2011",
+    "discs": 1
   },
   {
     "id": "SLUS-21948",
@@ -7739,8 +8378,12 @@
   },
   {
     "id": "SLUS-21037",
-    "title": "Project - Snowblind",
-    "discs": 1
+    "title": "PROJECT - SNOWBLIND",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21037.html"
   },
   {
     "id": "SLUS-20164",
@@ -7750,22 +8393,41 @@
   {
     "id": "SLUS-21496",
     "title": "ProStroke Golf - World Tour 2007",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20172",
-    "title": "Pryzm - Chapter One - The Dark Unicorn",
-    "discs": 1
+    "title": "PRYZM CHAPTER ONE - THE DARK UNICORN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20172.html"
   },
   {
     "id": "SLUS-20688",
-    "title": "Psi-Ops - The Mindgate Conspiracy",
-    "discs": 1
+    "title": "PSI-OPS - THE MINDGATE CONSPIRACY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20688.html"
   },
   {
     "id": "SLUS-21120",
-    "title": "Psychonauts",
-    "discs": 1
+    "title": "PSICHONAUTS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21120.html"
   },
   {
     "id": "SLUS-21131",
@@ -7774,7 +8436,7 @@
   },
   {
     "id": "SLUS-21339",
-    "title": "Puzzle Collection - Crosswords & More!",
+    "title": "Puzzle Challenge - Crosswords and More!",
     "discs": 1
   },
   {
@@ -7784,7 +8446,7 @@
   },
   {
     "id": "SLUS-20070",
-    "title": "Q-Ball Billiards Master",
+    "title": "Q-Ball - Billiards Master",
     "discs": 1
   },
   {
@@ -7794,18 +8456,39 @@
   },
   {
     "id": "SLUS-20721",
-    "title": "R Racing Evolution",
-    "discs": 1
+    "title": "R - RACING EVOLUTION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20721.html"
   },
   {
     "id": "SLUS-20780",
-    "title": "R-Type Final",
-    "discs": 1
+    "title": "R-TYPE FINAL",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20780.html"
+  },
+  {
+    "id": "SLUS-20445",
+    "title": "RAD - ROBOT ALCHEMIC DRIVE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20445.html"
   },
   {
     "id": "SLUS-21262",
-    "title": "Radiata Stories",
-    "discs": 1
+    "title": "RADIATA STORIES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21262.html"
   },
   {
     "id": "SLUS-21465",
@@ -7827,14 +8510,27 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21323.html"
   },
   {
+    "id": "SLUS-21934",
+    "title": "Rapala Pro Bass Fishing",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21012",
     "title": "Rapala Pro Fishing",
     "discs": 1
   },
   {
-    "id": "SLUS-21371",
-    "title": "Rapala Pro Tournament Fishing",
-    "discs": 1
+    "id": "SCUS-97199",
+    "title": "RATCHET & CLANK",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97199.html"
   },
   {
     "id": "SCUS-97465",
@@ -7845,11 +8541,6 @@
       "fr",
       "es"
     ]
-  },
-  {
-    "id": "SCUS-97199",
-    "title": "Ratchet & Clank",
-    "discs": 1
   },
   {
     "id": "SCUS-97268",
@@ -7877,28 +8568,26 @@
     ]
   },
   {
-    "id": "SCUS-97518",
-    "title": "Ratchet & Clank – Up Your Arsenal (Greatest Hits)",
+    "id": "SLUS-21501",
+    "title": "RAW DANGER!",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "es"
-    ]
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21501.html"
   },
   {
-    "id": "SLUS-21501",
-    "title": "Raw Danger!",
-    "discs": 1
+    "id": "SLUS-21576",
+    "title": "RAYMAN - RAVING RABBIDS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21576.html"
   },
   {
     "id": "SLUS-20138",
     "title": "Rayman 2 - Revolution",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20601",
-    "title": "Rayman 3 - Hoodlum Havoc",
     "discs": 1,
     "languages": [
       "en",
@@ -7909,23 +8598,31 @@
     ]
   },
   {
+    "id": "SLUS-20601",
+    "title": "RAYMAN 3 - HOODLUM HAVOC",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20601.html"
+  },
+  {
     "id": "SLUS-20272",
     "title": "Rayman Arena",
     "discs": 1
   },
   {
-    "id": "SLUS-21576",
-    "title": "RAYMAN RAVING RABBIDS",
+    "id": "SLUS-20153",
+    "title": "RC REVENGE PRO",
     "discs": 1,
     "languages": [
       "en"
     ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21576.html"
-  },
-  {
-    "id": "SLUS-20153",
-    "title": "RC Revenge Pro",
-    "discs": 1
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20153.html"
   },
   {
     "id": "SLUS-20054",
@@ -7944,13 +8641,24 @@
   },
   {
     "id": "SLUS-21303",
-    "title": "Rebel Raiders - Operation Nighthawk",
-    "discs": 1
+    "title": "REBEL RAIDERS - OPERATION NIGHTHAWK",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21303.html"
   },
   {
     "id": "SLUS-20354",
-    "title": "Red Car Soccer 2003",
-    "discs": 1
+    "title": "Red Car 2003",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20500",
@@ -7963,12 +8671,16 @@
   },
   {
     "id": "SLUS-20073",
-    "title": "Red Faction",
-    "discs": 1
+    "title": "RED FACTION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20073.html"
   },
   {
     "id": "SLUS-20442",
-    "title": "Red Faction 2",
+    "title": "Red Faction II",
     "discs": 1
   },
   {
@@ -7982,23 +8694,37 @@
   },
   {
     "id": "SLUS-20555",
-    "title": "Reel Fishing 3",
+    "title": "Reel Fishing III",
     "discs": 1
   },
   {
     "id": "SLUS-20556",
-    "title": "Reign of Fire",
-    "discs": 1
+    "title": "REIGN OF FIRE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20556.html"
   },
   {
     "id": "SLUS-21479",
-    "title": "Reservoir Dogs",
-    "discs": 1
+    "title": "RESERVOIR DOGS",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21479.html"
   },
   {
     "id": "SLUS-20184",
-    "title": "Resident Evil - CODE Veronica X",
-    "discs": 1
+    "title": "RESIDENT EVIL - CODE - VERONICA X",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20184.html"
   },
   {
     "id": "SLUS-20669",
@@ -8011,8 +8737,12 @@
   },
   {
     "id": "SLUS-20765",
-    "title": "Resident Evil - Outbreak",
-    "discs": 1
+    "title": "RESIDENT EVIL - OUTBREAK",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20765.html"
   },
   {
     "id": "SLUS-20984",
@@ -8040,12 +8770,22 @@
   {
     "id": "SLUS-20344",
     "title": "Rez",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
-    "id": "SLUS-20837",
+    "id": [
+      "SLUS-20837",
+      "SLUS 20914"
+    ],
     "title": "RIBBIT KING",
-    "discs": 1,
+    "discs": 2,
     "languages": [
       "en",
       "es"
@@ -8079,8 +8819,12 @@
   },
   {
     "id": "SCUS-97416",
-    "title": "Rise of the Kasai",
-    "discs": 1
+    "title": "RISE OF THE KASAI",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97416.html"
   },
   {
     "id": "SLUS-20390",
@@ -8095,6 +8839,15 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21275.html"
+  },
+  {
+    "id": "SLUS-20037",
+    "title": "RLH - RUN LIKE HELL",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20037.html"
   },
   {
     "id": "SLUS-20398",
@@ -8115,11 +8868,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20445",
-    "title": "Robot Alchemic Drive - RAD",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20823",
     "title": "Robotech - Invasion",
     "discs": 1
@@ -8131,8 +8879,12 @@
   },
   {
     "id": "SLUS-20942",
-    "title": "Robots",
-    "discs": 1
+    "title": "ROBOTS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20942.html"
   },
   {
     "id": "SLUS-21682",
@@ -8161,22 +8913,17 @@
   },
   {
     "id": "SLUS-21758",
-    "title": "Rock Band - Track Pack Vol.1",
+    "title": "Rock Band - Track Pack Volume 1",
     "discs": 1
   },
   {
     "id": "SLUS-21830",
-    "title": "Rock Band - Track Pack Vol.2",
+    "title": "Rock Band - Track Pack Volume 2",
     "discs": 1
   },
   {
     "id": "SLUS-21800",
     "title": "Rock Band 2",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21802",
-    "title": "Rock University presents The Naked Brothers - The Videogame",
     "discs": 1
   },
   {
@@ -8186,8 +8933,12 @@
   },
   {
     "id": "SLUS-20559",
-    "title": "Rocky",
-    "discs": 1
+    "title": "ROCKY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20559.html"
   },
   {
     "id": "SLUS-20890",
@@ -8205,13 +8956,21 @@
   },
   {
     "id": "SLUS-20746",
-    "title": "Rogue Ops",
-    "discs": 1
+    "title": "ROGUE OPS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20746.html"
   },
   {
     "id": "SLUS-21320",
-    "title": "Rogue Trooper",
-    "discs": 1
+    "title": "ROGUE TROOPER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21320.html"
   },
   {
     "id": "SLUS-20319",
@@ -8235,7 +8994,7 @@
   },
   {
     "id": "SLUS-21584",
-    "title": "Romance of the Three Kingdoms VII",
+    "title": "Romance of the Three Kingdoms XI",
     "discs": 1,
     "languages": [
       "en",
@@ -8244,12 +9003,16 @@
   },
   {
     "id": "SLUS-21263",
-    "title": "Romancing Saga",
-    "discs": 1
+    "title": "ROMANCING SAGA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21263.html"
   },
   {
     "id": "SLUS-20340",
-    "title": "RPG Maker 2",
+    "title": "RPG Maker II",
     "discs": 1
   },
   {
@@ -8259,32 +9022,16 @@
   },
   {
     "id": "SLUS-20491",
-    "title": "RTX Red Rock",
-    "discs": 1
+    "title": "RTX - RED ROCK",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20491.html"
   },
   {
     "id": "SLUS-21314",
     "title": "Ruff Trigger - Vancore Conspiracy",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21368",
-    "title": "Rugby '06",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21640",
-    "title": "Rugby '08",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20749",
-    "title": "Rugby 2004",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21158",
-    "title": "Rugby 2005",
     "discs": 1
   },
   {
@@ -8312,18 +9059,21 @@
   },
   {
     "id": "SLUS-20970",
-    "title": "Rumble Roses",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20037",
-    "title": "Run Like Hell - Hunt or Be Hunted",
-    "discs": 1
+    "title": "RUMBLE ROSES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20970.html"
   },
   {
     "id": "SLUS-20109",
-    "title": "Rune - Viking Warlord",
-    "discs": 1
+    "title": "RUNE - VIKING WARLORD",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20109.html"
   },
   {
     "id": "SLUS-20471",
@@ -8340,33 +9090,39 @@
     "discs": 1
   },
   {
+    "id": [
+      "SLUS-21927",
+      "SLUS-21930"
+    ],
+    "title": "Sakura Wars - So Long My Love",
+    "discs": 2
+  },
+  {
     "id": "SLUS-20378",
     "title": "Salt Lake 2002",
     "discs": 1
   },
   {
-    "id": "SLUS-21927",
-    "title": "Sakura Wars - So Long My Love",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21343",
-    "title": "Samurai Champloo - Sidetracked",
-    "discs": 1
+    "title": "SAMURAI CHAMPLOO - SIDETRACKER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21343.html"
   },
   {
     "id": "SLUS-20899",
-    "title": "Samurai Jack - The Shadow of Aku",
-    "discs": 1
+    "title": "SAMURAI JACK - THE SHADOW OF AKU",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20899.html"
   },
   {
     "id": "SLUS-21629",
     "title": "Samurai Showdown Anthology",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20972",
-    "title": "Samurai Showdown V",
     "discs": 1
   },
   {
@@ -8420,51 +9176,63 @@
   },
   {
     "id": "SLUS-20957",
-    "title": "Scaler",
+    "title": "SCALER",
     "discs": 1,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20957.html"
   },
   {
     "id": "SLUS-21111",
-    "title": "Scarface - The World is Yours",
-    "discs": 1
+    "title": "SCARFACE - THE WORLD IS YOURS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21111.html"
   },
   {
     "id": "SLUS-21492",
-    "title": "Scarface - The World is Yours (Colectors Edition)",
-    "discs": 1
+    "title": "SCARFACE - THE WORLD IS YOURS [COLLECTOR'S EDITION]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21492.html"
   },
   {
     "id": "SLUS-21928",
-    "title": "Scooby-Doo! and the Spooky Swamp",
+    "title": "SCOOBY-DOO! & THE SPOOKY SWAMP",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21928.html"
   },
   {
     "id": "SLUS-21900",
-    "title": "Scooby-Doo! First Frights",
+    "title": "SCOOBY-DOO! - FIRST FRIGHTS",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21900.html"
   },
   {
     "id": "SLUS-20701",
-    "title": "Scooby-Doo! Mystery Mayhem",
+    "title": "SCOOBY-DOO! - MYSTERY MAYHEM",
     "discs": 1,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20701.html"
   },
   {
     "id": "SLUS-20349",
@@ -8477,12 +9245,13 @@
   },
   {
     "id": "SLUS-21091",
-    "title": "Scooby-Doo! Unmasked",
+    "title": "SCOOBY-DOO! - UNMASKED",
     "discs": 1,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21091.html"
   },
   {
     "id": "SLUS-21850",
@@ -8491,8 +9260,12 @@
   },
   {
     "id": "SLUS-20698",
-    "title": "SD Gundam Force Showdown",
-    "discs": 1
+    "title": "SD GUNDAM FORCE - SHOWDOWN!",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20698.html"
   },
   {
     "id": "SLUS-21741",
@@ -8506,13 +9279,25 @@
   },
   {
     "id": "SLUS-21033",
-    "title": "Second Sight",
-    "discs": 1
+    "title": "SECOND SIGHT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21033.html"
   },
   {
     "id": "SCUS-97623",
-    "title": "Secret Agent Clank",
-    "discs": 1
+    "title": "SECRET AGENT CLANK",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97623.html"
   },
   {
     "id": "SLUS-21836",
@@ -8521,17 +9306,49 @@
   },
   {
     "id": "SLUS-20762",
-    "title": "Secret Weapons Over Normandy",
+    "title": "SECRET WEAPONS OVER NORMANDY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20762.html"
+  },
+  {
+    "id": "SLUS-20606",
+    "title": "SEEK & DESTROY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20606.html"
+  },
+  {
+    "id": "SLUS-20339",
+    "title": "Sega Bass Fishing Duel",
     "discs": 1
   },
   {
     "id": "SLUS-21009",
-    "title": "Sega Classic Collection",
-    "discs": 1
+    "title": "SEGA CLASSIC COLLECTION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21009.html"
   },
   {
     "id": "SLUS-21542",
     "title": "Sega Genesis Collection",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20509",
+    "title": "Sega Soccer Slam",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20480",
+    "title": "Sega Sports Tennis",
     "discs": 1
   },
   {
@@ -8542,7 +9359,14 @@
   {
     "id": "SLUS-21733",
     "title": "Sega Superstars Tennis",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20907",
@@ -8551,8 +9375,12 @@
   },
   {
     "id": "SLUS-20621",
-    "title": "Seven Samurai 20XX",
-    "discs": 1
+    "title": "SEVEN SAMURAI 20XX",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20621.html"
   },
   {
     "id": "SLUS-20347",
@@ -8573,12 +9401,16 @@
       "SLUS-21041",
       "SLUS-21044"
     ],
-    "title": "Shadow Hearts 2 - Covenant",
-    "discs": 2
+    "title": "SHADOW HEARTS 2 - COVENANT",
+    "discs": 2,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21041.html"
   },
   {
     "id": "SLUS-20413",
-    "title": "Shadow Man - Second Coming",
+    "title": "Shadow Man - 2econd Coming",
     "discs": 1
   },
   {
@@ -8610,7 +9442,7 @@
   },
   {
     "id": "SLUS-21261",
-    "title": "Shadow the Hedgehog",
+    "title": "SHADOW THE HEDGEHOG",
     "discs": 1,
     "languages": [
       "en",
@@ -8619,12 +9451,17 @@
       "it",
       "jp",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21261.html"
   },
   {
     "id": "SLUS-20953",
-    "title": "Shaman King - Power of Spirit",
-    "discs": 1
+    "title": "SHAMAN KING - POWER OF SPIRIT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20953.html"
   },
   {
     "id": "SLUS-20199",
@@ -8633,12 +9470,21 @@
   },
   {
     "id": "SLUS-21853",
-    "title": "Shaun White Snowboarding",
-    "discs": 1
+    "title": "SHAUN WHITE SNOWBOARDING",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21853.html"
   },
   {
     "id": "SLUS-20828",
     "title": "ShellShock - Nam '67",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21798",
+    "title": "Shepherd's Crossing",
     "discs": 1
   },
   {
@@ -8668,8 +9514,12 @@
   },
   {
     "id": "SLUS-20911",
-    "title": "Shin Megami Tensei - Nocturne",
-    "discs": 1
+    "title": "SHIN MEGAMI TENSEI - NOCTURNE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20911.html"
   },
   {
     "id": "SLUS-21569",
@@ -8696,8 +9546,12 @@
   },
   {
     "id": "SLUS-21567",
-    "title": "Shining Force EXA",
-    "discs": 1
+    "title": "SHINING FORCE EXA",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21567.html"
   },
   {
     "id": "SLUS-21206",
@@ -8710,8 +9564,12 @@
   },
   {
     "id": "SLUS-21063",
-    "title": "Shining Tears",
-    "discs": 1
+    "title": "SHINING TEARS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21063.html"
   },
   {
     "id": "SLUS-20459",
@@ -8736,11 +9594,16 @@
   {
     "id": "SLUS-20533",
     "title": "ShoX",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21731",
-    "title": "Silent Hill – Origins",
+    "title": "SILENT HILL - ORIGINS",
     "discs": 1,
     "languages": [
       "en",
@@ -8748,40 +9611,72 @@
       "de",
       "it",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21731.html"
   },
   {
     "id": "SLUS-21899",
-    "title": "Silent Hill – Shatterd Memories",
+    "title": "SILENT HILL - SHATTERED MEMORIES",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21899.html"
   },
   {
     "id": "SLUS-20228",
-    "title": "Silent Hill 2",
+    "title": "SILENT HILL 2",
     "discs": 1,
     "languages": [
       "en",
-      "jp"
-    ]
+      "fr",
+      "de",
+      "it",
+      "jp",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20228.html"
+  },
+  {
+    "id": "SLUS-20228GH",
+    "title": "SILENT HILL 2 [GREATEST HITS]",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "jp",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20228GH.html"
   },
   {
     "id": "SLUS-20622",
-    "title": "Silent Hill 3",
-    "discs": 1
+    "title": "SILENT HILL 3",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "jp",
+      "es",
+      "kr"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20622.html"
   },
   {
     "id": "SLUS-20873",
-    "title": "Silent Hill 4 – The Room",
+    "title": "SILENT HILL 4 - THE ROOM",
     "discs": 1,
     "languages": [
       "en",
       "jp"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20873.html"
   },
   {
     "id": "SLUS-20078",
@@ -8794,13 +9689,24 @@
   },
   {
     "id": "SLUS-20243",
-    "title": "Silent Scope 2 - Dark Silhouette",
-    "discs": 1
+    "title": "SILENT SCOPE 2 - DARK SILHOUETTE",
+    "discs": 1,
+    "languages": [
+      "en",
+      "jp",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20243.html"
   },
   {
     "id": "SLUS-20514",
     "title": "Silent Scope 3",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "jp",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20085",
@@ -8813,13 +9719,21 @@
   },
   {
     "id": "SCUS-97622",
-    "title": "SingStar 80's (Game Only)",
-    "discs": 1
+    "title": "SINGSTAR 80'S",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97622.html"
   },
   {
     "id": "SCUS-97616",
-    "title": "SingStar 80's (With Microphone)",
-    "discs": 1
+    "title": "SINGSTAR 80'S [WITH MICROPHONES]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97616.html"
   },
   {
     "id": "SCUS-97636",
@@ -8855,6 +9769,15 @@
     "id": "SCUS-97650",
     "title": "SingStar Country (With Microphone)",
     "discs": 1
+  },
+  {
+    "id": "SCUS-94346",
+    "title": "SingStar Latino",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SCUS-97640",
@@ -8911,8 +9834,13 @@
   },
   {
     "id": "SLUS-21839",
-    "title": "Ski & Shoot",
-    "discs": 1
+    "title": "SKI & SHOOT",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21839.html"
   },
   {
     "id": "SLUS-21591",
@@ -8930,13 +9858,21 @@
   },
   {
     "id": "SLUS-20384",
-    "title": "Skygunner",
-    "discs": 1
+    "title": "SKYGUNNER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20384.html"
   },
   {
     "id": "SLUS-20363",
-    "title": "Sled Storm",
-    "discs": 1
+    "title": "SLED STORM",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20363.html"
   },
   {
     "id": "SCUS-97198",
@@ -8949,28 +9885,39 @@
   },
   {
     "id": "SCUS-97316",
-    "title": "Sly 2 - Band of Thieves",
-    "discs": 1
-  },
-  {
-    "id": "SCUS-97519",
-    "title": "Sly 2 - Band of Thieves (Greatest Hits)",
-    "discs": 1
+    "title": "SLY 2 - BAND OF THIEVES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97316.html"
   },
   {
     "id": "SCUS-97464",
-    "title": "Sly 3 - Honor Amongst Thieves",
-    "discs": 1
+    "title": "SLY 3 - HONOR AMONG THIEVES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97464.html"
   },
   {
     "id": "SLUS-20620",
-    "title": "Smash Cars",
-    "discs": 1
+    "title": "SMASH CARS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20620.html"
   },
   {
     "id": "SLUS-20286",
-    "title": "Smash Court Tennis - Pro Tournament",
-    "discs": 1
+    "title": "SMASH COURT TENNIS PRO TOURNAMENT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20286.html"
   },
   {
     "id": "SLUS-20933",
@@ -8983,8 +9930,12 @@
   },
   {
     "id": "SLUS-20065",
-    "title": "Smuggler's Run",
-    "discs": 1
+    "title": "SMUGGLER'S RUN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20065.html"
   },
   {
     "id": "SLUS-20204",
@@ -9013,28 +9964,30 @@
   },
   {
     "id": "SLUS-20196",
-    "title": "Soccer America",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20456",
-    "title": "Soccer Mania",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20509",
-    "title": "Soccer Slam",
-    "discs": 1
+    "title": "Soccer America - International Cup",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SCUS-97134",
-    "title": "SOCOM - U.S. Navy SEALs",
-    "discs": 1
+    "title": "SOCOM - U.S. NAVY SEALS [WITH HEADSET]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97134.html"
   },
   {
     "id": "SCUS-97230",
-    "title": "SOCOM - U.S. Navy SEALs (Online)",
-    "discs": 1
+    "title": "SOCOM - U.S. NAVY SEALS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97230.html"
   },
   {
     "id": "SCUS-97545",
@@ -9044,11 +9997,6 @@
   {
     "id": "SCUS-97275",
     "title": "SOCOM II - U.S. Navy SEALs",
-    "discs": 1
-  },
-  {
-    "id": "SCUS-97511",
-    "title": "SOCOM II - U.S. Navy SEALs (Greatest Hits)",
     "discs": 1
   },
   {
@@ -9086,17 +10034,21 @@
   },
   {
     "id": "SLUS-21331",
-    "title": "Sonic Raiders",
-    "discs": 1
+    "title": "SONIC RAIDERS",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "jp",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21331.html"
   },
   {
     "id": "SLUS-21642",
     "title": "Sonic Raiders - Zero Gravity",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21846",
-    "title": "Sonic Unleashed",
     "discs": 1,
     "languages": [
       "en",
@@ -9108,9 +10060,27 @@
     ]
   },
   {
+    "id": "SLUS-21846",
+    "title": "SONIC UNLEASHED",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "jp",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21846.html"
+  },
+  {
     "id": "SLUS-20643",
-    "title": "Soul Calibur 2",
-    "discs": 1
+    "title": "SOUL CALIBUR II",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20643.html"
   },
   {
     "id": "SLUS-21216",
@@ -9144,8 +10114,12 @@
   },
   {
     "id": "SLUS-21783",
-    "title": "Space Chimps",
-    "discs": 1
+    "title": "SPACE CHIMPS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21783.html"
   },
   {
     "id": "SLUS-21212",
@@ -9164,13 +10138,24 @@
   },
   {
     "id": "SLUS-21812",
-    "title": "Speed Racer",
-    "discs": 1
+    "title": "SPEED RACER - THE VIDEOGAME",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "pt",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21812.html"
   },
   {
     "id": "SLUS-20482",
-    "title": "Sphinx and the Cursed Mummy",
-    "discs": 1
+    "title": "SPHINX AND THE CURSED MUMMY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20482.html"
   },
   {
     "id": "SLUS-20336",
@@ -9183,8 +10168,12 @@
   },
   {
     "id": "SLUS-20776",
-    "title": "Spider-Man 2",
-    "discs": 1
+    "title": "SPIDER-MAN 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20776.html"
   },
   {
     "id": "SLUS-21552",
@@ -9198,32 +10187,21 @@
   },
   {
     "id": "SLUS-21822",
-    "title": "Spider-Man - Web of Shadows",
+    "title": "Spider-Man - Web of Shadows - Amazing Allies Edition",
     "discs": 1
   },
   {
     "id": "SLUS-20223",
-    "title": "Splashdown",
-    "discs": 1
+    "title": "SPLASHDOWN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20223.html"
   },
   {
     "id": "SLUS-20686",
     "title": "Splashdown - Rides Gone Wild",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21391",
-    "title": "SpongeBob SquarePants - Creature from the Krusty Krab",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21252",
-    "title": "SpongeBob Squarepants - Lights, Camera, PANTS!",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20425",
-    "title": "Spongebob Squarepants - Revenge of the Flying Dutchman",
     "discs": 1
   },
   {
@@ -9236,14 +10214,45 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20680.html"
   },
   {
-    "id": "SLUS-20904",
-    "title": "SpongeBob SquarePants - The Movie",
+    "id": "SLUS-21391",
+    "title": "SPONGEBOB SQUAREPANTS - CREATURE FROM THE KRUSTY KRAB",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21391.html"
+  },
+  {
+    "id": "SLUS-21252",
+    "title": "SpongeBob Squarepants - Lights, Camera, PANTS!",
     "discs": 1
   },
   {
+    "id": "SLUS-20425",
+    "title": "SPONGEBOB SQUAREPANTS - REVENGE OF THE FLYING DUTCHMAN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20425.html"
+  },
+  {
+    "id": "SLUS-20904",
+    "title": "SPONGEBOB SQUAREPANTS - THE MOVIE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20904.html"
+  },
+  {
     "id": "SLUS-21818",
-    "title": "SpongeBob SquarePants featuring Nicktoons - Globs of Doom",
-    "discs": 1
+    "title": "SPONGEBOB SQUAREPANTS FEATURING NICKTOONS - GLOBS OF DOOM",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21818.html"
   },
   {
     "id": "SLUS-21644",
@@ -9271,8 +10280,12 @@
   },
   {
     "id": "SLUS-20056",
-    "title": "Spy Hunter",
-    "discs": 1
+    "title": "SPY HUNTER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20056.html"
   },
   {
     "id": "SLUS-21421",
@@ -9281,38 +10294,58 @@
   },
   {
     "id": "SLUS-20590",
-    "title": "Spy Hunter 2",
-    "discs": 1
+    "title": "SPY HUNTER 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20590.html"
   },
   {
     "id": "SLUS-20884",
-    "title": "Spyro - A Hero's Tail",
-    "discs": 1
+    "title": "SPYRO - A HERO'S TAIL",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20884.html"
   },
   {
     "id": "SLUS-20315",
-    "title": "Spyro the Dragon  - Enter the Dragonfly",
+    "title": "Spyro - Enter the Dragonfly",
     "discs": 1
   },
   {
-    "id": "SLUS-21321",
-    "title": "Squadra Course Alfa Romeo",
-    "discs": 1
+    "id": "SLUS-20582",
+    "title": "SRS - STREET RACING SYNDICATE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20582.html"
   },
   {
     "id": "SLUS-20095",
     "title": "SSX",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20095.html"
+  },
+  {
+    "id": "SLUS-21278",
+    "title": "SSX - On Tour",
     "discs": 1
   },
   {
     "id": "SLUS-20772",
     "title": "SSX 3",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21278",
-    "title": "SSX on Tour",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20772.html"
   },
   {
     "id": "SLUS-20326",
@@ -9348,12 +10381,30 @@
   },
   {
     "id": "SLUS-20112",
-    "title": "Star Trek - Shattered Universe",
-    "discs": 1
+    "title": "STAR TREK - SHATTERED UNIVERSE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20112.html"
   },
   {
     "id": "SLUS-20227",
     "title": "Star Trek Voyager - Elite Force",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20898",
+    "title": "STAR WARS - BATTLEFRONT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20898.html"
+  },
+  {
+    "id": "SLUS-21240",
+    "title": "Star Wars - Battlefront II",
     "discs": 1
   },
   {
@@ -9366,14 +10417,13 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20420.html"
   },
   {
-    "id": "SLUS-20510",
-    "title": "Star Wars - Clone Wars",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21143",
-    "title": "Star Wars - Episode III - Revenge of the Sith",
-    "discs": 1
+    "title": "STAR WARS - EPISODE III - REVENGE OF THE SITH",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21143.html"
   },
   {
     "id": "SLUS-20293",
@@ -9386,8 +10436,12 @@
   },
   {
     "id": "SLUS-20268",
-    "title": "Star Wars - Racer Revenge",
-    "discs": 1
+    "title": "STAR WARS - RACER REVENGE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20268.html"
   },
   {
     "id": "SLUS-20044",
@@ -9396,8 +10450,25 @@
   },
   {
     "id": "SLUS-20043",
-    "title": "Star Wars - Super Bombad Racing",
-    "discs": 1
+    "title": "STAR WARS - SUPER BOMBAD RACING",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20043.html"
+  },
+  {
+    "id": "SLUS-20510",
+    "title": "STAR WARS - THE CLONE WARS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20510.html"
   },
   {
     "id": "SLUS-21913",
@@ -9407,17 +10478,11 @@
   {
     "id": "SLUS-21614",
     "title": "Star Wars - The Force Unleashed",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20898",
-    "title": "Star Wars Battlefront",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21240",
-    "title": "Star Wars Battlefront II",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20619",
@@ -9430,23 +10495,45 @@
   },
   {
     "id": "SLUS-20214",
-    "title": "State of Emergency",
-    "discs": 1
+    "title": "STATE OF EMERGENCY",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20214.html"
   },
   {
     "id": "SLUS-20966",
-    "title": "State of Emergency II",
-    "discs": 1
+    "title": "STATE OF EMERGENCY 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20966.html"
   },
   {
     "id": "SLUS-21344",
-    "title": "Steambot Chronicles",
+    "title": "STEAMBOT CHRONICLES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21344.html"
+  },
+  {
+    "id": "SLUS-21132",
+    "title": "Stella Deus - The Gate of Eternity",
     "discs": 1
   },
   {
     "id": "SLUS-21099",
     "title": "Stolen",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21497",
@@ -9469,17 +10556,16 @@
   },
   {
     "id": "SLUS-20130",
-    "title": "Street Fighter EX3",
-    "discs": 1
+    "title": "STREET FIGHTER EX3",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20130.html"
   },
   {
     "id": "SLUS-20299",
-    "title": "Street Hoops - King of the Court",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20582",
-    "title": "Street Racing Syndicate",
+    "title": "Street Hoops",
     "discs": 1
   },
   {
@@ -9493,8 +10579,12 @@
   },
   {
     "id": "SLUS-20846",
-    "title": "Strike Force Bowling",
-    "discs": 1
+    "title": "STRIKE FORCE BOWLING",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20846.html"
   },
   {
     "id": "SLUS-21341",
@@ -9518,8 +10608,12 @@
   },
   {
     "id": "SLUS-20548",
-    "title": "Sub Rebellion",
-    "discs": 1
+    "title": "SUB REBELLION",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20548.html"
   },
   {
     "id": "SLUS-20387",
@@ -9542,6 +10636,15 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21786",
+    "title": "SUMMER ATHLETICS - THE ULTIMATE CHALLENGE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21786.html"
+  },
+  {
     "id": "SLUS-20634",
     "title": "SUMMER HEAT BEACH VOLLEYBALL",
     "discs": 1,
@@ -9552,8 +10655,12 @@
   },
   {
     "id": "SLUS-20074",
-    "title": "Summoner",
-    "discs": 1
+    "title": "SUMMONER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20074.html"
   },
   {
     "id": "SLUS-20448",
@@ -9576,19 +10683,18 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20012",
-    "title": "Super Car Street Challenge",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21442",
     "title": "Super Dragon Ball Z",
     "discs": 1
   },
   {
     "id": "SLUS-21272",
-    "title": "Super Monkey Ball Adventure",
-    "discs": 1
+    "title": "SUPER MONKEY BALL ADVENTURE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21272.html"
   },
   {
     "id": "SLUS-20918",
@@ -9610,14 +10716,18 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20912",
-    "title": "Superbikes TT",
+    "id": "SLUS-20012",
+    "title": "Supercar Street Challenge",
     "discs": 1
   },
   {
     "id": "SLUS-20235",
-    "title": "Superman - Shadow of Apokolips",
-    "discs": 1
+    "title": "SUPERMAN - SHADOW OF APOKOLIPS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20235.html"
   },
   {
     "id": "SLUS-21434",
@@ -9636,13 +10746,28 @@
   },
   {
     "id": "SLUS-21500",
-    "title": "Suzuki Super-bikes II - Riding Challenge",
+    "title": "Suzuki Superbikes II - Riding Challenge",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
     ]
+  },
+  {
+    "id": "SLUS-20912",
+    "title": "Suzuki TT Superbikes",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20912",
+    "title": "Suzuki TT Superbikes - Real Road Racing",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21863",
+    "title": "Suzuki TT Superbikes - Real Road Racing Championship",
+    "discs": 1
   },
   {
     "id": "SLUS-21691",
@@ -9656,13 +10781,12 @@
   },
   {
     "id": "SLUS-20096",
-    "title": "Swing Away Golf",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20897",
-    "title": "Swords of Yi",
-    "discs": 1
+    "title": "SWING AWAY GOLF",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20096.html"
   },
   {
     "id": "SCUS-97362",
@@ -9676,18 +10800,22 @@
   },
   {
     "id": "SCUS-97264",
-    "title": "Syphon Filter - The Omega Strain",
-    "discs": 1
-  },
-  {
-    "id": "SCUS-97520",
-    "title": "Syphon Filter - The Omega Strain (Greatest Hits)",
-    "discs": 1
+    "title": "SYPHON FILTER - THE OMEGA STRAIN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97264.html"
   },
   {
     "id": "SLUS-21595",
     "title": "T.M.N.T. - Teenage Mutant Ninja Turtles",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20800",
@@ -9700,8 +10828,12 @@
   },
   {
     "id": "SLUS-21122",
-    "title": "Taito Legends",
-    "discs": 1
+    "title": "TAITO LEGENDS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21122.html"
   },
   {
     "id": "SLUS-21349",
@@ -9710,8 +10842,12 @@
   },
   {
     "id": "SLUS-21218",
-    "title": "Tak - The Great Juju Challenge",
-    "discs": 1
+    "title": "TAK - THE GREAT JUJU CHALLENGE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21218.html"
   },
   {
     "id": "SLUS-20952",
@@ -9724,8 +10860,12 @@
   },
   {
     "id": "SLUS-21797",
-    "title": "Tak and the Guardians of Gross",
-    "discs": 1
+    "title": "TAK AND THE GUARDIANS OF GROSS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21797.html"
   },
   {
     "id": "SLUS-20519",
@@ -9755,16 +10895,15 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21386.html"
   },
   {
-    "id": "SLUS-20444",
-    "title": "Tankera",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20236",
-    "title": "TAZ WANTED",
+    "title": "TAZ - WANTED",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20236.html"
   },
@@ -9775,23 +10914,41 @@
   },
   {
     "id": "SLUS-21183",
-    "title": "Teen Titans",
-    "discs": 1
+    "title": "TEEN TITANS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21183.html"
   },
   {
     "id": "SLUS-20716",
-    "title": "Teenage Mutant Ninja Turtles",
-    "discs": 1
+    "title": "TEENAGE MUTANT NINJA TURTLES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20716.html"
   },
   {
     "id": "SLUS-20981",
-    "title": "Teenage Mutant Ninja Turtles 2",
+    "title": "Teenage Mutant Ninja Turtles 2 - Battle Nexus",
     "discs": 1
   },
   {
     "id": "SLUS-21184",
     "title": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare",
     "discs": 1
+  },
+  {
+    "id": "SLUS-21904",
+    "title": "Teenage Mutant Ninja Turtles - Smash Up",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20328",
@@ -9814,26 +10971,40 @@
   },
   {
     "id": "SLUS-20001",
-    "title": "Tekken Tag Tournament",
+    "title": "TEKKEN TAG TOURNAMENT",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20001.html"
+  },
+  {
+    "id": "SLUS-21129",
+    "title": "Tenchu - Fatal Shadows",
     "discs": 1
   },
   {
     "id": "SLUS-20397",
-    "title": "Tenchu 3 - Wrath of Heaven",
+    "title": "TENCHU - WRATH OF HEAVEN",
     "discs": 1,
     "languages": [
       "en",
       "jp"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20397.html"
   },
   {
-    "id": "SLUS-21129",
-    "title": "Tenchu 4 - Fatal Shadows",
-    "discs": 1
+    "id": "SLUS-20799",
+    "title": "TERMINATOR 3 - RISE OF THE MACHINES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20799.html"
   },
   {
-    "id": "SLUS-20480",
-    "title": "Tennis",
+    "id": "SLUS-20852",
+    "title": "Terminator 3 - The Redemption",
     "discs": 1
   },
   {
@@ -9853,28 +11024,35 @@
   },
   {
     "id": "SLUS-21490",
-    "title": "Test Drive Unlimited",
+    "title": "Test Drive - Unlimited",
     "discs": 1
   },
   {
     "id": "SLUS-20247",
-    "title": "Tetris Worlds",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20099",
-    "title": "Theme Park Rollercoaster",
-    "discs": 1
+    "title": "TETRIS WORLDS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20247.html"
   },
   {
     "id": "SLUS-21618",
-    "title": "Th3 Plan",
-    "discs": 1
+    "title": "TH3 PLAN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21618.html"
   },
   {
     "id": "SLUS-20170",
-    "title": "The Adventures of Cookie & Cream",
-    "discs": 1
+    "title": "THE ADVENTURES OF COOKIE & CREAM",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20170.html"
   },
   {
     "id": "SLUS-21592",
@@ -9883,22 +11061,31 @@
   },
   {
     "id": "SLUS-20887",
-    "title": "The Adventures of Jimmy Neutron - Attack of the Twonkies",
-    "discs": 1
+    "title": "THE ADVENTURES OF JIMMY NEUTRON - BOY GENIUS - ATTACK OF THE TWONKIES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20887.html"
   },
   {
     "id": "SLUS-21415",
-    "title": "The Ant Bully",
+    "title": "THE ANT BULLY",
     "discs": 1,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21415.html"
   },
   {
     "id": "SLUS-20803",
-    "title": "The Bards Tale",
-    "discs": 1
+    "title": "THE BARD'S TALE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20803.html"
   },
   {
     "id": "SLUS-21175",
@@ -9963,12 +11150,21 @@
   {
     "id": "SLUS-20959",
     "title": "The Dukes of Hazzard - Return of the General Lee",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20661",
-    "title": "The Fairly Odd Parents - Breakin' Da Rules",
-    "discs": 1
+    "title": "THE FAIRLY ODDPARENTS! - BREAKING DA RULES",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20661.html"
   },
   {
     "id": "SLUS-20880",
@@ -9977,8 +11173,12 @@
   },
   {
     "id": "SLUS-21449",
-    "title": "The Fast and the Furious - Tokyo Drift",
-    "discs": 1
+    "title": "THE FAST & THE FURIOUS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21449.html"
   },
   {
     "id": "SCUS-97133",
@@ -9994,13 +11194,14 @@
   },
   {
     "id": "SCUS-97408",
-    "title": "The Getaway - Black Monday",
+    "title": "THE GETAWAY - BLACK MONDAY",
     "discs": 1,
     "languages": [
       "en",
       "fr",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97408.html"
   },
   {
     "id": "SLUS-21385",
@@ -10022,13 +11223,21 @@
   },
   {
     "id": "SLUS-21677",
-    "title": "The Golden Compass",
-    "discs": 1
+    "title": "THE GOLDEN COMPASS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21677.html"
   },
   {
     "id": "SLUS-20670",
-    "title": "The Great Escape",
-    "discs": 1
+    "title": "THE GREAT ESCAPE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20670.html"
   },
   {
     "id": "SLUS-21451",
@@ -10041,6 +11250,21 @@
     "discs": 1
   },
   {
+    "id": "SLUS-21712",
+    "title": "The History Channel - Battle for the Pacific",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21474",
+    "title": "The History Channel - Civil War - A Nation Divided",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21835",
+    "title": "The History Channel - Civil War - Secret Mission",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20655",
     "title": "THE HOBBIT - THE PRELUDE TO THE LORD OF THE RINGS",
     "discs": 1,
@@ -10050,13 +11274,8 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20655.html"
   },
   {
-    "id": "SLUS-20422",
-    "title": "The Hulk",
-    "discs": 1
-  },
-  {
     "id": "SLUS-21335",
-    "title": "The Hustle - Detroit Streets - Kat's Story",
+    "title": "The Hustle - Detroit Streets",
     "discs": 1
   },
   {
@@ -10071,8 +11290,12 @@
   },
   {
     "id": "SLUS-20784",
-    "title": "The Italian Job",
-    "discs": 1
+    "title": "THE ITALIAN JOB",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20784.html"
   },
   {
     "id": "SLUS-21816",
@@ -10116,8 +11339,13 @@
     "discs": 1
   },
   {
+    "id": "SLUS-20522",
+    "title": "The King of Route 66",
+    "discs": 1
+  },
+  {
     "id": "SLUS-20045",
-    "title": "The Legend of Alon Dar",
+    "title": "The Legend of Alon D'ar",
     "discs": 1
   },
   {
@@ -10184,12 +11412,21 @@
   },
   {
     "id": "SLUS-20253",
-    "title": "The Mummy Returns",
-    "discs": 1
+    "title": "THE MUMMY RETURNS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20253.html"
   },
   {
     "id": "SLUS-21775",
     "title": "The Mummy - Tomb of the Dragon Emperor",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21802",
+    "title": "The Naked Brothers - The Videogame",
     "discs": 1
   },
   {
@@ -10200,6 +11437,11 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-21071.html"
+  },
+  {
+    "id": "SLUS-20028",
+    "title": "The Operative - No One Lives Forever",
+    "discs": 1
   },
   {
     "id": "SLUS-20989",
@@ -10229,7 +11471,14 @@
   {
     "id": "SLUS-21896",
     "title": "The Secret Saturdays - Beasts of the 5th Sun",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21040",
@@ -10252,8 +11501,12 @@
   },
   {
     "id": "SLUS-20305",
-    "title": "The Simpsons - Road Rage",
-    "discs": 1
+    "title": "THE SIMPSONS - ROAD RAGE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20305.html"
   },
   {
     "id": "SLUS-20114",
@@ -10291,12 +11544,12 @@
   },
   {
     "id": "SLUS-21388",
-    "title": "The Sopranos",
+    "title": "The Sopranos - Road to respect",
     "discs": 1
   },
   {
     "id": "SLUS-21549",
-    "title": "The Sopranos (Collector's Edition)",
+    "title": "The Sopranos - Road To Respect (Limited Edition)",
     "discs": 1
   },
   {
@@ -10336,16 +11589,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20799",
-    "title": "The Terminator - Rise of the Machines",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20852",
-    "title": "The Terminator 3 - The Redemption",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20371",
     "title": "The Thing",
     "discs": 1
@@ -10376,6 +11619,11 @@
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20179.html"
   },
   {
+    "id": "SLUS-20099",
+    "title": "Theme Park - Rollercoaster",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21413",
     "title": "Thrillville",
     "discs": 1
@@ -10388,6 +11636,11 @@
   {
     "id": "SLUS-20232",
     "title": "Thunderstrike - Operation Phoenix",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21264",
+    "title": "Tiger Woods PGA Tour '06",
     "discs": 1
   },
   {
@@ -10436,11 +11689,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21264",
-    "title": "Tiger Woods PGA Tour 2006",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20860",
     "title": "TIM BURTON'S THE NIGHTMARE BEFORE CHRISTMAS - OOGIE'S REVENGE",
     "discs": 1,
@@ -10470,13 +11718,21 @@
   },
   {
     "id": "SLUS-20090",
-    "title": "TimeSplitters",
-    "discs": 1
+    "title": "TIMESPLITTERS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20090.html"
   },
   {
     "id": "SLUS-20314",
-    "title": "TimeSplitters  2",
-    "discs": 1
+    "title": "TIMESPLITTERS 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20314.html"
   },
   {
     "id": "SLUS-21148",
@@ -10490,12 +11746,16 @@
   },
   {
     "id": "SLUS-21039",
-    "title": "TOCA Race Driver 2 - The Ultimate Racing Simulator",
-    "discs": 1
+    "title": "TOCA RACE DRIVER 2 - THE ULTIMATE RACING SIMULATOR",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21039.html"
   },
   {
     "id": "SLUS-21182",
-    "title": "TOCA Race Driver 3",
+    "title": "TOCA Race Driver 3 - The Ultimate Racing Simulator",
     "discs": 1
   },
   {
@@ -10504,13 +11764,23 @@
     "discs": 1
   },
   {
+    "id": "SLUS-20831",
+    "title": "Tokyo Xtreme Racer 3",
+    "discs": 1
+  },
+  {
     "id": "SLUS-21236",
-    "title": "Tokyo Xtreme Racer Drift",
+    "title": "Tokyo Xtreme Racer - Drift",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21394",
+    "title": "Tokyo Xtreme Racer - Drift 2",
     "discs": 1
   },
   {
     "id": "SLUS-20189",
-    "title": "Tokyo Xtreme Racer Zero",
+    "title": "Tokyo Xtreme Racer - Zero",
     "discs": 1
   },
   {
@@ -10544,7 +11814,12 @@
   {
     "id": "SLUS-21105",
     "title": "Tom Clancy's Ghost Recon 2",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21144",
@@ -10553,8 +11828,12 @@
   },
   {
     "id": "SLUS-20883",
-    "title": "Tom Clancy's Rainbow Six 3",
-    "discs": 1
+    "title": "TOM CLANCY'S RAINBOW SIX 3",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20883.html"
   },
   {
     "id": "SLUS-20652",
@@ -10564,6 +11843,16 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20652.html"
+  },
+  {
+    "id": "SLUS-21137",
+    "title": "Tom Clancy's Splinter Cell - Chaos Theory",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21356",
@@ -10577,23 +11866,17 @@
   },
   {
     "id": "SLUS-20958",
-    "title": "Tom Clancy's Splinter Cell 2 - Pandora Tomorrow",
+    "title": "Tom Clancy's Splinter Cell - Pandora Tomorrow",
     "discs": 1
-  },
-  {
-    "id": "SLUS-21137",
-    "title": "Tom Clancy's Splinter Cell 3 - Chaos Theory",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "es"
-    ]
   },
   {
     "id": "SLUS-21208",
-    "title": "Tony Hawk's American Wasteland",
-    "discs": 1
+    "title": "TONY HAWK'S AMERICAN WASTELAND",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21208.html"
   },
   {
     "id": "SLUS-21295",
@@ -10627,8 +11910,12 @@
   },
   {
     "id": "SLUS-20731",
-    "title": "Tony Hawk's Underground",
-    "discs": 1
+    "title": "TONY HAWK'S UNDERGROUND",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20731.html"
   },
   {
     "id": "SLUS-20965",
@@ -10653,7 +11940,11 @@
   {
     "id": "SLUS-21222",
     "title": "Top Spin",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-21375",
@@ -10678,7 +11969,7 @@
   },
   {
     "id": "SLUS-21795",
-    "title": "Totally Spies! Totally Party",
+    "title": "Totally Spies! - Totally Party",
     "discs": 1
   },
   {
@@ -10698,7 +11989,7 @@
   },
   {
     "id": "SLUS-21602",
-    "title": "Transformers -The Game",
+    "title": "Transformers - The Game",
     "discs": 1
   },
   {
@@ -10762,23 +12053,43 @@
   },
   {
     "id": "SLUS-20333",
-    "title": "Turok - Evolution",
-    "discs": 1
+    "title": "TUROK - EVOLUTION",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20333.html"
   },
   {
     "id": "SCUS-97101",
-    "title": "Twisted Metal - Black",
-    "discs": 1
+    "title": "TWISTED METAL - BLACK",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97101.html"
   },
   {
     "id": "SCUS-97179",
-    "title": "Twisted Metal - Black (Greatest Hits)",
-    "discs": 1
+    "title": "TWISTED METAL - BLACK [GREATEST HITS]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97179.html"
   },
   {
-    "id": "SCUS-97195",
-    "title": "Twisted Metal - Black Online",
-    "discs": 1
+    "id": "SCUS-97196",
+    "title": "TWISTED METAL - BLACK ONLINE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97196.html"
   },
   {
     "id": "SCUS-97621",
@@ -10786,16 +12097,14 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21394",
-    "title": "TXR Drift 2",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20571",
     "title": "TY - THE TAZMANIAN TIGER",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "de",
+      "es"
     ],
     "link": "https://psxdatacenter.com/psx2/games2/SLUS-20571.html"
   },
@@ -10806,7 +12115,7 @@
   },
   {
     "id": "SLUS-21253",
-    "title": "Ty - The Tasmanian Tiger 3",
+    "title": "Ty - The Tasmanian Tiger 3 - Night of the Quinkan",
     "discs": 1
   },
   {
@@ -10816,12 +12125,16 @@
   },
   {
     "id": "SLUS-20936",
-    "title": "UEFA Euro 2004",
-    "discs": 1
+    "title": "UEFA Euro 2004 Portugal",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
   },
   {
     "id": "SLUS-21699",
-    "title": "UEFA Euro 2008",
+    "title": "UEFA Euro 2008 Austria-Switzerland",
     "discs": 1
   },
   {
@@ -10856,7 +12169,7 @@
   },
   {
     "id": "SLUS-20173",
-    "title": "Unison",
+    "title": "Unison - Rebels of Rhythm and Dance",
     "discs": 1
   },
   {
@@ -10876,13 +12189,22 @@
   },
   {
     "id": "SLUS-21209",
-    "title": "Urban Reign",
-    "discs": 1
+    "title": "URBAN REIGN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21209.html"
   },
   {
     "id": "SLUS-20496",
     "title": "V-Rally 3",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "en"
+    ]
   },
   {
     "id": "SLUS-21452",
@@ -10897,11 +12219,6 @@
   {
     "id": "SLUS-20738",
     "title": "Van Helsing",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21226",
-    "title": "Velocity",
     "discs": 1
   },
   {
@@ -10921,8 +12238,12 @@
   },
   {
     "id": "SLUS-21068",
-    "title": "Vietcong - Purple Haze",
-    "discs": 1
+    "title": "VIETCONG - PURPLE HAZE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21068.html"
   },
   {
     "id": "SLUS-20951",
@@ -10941,12 +12262,12 @@
   },
   {
     "id": "SLUS-20616",
-    "title": "Virtua Fighter 4 - Evolution",
+    "title": "Virtua Fighter 4 - Evolution [Greatest Hits]",
     "discs": 1
   },
   {
     "id": "SLUS-20977",
-    "title": "Virtua Fighter Cyber Generation",
+    "title": "Virtua Quest",
     "discs": 1
   },
   {
@@ -10961,7 +12282,16 @@
   },
   {
     "id": "SLUS-20647",
-    "title": "Wallace & Gromit in Project Zoo",
+    "title": "WALLACE & GROMIT IN PROJECT ZOO",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20647.html"
+  },
+  {
+    "id": "SLUS-20075",
+    "title": "Walt Disney - The Jungle Book - Rhythm N'Groove",
     "discs": 1
   },
   {
@@ -10971,7 +12301,7 @@
   },
   {
     "id": "SLUS-20597",
-    "title": "Warhammer 40K - Fire Warrior",
+    "title": "Warhammer 40000 - Fire Warrior",
     "discs": 1
   },
   {
@@ -11033,8 +12363,12 @@
   },
   {
     "id": "SLUS-20684",
-    "title": "Whiplash",
-    "discs": 1
+    "title": "WHIPLASH",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20684.html"
   },
   {
     "id": "SLUS-20489",
@@ -11107,7 +12441,7 @@
   },
   {
     "id": "SLUS-20623",
-    "title": "Winning Eleven 6 World Soccer – International",
+    "title": "Winning Eleven 6 - World Soccer – International",
     "discs": 1,
     "languages": [
       "en",
@@ -11119,7 +12453,7 @@
   },
   {
     "id": "SLUS-20863",
-    "title": "Winning Eleven 7 World Soccer – International",
+    "title": "Winning Eleven 7 - World Soccer – International",
     "discs": 1,
     "languages": [
       "en",
@@ -11131,7 +12465,7 @@
   },
   {
     "id": "SLUS-21117",
-    "title": "Winning Eleven 8 World Soccer – International",
+    "title": "Winning Eleven 8 - World Soccer – International",
     "discs": 1,
     "languages": [
       "en",
@@ -11143,7 +12477,7 @@
   },
   {
     "id": "SLUS-21220",
-    "title": "Winning Eleven 9 World Soccer – International",
+    "title": "Winning Eleven 9 - World Soccer – International",
     "discs": 1,
     "languages": [
       "en",
@@ -11156,7 +12490,20 @@
   {
     "id": "SLUS-21849",
     "title": "Winter Sports 2 - The Ultimate Challenge",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
+  },
+  {
+    "id": "SLUS-21713",
+    "title": "Winter Sports 2008 - The Ultimate Challenge",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20462",
@@ -11177,7 +12524,7 @@
   },
   {
     "id": "SLUS-20259",
-    "title": "Wizadry - Tale of the Forsaken",
+    "title": "Wizardry - Tale of the Forsaken Land",
     "discs": 1
   },
   {
@@ -11216,7 +12563,7 @@
   },
   {
     "id": "SLUS-21412",
-    "title": "World Championship Poker 2 featuring Howard Lederer - All in",
+    "title": "World Championship Poker featuring Howard Lederer - All in",
     "discs": 1
   },
   {
@@ -11250,11 +12597,6 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21472",
-    "title": "World Pool Challenge '06",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20611",
     "title": "World Series Baseball 2K3",
     "discs": 1
@@ -11275,19 +12617,27 @@
     "discs": 1
   },
   {
-    "id": "SLUS-21656",
-    "title": "World Superbikes '07",
-    "discs": 1
-  },
-  {
     "id": "SCUS-97172",
-    "title": "World Tour Soccer 2002",
-    "discs": 1
+    "title": "WORLD TOUR SOCCER 2002",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SCUS-97172.html"
   },
   {
     "id": "SCUS-97233",
     "title": "World Tour Soccer 2003",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "nl",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "es"
+    ]
   },
   {
     "id": "SCUS-97365",
@@ -11303,7 +12653,13 @@
   {
     "id": "SCUS-97463",
     "title": "World Tour Soccer 2006",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "it",
+      "es"
+    ]
   },
   {
     "id": "SLUS-20894",
@@ -11318,7 +12674,11 @@
   {
     "id": "SLUS-21093",
     "title": "Worms Forts - Under Siege!",
-    "discs": 1
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "SLUS-20840",
@@ -11332,8 +12692,12 @@
   },
   {
     "id": "SLUS-20431",
-    "title": "Wreckless - The Yakuza Missions",
-    "discs": 1
+    "title": "WRECKLESS - THE YAKUZA MISSIONS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20431.html"
   },
   {
     "id": "SLUS-20357",
@@ -11346,7 +12710,7 @@
   },
   {
     "id": "SLUS-21940",
-    "title": "WWE All Stars",
+    "title": "WWE ALL STARS",
     "discs": 1,
     "languages": [
       "en",
@@ -11354,7 +12718,8 @@
       "de",
       "it",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21940.html"
   },
   {
     "id": "SLUS-20385",
@@ -11362,13 +12727,18 @@
     "discs": 1
   },
   {
-    "id": "SLUS-20483",
-    "title": "WWE Smackdown - Shut Your Mouth",
+    "id": "SLUS-20787",
+    "title": "WWE Smackdown! - Here Comes the Pain",
     "discs": 1
   },
   {
-    "id": "SLUS-20787",
-    "title": "WWE Smackdown! Here Comes the Pain",
+    "id": "SLUS-20316",
+    "title": "WWE Smackdown! - Just Bring It!",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20483",
+    "title": "WWE Smackdown! - Shut Your Mouth",
     "discs": 1
   },
   {
@@ -11421,18 +12791,13 @@
     ]
   },
   {
-    "id": "SLUS-20316",
-    "title": "WWE Smackdown! - Just Bring It!",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20715",
-    "title": "WWII Paratroopers",
-    "discs": 1
-  },
-  {
     "id": "SLUS-20094",
     "title": "X Squad",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-20337",
+    "title": "X2 - Wolverines Revenge",
     "discs": 1
   },
   {
@@ -11447,11 +12812,6 @@
   {
     "id": "SLUS-21107",
     "title": "X-Men - The Official Game",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-20337",
-    "title": "X-Men - Wolverines Revenge",
     "discs": 1
   },
   {
@@ -11472,15 +12832,6 @@
       "en",
       "fr"
     ]
-  },
-  {
-    "id": "SLUS-20677",
-    "title": "XIII",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20677.html"
   },
   {
     "id": "SLUS-20469",
@@ -11504,9 +12855,32 @@
     "discs": 2
   },
   {
-    "id": "SLUS-21405",
-    "title": "Xiaolin Showdown",
+    "id": "SLUS-20302",
+    "title": "XG3 - Extreme-G Racing",
     "discs": 1
+  },
+  {
+    "id": "SLUS-20632",
+    "title": "XGRA - Extreme-G Racing Association",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21405",
+    "title": "XIAOLIN SHOWDOWNS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-21405.html"
+  },
+  {
+    "id": "SLUS-20677",
+    "title": "XIII",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20677.html"
   },
   {
     "id": "SLUS-21348",
@@ -11524,17 +12898,16 @@
   },
   {
     "id": "SLUS-20278",
-    "title": "Yanya Caballista - City Skater",
-    "discs": 1
+    "title": "YANYA CABALLISTA - CITY SKATER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/psx2/games2/SLUS-20278.html"
   },
   {
     "id": "SLUS-21149",
     "title": "Yourself Fitness",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21249",
-    "title": "Yourself Fitness - Lifestyle",
     "discs": 1
   },
   {
@@ -11548,37 +12921,37 @@
   },
   {
     "id": "SLUS-20805",
-    "title": "Yu Yu Hakusho - Dark Tournament",
+    "title": "Yu-Yu Hakusho - Dark Tournament",
     "discs": 1
   },
   {
     "id": "SLUS-20940",
-    "title": "Yu-Gi-Oh! Capsule Monster Coliseumt",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21683",
-    "title": "Yu-Gi-Oh! The Beginning of Destiny",
+    "title": "Yu-Gi-Oh! - Capsule Monster Coliseumt",
     "discs": 1
   },
   {
     "id": "SLUS-20515",
-    "title": "Yu-Gi-Oh! The Duelists of the Roses",
+    "title": "Yu-Gi-Oh! - The Duelists of the Roses",
     "discs": 1
   },
   {
-    "id": "SLUS-21254",
-    "title": "Zach Bell! Mamodo Battles",
-    "discs": 1
-  },
-  {
-    "id": "SLUS-21363",
-    "title": "Zatch Bell! Mamodo Fury",
+    "id": "SLUS-21683",
+    "title": "Yu-Gi-Oh! GX - The Beginning of Destiny",
     "discs": 1
   },
   {
     "id": "SLUS-20528",
     "title": "Zapper - One Wicked Cricket",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21254",
+    "title": "ZatchBell! - Mamodo Battles",
+    "discs": 1
+  },
+  {
+    "id": "SLUS-21363",
+    "title": "ZatchBell! - Mamodo Fury",
     "discs": 1
   },
   {

@@ -1538,7 +1538,7 @@
   },
   {
     "id": "SLUS-00725",
-    "title": "BUST A MOVE '99",
+    "title": "BUST-A-MOVE '99",
     "discs": 1,
     "languages": [
       "en"
@@ -2764,6 +2764,15 @@
     "link": "https://psxdatacenter.com/games/U/D/SLUS-00529.html"
   },
   {
+    "id": "SLUS-01029",
+    "title": "DISNEY'S HERCULES - THE ACTION GAME [RERELEASE]",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/D/SLUS-01029.html"
+  },
+  {
     "id": "SCUS-94646",
     "title": "DISNEY'S LILO & STITCH",
     "discs": 1,
@@ -2828,7 +2837,7 @@
   },
   {
     "id": "SLUS-01282",
-    "title": "DISNEY'S THE LION KING II - SIMBA'S MIGHTY ADVENTURE",
+    "title": "DISNEY'S THE LION KING - SIMBA'S MIGHTY ADVENTURE",
     "discs": 1,
     "languages": [
       "en"
@@ -5210,8 +5219,12 @@
   },
   {
     "id": "LSP-990122",
-    "title": "Lightspan - 16 Tales 2",
-    "discs": 1
+    "title": "LIGHTSPAN - 16 TALES 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-990122.html"
   },
   {
     "id": "LSP-990123",
@@ -5301,19 +5314,31 @@
     "link": "https://psxdatacenter.com/games/U/L/LSP-010380.html"
   },
   {
-    "id": "LSP-905031",
-    "title": "Lightspan - Calamity 1 - The Natural World",
-    "discs": 1
+    "id": "LSP-200110",
+    "title": "LIGHTSPAN - CALAMITY 1 - THE NATURAL WORLD",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-200110.html"
   },
   {
-    "id": "LSP-905048",
-    "title": "Lightspan - Calamity 2 - People and Traditions",
-    "discs": 1
+    "id": "LSP-200220",
+    "title": "LIGHTSPAN - CALAMITY 2 - PEOPLE AND TRADITIONS",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-200220.html"
   },
   {
-    "id": "LSP-905055",
-    "title": "Lightspan - Calamity 3 - Around the World",
-    "discs": 1
+    "id": "LSP-200330",
+    "title": "LIGHTSPAN - CALAMITY 3 - AROUND THE WORLD",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-200330.html"
   },
   {
     "id": "LSP-903426",
@@ -5469,8 +5494,12 @@
   },
   {
     "id": "LSP-010250",
-    "title": "Lightspan - Liquid Books 2 - Amrita's Trees * Cerdito and the Coyote",
-    "discs": 1
+    "title": "LIGHTSPAN - LIQUID BOOKS ADVENTURE 2 - AMRITA'S TREES AND CERDITO AND THE COYOTE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-010250.html"
   },
   {
     "id": "LSP-010350",
@@ -5495,11 +5524,6 @@
   {
     "id": "LSP-903433",
     "title": "Lightspan - Math Gallery 1 - Collection 1",
-    "discs": 1
-  },
-  {
-    "id": "LSP-903440",
-    "title": "Lightspan - Math Gallery 2 - Collection 2",
     "discs": 1
   },
   {
@@ -5649,43 +5673,48 @@
   },
   {
     "id": "LSP-060101",
-    "title": "Lightspan - The Quaddle Family Mysteries 1 - The Case of the Scarce Scarab",
-    "discs": 1
+    "title": "LIGHTSPAN - THE QUADDLE FAMILY MYSTERIES 1 - THE CASE OF THE SCARCE SCARAB - LOBBY - KITCHEN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-060101.html"
   },
   {
     "id": "LSP-060102",
-    "title": "Lightspan - The Quaddle Family Mysteries 2 - The Case of the Scarce Scarab (Garden)",
-    "discs": 1
+    "title": "LIGHTSPAN - THE QUADDLE FAMILY MYSTERIES 2 - THE CASE OF THE SCARCE SCARAB - GARDEN",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-060102.html"
   },
   {
-    "id": "LSP-020650",
-    "title": "Lightspan - The Secret of Googol - Eggs All Around 7",
-    "discs": 1
-  },
-  {
-    "id": "LSP-020780",
-    "title": "Lightspan - The Secret of Googol - Googol Gulch 8",
-    "discs": 1
-  },
-  {
-    "id": "LSP-020450",
-    "title": "Lightspan - The Secret of Googol - Googolfest 5",
-    "discs": 1
-  },
-  {
-    "id": "LSP-020570",
-    "title": "Lightspan - The Secret of Googol - Googolfest 6",
-    "discs": 1
+    "id": "LSP-060103",
+    "title": "LIGHTSPAN - THE QUADDLE FAMILY MYSTERIES 3 - THE CASE OF THE SCARCE SCARAB - PARLOR - FAMILY ROOM",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-060103.html"
   },
   {
     "id": "LSP-020160",
-    "title": "Lightspan - The Secret of Googol - Reshaping Googol 1a - The Submarine",
-    "discs": 1
+    "title": "LIGHTSPAN - THE SECRET OF GOOGOL - 1A - RESHAPING GOOGOL - THE SUBMARINE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-020160.html"
   },
   {
     "id": "LSP-020150",
-    "title": "Lightspan - The Secret of Googol - Reshaping Googol 1b - The Tower",
-    "discs": 1
+    "title": "LIGHTSPAN - THE SECRET OF GOOGOL - 1B - RESHAPING GOOGOL - THE TOWER",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-020150.html"
   },
   {
     "id": "LSP-020180",
@@ -5705,6 +5734,26 @@
   {
     "id": "LSP-020280",
     "title": "Lightspan - The Secret of Googol - The Google Counting Fair 4 - Corral * Fun House",
+    "discs": 1
+  },
+  {
+    "id": "LSP-020450",
+    "title": "Lightspan - The Secret of Googol - Googolfest 5",
+    "discs": 1
+  },
+  {
+    "id": "LSP-020570",
+    "title": "Lightspan - The Secret of Googol - Googolfest 6",
+    "discs": 1
+  },
+  {
+    "id": "LSP-020650",
+    "title": "Lightspan - The Secret of Googol - Eggs All Around 7",
+    "discs": 1
+  },
+  {
+    "id": "LSP-020780",
+    "title": "Lightspan - The Secret of Googol - Googol Gulch 8",
     "discs": 1
   },
   {
@@ -5759,8 +5808,12 @@
   },
   {
     "id": "LSP-909022",
-    "title": "Lightspan - Unknown Variable 2 - Raven's Ridge",
-    "discs": 1
+    "title": "LIGHTSPAN - UNKNOWN VARIABLE 2 - RAVEN'S RIDGE",
+    "discs": 1,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/U/L/LSP-909022.html"
   },
   {
     "id": "LSP-170110",
@@ -8250,7 +8303,7 @@
   },
   {
     "id": "SLUS-01033",
-    "title": "POLARIS SNOWCROSS",
+    "title": "POLARIS SNOCROSS",
     "discs": 1,
     "languages": [
       "en"

@@ -47,6 +47,18 @@
     ]
   },
   {
+    "id": "NPEZ-00175",
+    "title": "20Q",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
     "id": "NPEH-00068",
     "title": "3, 2, 1... SuperCrash!",
     "discs": 1,
@@ -83,7 +95,7 @@
     ]
   },
   {
-    "id": "NPUZ-00104",
+    "id": "NPEZ-00205",
     "title": "4x4 Jam",
     "discs": 1,
     "languages": [
@@ -366,6 +378,14 @@
     ]
   },
   {
+    "id": "NPEZ-00475",
+    "title": "Angus Hates Aliens",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "NPEZ-00184",
     "title": "Apache Overkill/td>",
     "discs": 1,
@@ -513,7 +533,7 @@
     ]
   },
   {
-    "id": "NPEZ-00293",
+    "id": "NPEZ-00203",
     "title": "Archibald's Adventures",
     "discs": 1,
     "languages": [
@@ -2041,7 +2061,7 @@
   },
   {
     "id": "ULES-00718",
-    "title": "Co8ded Arms - Contagion",
+    "title": "Coded Arms - Contagion",
     "discs": 1,
     "languages": [
       "en",
@@ -2750,6 +2770,23 @@
     ]
   },
   {
+    "id": "UCES-01564",
+    "title": "Disney's Phineas and Ferb - Across the 2nd Dimension",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+      "nl",
+      "pt",
+      "pl",
+      "el",
+      "ru"
+    ]
+  },
+  {
     "id": "ULES-00727",
     "title": "Disney's Pirates of the Caribbean - At World's End",
     "discs": 1,
@@ -3316,6 +3353,27 @@
     ]
   },
   {
+    "id": "ULES-01415",
+    "title": "DreamWorks' Megamind - The Blue Defender",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "ULES-01465",
+    "title": "DreamWorks' Megamind - The Blue Defender",
+    "discs": 1,
+    "languages": [
+      "ru"
+    ]
+  },
+  {
     "id": "ULES-00663",
     "title": "DreamWorks' Over the Hedge - Hammy Goes Nuts!",
     "discs": 1,
@@ -3855,11 +3913,7 @@
     "title": "Exit 2",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "en"
     ]
   },
   {
@@ -4942,8 +4996,8 @@
     ]
   },
   {
-    "id": "ULES-00034",
-    "title": "Football Manager Handheld 2009",
+    "id": "ULES-00934",
+    "title": "Football Manager Handheld 2008",
     "discs": 1,
     "languages": [
       "en",
@@ -4992,6 +5046,18 @@
   {
     "id": "ULES-01559",
     "title": "Football Manager Handheld 2012",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
+    "id": "ULES-01582",
+    "title": "Football Manager Handheld 2013",
     "discs": 1,
     "languages": [
       "en",
@@ -5945,6 +6011,18 @@
     ]
   },
   {
+    "id": "ULES-01179",
+    "title": "History Channel - Military History Commander - Europe at War",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
     "id": "NPEZ-00214",
     "title": "Hive Sweeper",
     "discs": 1,
@@ -6811,6 +6889,30 @@
     ]
   },
   {
+    "id": "ULES-00826",
+    "title": "Lara Croft - Tomb Raider - Anniversary",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
+    "id": "ULES-00283",
+    "title": "Lara Croft - Tomb Raider - Legend",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
     "id": "ULES-00397",
     "title": "Le Parrain",
     "discs": 1,
@@ -7019,6 +7121,14 @@
       "de",
       "it",
       "es"
+    ]
+  },
+  {
+    "id": "ULES-00840",
+    "title": "Little Britain - The Video Game",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -7548,27 +7658,6 @@
     ]
   },
   {
-    "id": "ULES-01415",
-    "title": "Megamind - The Blue Defender",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es",
-      "nl"
-    ]
-  },
-  {
-    "id": "ULES-01465",
-    "title": "Megamind - The Blue Defender",
-    "discs": 1,
-    "languages": [
-      "ru"
-    ]
-  },
-  {
     "id": "NPEZ-00356",
     "title": "MENA Speed",
     "discs": 1,
@@ -7785,7 +7874,7 @@
   },
   {
     "id": "ULES-01179",
-    "title": "Military History Commander - Europe at War",
+    "title": "Military History- Commander - Europe at War",
     "discs": 1,
     "languages": [
       "en",
@@ -9038,23 +9127,6 @@
     ]
   },
   {
-    "id": "UCES-01564",
-    "title": "Phineas and Ferb - Across the 2nd Dimension",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es",
-      "nl",
-      "pt",
-      "pl",
-      "el",
-      "ru"
-    ]
-  },
-  {
     "id": "NPEX-00006",
     "title": "Pile Up! Bakery",
     "discs": 1,
@@ -9664,10 +9736,14 @@
   },
   {
     "id": "ULES-00472",
-    "title": "ProStroke Golf . World Tour 2007",
+    "title": "ProStroke Golf - World Tour 2007",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
     ]
   },
   {
@@ -10874,11 +10950,7 @@
     "title": "Star Trek - Tactical Assault",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "en"
     ]
   },
   {
@@ -12087,30 +12159,6 @@
     ]
   },
   {
-    "id": "ULES-00826",
-    "title": "Tomb Raider - Anniversary",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
-    "id": "ULES-00283",
-    "title": "Tomb Raider - Legend",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
     "id": "ULES-00625",
     "title": "Tony Hawk's Project 8",
     "discs": 1,
@@ -12852,11 +12900,7 @@
     "title": "World of Pool",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "en"
     ]
   },
   {

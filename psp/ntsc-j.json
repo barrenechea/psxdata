@@ -24,8 +24,8 @@
     ]
   },
   {
-    "id": "ULES-00290",
-    "title": ".hack//Link (PSP the Best)",
+    "id": "ULJS-00279",
+    "title": ".hack//Link (Zettai Houi Pack)",
     "discs": 1,
     "languages": [
       "jp"
@@ -33,7 +33,7 @@
   },
   {
     "id": "ULJS-19058",
-    "title": ".hack//Link (Zettai Houi Pack)",
+    "title": ".hack//Link (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -50,6 +50,14 @@
   {
     "id": "ROSE-00025",
     "title": "0-Ji no Kane to Cinderella - Halloween Wedding (Deluxe Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42043",
+    "title": "007 - Russia Yori Ai o Komete",
     "discs": 1,
     "languages": [
       "jp"
@@ -200,6 +208,14 @@
     ]
   },
   {
+    "id": "CF00-20015",
+    "title": "12Riven -The Psi-Climinal of integral (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-06168",
     "title": "24-Ji no Kane to Cinderella - Halloween Wedding",
     "discs": 1,
@@ -289,6 +305,38 @@
   {
     "id": "ROSE-00016",
     "title": "Abunai - Koi no Sousa Shitsu (Deluxe Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42327",
+    "title": "Accel World - Ginyoku no Kakusei",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00511",
+    "title": "Accel World - Ginyoku no Kakusei",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50606",
+    "title": "Accel World - Ginyoku no Kakusei",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00510",
+    "title": "Accel World - Ginyoku no Kakusei (First Print Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -513,8 +561,40 @@
     ]
   },
   {
+    "id": "ULJS-00100",
+    "title": "AI Igo (Best Collection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00007",
+    "title": "AI Mahjong",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00102",
+    "title": "AI Mahjong (Best Collection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00009",
     "title": "AI Shogi",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00101",
+    "title": "AI Shogi (Best Collection)",
     "discs": 1,
     "languages": [
       "jp"
@@ -699,6 +779,14 @@
     ]
   },
   {
+    "id": "ULAS-42294",
+    "title": "AKB1/48 - Idol to Guam de Koishitara...",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00414",
     "title": "AKB1/48 - Idol to Guam de Koishitara...",
     "discs": 1,
@@ -837,6 +925,14 @@
   {
     "id": "ULJM-05548",
     "title": "Akumajou Dracula - X Chronicle (Konami the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "DRACULA-01",
+    "title": "Akumajou Dracula - X Chronicle (Konami Style Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -1008,6 +1104,30 @@
   {
     "id": "ULJM-05985",
     "title": "Angelique - Maren no Rokukishi (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06402",
+    "title": "Angelique Retour",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50908",
+    "title": "Angelique Retour",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "KTGS-P0310",
+    "title": "Angelique Retour [Treasure Box]",
     "discs": 1,
     "languages": [
       "jp"
@@ -1230,7 +1350,7 @@
     ]
   },
   {
-    "id": "ULJM-05956",
+    "id": "ULJM-06291",
     "title": "Arcana Famiglia 2 - La storia della Arcana Famiglia",
     "discs": 1,
     "languages": [
@@ -1238,7 +1358,7 @@
     ]
   },
   {
-    "id": "QCFS-00002",
+    "id": "QCFS-00005",
     "title": "Arcana Famiglia 2 - La storia della Arcana Famiglia (Limited Edition)",
     "discs": 1,
     "languages": [
@@ -1307,6 +1427,22 @@
     "discs": 1,
     "languages": [
       "kr"
+    ]
+  },
+  {
+    "id": "UCAS-40004",
+    "title": "Armored Core - Formula Front",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40036",
+    "title": "Armored Core - Formula Front Extreme Battle",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -1387,7 +1523,7 @@
     "title": "Army of Two - The 40th Day",
     "discs": 1,
     "languages": [
-      "jp"
+      "en"
     ]
   },
   {
@@ -1431,19 +1567,19 @@
     ]
   },
   {
-    "id": "ULJM-05571",
-    "title": "Assassin's Creed - Bloodlines",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "ULAS-42198",
     "title": "Assassin's Creed - Bloodlines",
     "discs": 1,
     "languages": [
       "en"
+    ]
+  },
+  {
+    "id": "ULJM-05571",
+    "title": "Assassin's Creed - Bloodlines",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -1495,6 +1631,22 @@
     ]
   },
   {
+    "id": "ULJM-05426",
+    "title": "Ayaka Shibito - Genyou Ibunroku Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05929",
+    "title": "Ayaka Shibito - Genyou Ibunroku Portable (Best Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05641",
     "title": "B's-LOG Party",
     "discs": 1,
@@ -1536,7 +1688,7 @@
   },
   {
     "id": "ULAS-42323",
-    "title": "Bakemonogatari Portable",
+    "title": "Bake Monogatari Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -1544,7 +1696,7 @@
   },
   {
     "id": "ULJS-00508",
-    "title": "Bakemonogatari Portable",
+    "title": "Bake Monogatari Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -1552,7 +1704,7 @@
   },
   {
     "id": "NPJH-50605",
-    "title": "Bakemonogatari Portable",
+    "title": "Bake Monogatari Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -1560,7 +1712,7 @@
   },
   {
     "id": "ULJS-00507",
-    "title": "Bakemonogatari Portable (Limited Edition)",
+    "title": "Bake Monogatari Portable (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -1649,6 +1801,14 @@
   {
     "id": "NPJG-00079",
     "title": "Ball Pen Koujou 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40046",
+    "title": "Baito Hell 2000",
     "discs": 1,
     "languages": [
       "jp"
@@ -1783,6 +1943,14 @@
     ]
   },
   {
+    "id": "ULAS-42225",
+    "title": "Battle Spirits - Hero's Soul",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00280",
     "title": "Battle Spirits - Hero's Soul",
     "discs": 1,
@@ -1805,22 +1973,6 @@
     "languages": [
       "en",
       "zh",
-      "kr"
-    ]
-  },
-  {
-    "id": "UCJS-10022",
-    "title": "Beit Hell 2000",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "UCKS-45019",
-    "title": "Beit Hell 2000",
-    "discs": 1,
-    "languages": [
       "kr"
     ]
   },
@@ -1913,8 +2065,8 @@
     ]
   },
   {
-    "id": "RPG-00001",
-    "title": "Black Rock Shooter - The Game (WRS Charm Box)",
+    "id": "JRPG-00002",
+    "title": "Black Rock Shooter - The Game (WRS Charm Box - Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -2021,7 +2173,7 @@
     "title": "BlazBlue - Calamity Trigger Portable",
     "discs": 1,
     "languages": [
-      "zh"
+      "jp"
     ]
   },
   {
@@ -2090,6 +2242,14 @@
     ]
   },
   {
+    "id": "UCKS-45170",
+    "title": "BlazBlue - Continuum Shift II",
+    "discs": 1,
+    "languages": [
+      "kr"
+    ]
+  },
+  {
     "id": "ULJM-05850",
     "title": "BlazBlue - Continuum Shift II",
     "discs": 1,
@@ -2103,14 +2263,6 @@
     "discs": 1,
     "languages": [
       "jp"
-    ]
-  },
-  {
-    "id": "UCKS-45170",
-    "title": "BlazBlue - Continuum Shift II",
-    "discs": 1,
-    "languages": [
-      "kr"
     ]
   },
   {
@@ -2146,7 +2298,7 @@
     ]
   },
   {
-    "id": "ULJM-05490",
+    "id": "UCAS-40267",
     "title": "Blazing Souls - Accelate",
     "discs": 1,
     "languages": [
@@ -2334,7 +2486,7 @@
     "title": "Bleach - Heat the Soul 6 (PSP the Best)",
     "discs": 1,
     "languages": [
-      "jp"
+      "zh"
     ]
   },
   {
@@ -2402,11 +2554,19 @@
     ]
   },
   {
-    "id": "ULJS-10085",
+    "id": "UCJS-10085",
     "title": "Bleach - Soul Carnival",
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCKS-45102",
+    "title": "Bleach - Soul Carnival",
+    "discs": 1,
+    "languages": [
+      "kr"
     ]
   },
   {
@@ -2570,8 +2730,8 @@
     ]
   },
   {
-    "id": "NPJG-00118",
-    "title": "Boku no Natsuyasumi Portable 2 - Seitouchi Shounen Tanteidan, Boku to Himitsu no Chizu (PSP the Best)",
+    "id": "NPJG-00023",
+    "title": "Boku no Natsuyasumi Portable 4 - Seitouchi Shounen Tanteidan, Boku to Himitsu no Chizu (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -2754,6 +2914,14 @@
     ]
   },
   {
+    "id": "UCAS-40038",
+    "title": "Bokujou Monogatari - Harvest Moon Boy and Girl",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00034",
     "title": "Bokujou Monogatari - Harvest Moon Boy and Girl",
     "discs": 1,
@@ -2828,6 +2996,14 @@
   {
     "id": "NPJJ-30001",
     "title": "Bomberman '94",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40066",
+    "title": "Bomberman - Bakufuu Sentai Bombermen",
     "discs": 1,
     "languages": [
       "jp"
@@ -3314,6 +3490,14 @@
     ]
   },
   {
+    "id": "ULAS-42072",
+    "title": "Capcom Classics Collection",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05104",
     "title": "Capcom Classics Collection",
     "discs": 1,
@@ -3332,6 +3516,14 @@
   {
     "id": "ULAS-42053",
     "title": "Capcom Classics Collection Remixed",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCAS-40199",
+    "title": "Capcom Classics Collection Remixed (Reprint)",
     "discs": 1,
     "languages": [
       "en"
@@ -3571,6 +3763,14 @@
     ]
   },
   {
+    "id": "BOOST-026",
+    "title": "ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk (Limited Triple Pack)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-06359",
     "title": "Chronostacia",
     "discs": 1,
@@ -3605,6 +3805,14 @@
   {
     "id": "NPJH-50011",
     "title": "Chuumon Shiyouze! Oretachi no Sekai",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ROSE-00031",
+    "title": "Cinderella Series Pack",
     "discs": 1,
     "languages": [
       "jp"
@@ -3726,6 +3934,22 @@
     ]
   },
   {
+    "id": "ULJM-05856",
+    "title": "Clover no Kuni no Alice",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ROSE-00003",
+    "title": "Clover no Kuni no Alice(Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-06392",
     "title": "Clover no Kuni no Alice - Wonderful Wonder World",
     "discs": 1,
@@ -3768,6 +3992,22 @@
   {
     "id": "ULJS-19035",
     "title": "Code Geass - Lelouch of the Rebellion - Lost Colors (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05936",
+    "title": "Code_18",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "CF00-20052",
+    "title": "Code_18 (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -3823,6 +4063,14 @@
     ]
   },
   {
+    "id": "ULKS-46139",
+    "title": "Coded Arms - Contagion",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULKS-46016",
     "title": "Coded Gun",
     "discs": 1,
@@ -3865,22 +4113,6 @@
   {
     "id": "NPJG-00043",
     "title": "Coded Soul - Uketsugareshi Idea",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-05936",
-    "title": "Code_18",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "CF00-20052",
-    "title": "Code_18 (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -4063,7 +4295,7 @@
     ]
   },
   {
-    "id": "ULES-00915",
+    "id": "ULJM-05036",
     "title": "Crash Bandicoot - Gacchanko World",
     "discs": 1,
     "languages": [
@@ -4127,6 +4359,14 @@
     ]
   },
   {
+    "id": "UCAS-40212",
+    "title": "Crimson Gem Saga",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05408",
     "title": "Crimson Room Reverse",
     "discs": 1,
@@ -4140,14 +4380,6 @@
     "discs": 1,
     "languages": [
       "jp"
-    ]
-  },
-  {
-    "id": "UCAS-40212",
-    "title": "Crimsongem Saga",
-    "discs": 1,
-    "languages": [
-      "en"
     ]
   },
   {
@@ -4223,7 +4455,7 @@
     ]
   },
   {
-    "id": "CF00-20031",
+    "id": "ULJM-05924",
     "title": "Cross Channel - To All People (Best Hits Selection)",
     "discs": 1,
     "languages": [
@@ -4231,7 +4463,7 @@
     ]
   },
   {
-    "id": "ULJM-05623",
+    "id": "CF00-20031",
     "title": "Cross Channel - To All People (Limited Edition)",
     "discs": 1,
     "languages": [
@@ -4386,14 +4618,6 @@
     ]
   },
   {
-    "id": "NPJH-50555",
-    "title": "Dai-2-Ji Super Robot Taisen Z Hakai-hen (PSP the Best)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "ULJS-00460",
     "title": "Dai-2-Ji Super Robot Taisen Z Saisei-hen",
     "discs": 1,
@@ -4411,14 +4635,6 @@
   },
   {
     "id": "ULJS-19091",
-    "title": "Dai-2-Ji Super Robot Taisen Z Saisei-hen (PSP the Best)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "NPJH-50517",
     "title": "Dai-2-Ji Super Robot Taisen Z Saisei-hen (PSP the Best)",
     "discs": 1,
     "languages": [
@@ -4834,7 +5050,7 @@
     ]
   },
   {
-    "id": "ULAS-42222",
+    "id": "ULJM-05621",
     "title": "Dante's Inferno - Shinkyoku Jigoku-Hen",
     "discs": 1,
     "languages": [
@@ -4927,18 +5143,6 @@
     ]
   },
   {
-    "id": "NPEG-00025",
-    "title": "Daxter",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
     "id": "UCAS-40201",
     "title": "Dead Head Fred",
     "discs": 1,
@@ -5003,6 +5207,14 @@
     ]
   },
   {
+    "id": "UCAS-40080",
+    "title": "Dead to Rights - Reckoning",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05819",
     "title": "Deardrops Distortiong",
     "discs": 1,
@@ -5048,6 +5260,22 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42030",
+    "title": "Def Jam - Fight for NY - The Takeover",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULKS-46049",
+    "title": "Def Jam - Fight for NY - The Takeover",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -5180,7 +5408,7 @@
   },
   {
     "id": "ULJS-00248",
-    "title": "Dengeki no Piroto - Tenkuu no Kizuna",
+    "title": "Dengeki no Pilot - Tenkuu no Kizuna",
     "discs": 1,
     "languages": [
       "jp"
@@ -5551,6 +5779,14 @@
     ]
   },
   {
+    "id": "UCAS-40236",
+    "title": "Dissidia - Final Fantasy",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "UCAS-40274",
     "title": "Dissidia - Final Fantasy",
     "discs": 1,
@@ -5585,6 +5821,30 @@
   {
     "id": "ULJM-05405",
     "title": "Dissidia - Final Fantasy (20TH ANNIVERSARY LIMITED PACK)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40322",
+    "title": "Dissidia - Final Fantasy (Ultimate Hits)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05760",
+    "title": "Dissidia - Final Fantasy (Ultimate Hits)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05550",
+    "title": "Dissidia - Final Fantasy - Universal Tuning",
     "discs": 1,
     "languages": [
       "jp"
@@ -5836,8 +6096,8 @@
     ]
   },
   {
-    "id": "ULKS-46240",
-    "title": "DJ Max Portable - Hot Tunes",
+    "id": "ULKS-46191",
+    "title": "DJ Max Portable -  Clazziquai Edition (Special Package)",
     "discs": 1,
     "languages": [
       "en",
@@ -5846,11 +6106,13 @@
     ]
   },
   {
-    "id": "ULJS-00380",
-    "title": "DokiSui - DokiDoki Suikoden",
+    "id": "ULKS-46240",
+    "title": "DJ Max Portable - Hot Tunes",
     "discs": 1,
     "languages": [
-      "jp"
+      "en",
+      "jp",
+      "kr"
     ]
   },
   {
@@ -5896,6 +6158,14 @@
   {
     "id": "NPJG-00003",
     "title": "Doko Demo Issho -  Let's Gakkou! (Training-Hen)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00380",
+    "title": "DokuSui - DokiDoki Suikoden",
     "discs": 1,
     "languages": [
       "jp"
@@ -6071,6 +6341,14 @@
     ]
   },
   {
+    "id": "ULAS-42318",
+    "title": "Dragon Ball Z - Tenkaichi Tag Team (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05407",
     "title": "Dragon Dance",
     "discs": 1,
@@ -6087,8 +6365,24 @@
     ]
   },
   {
+    "id": "UCAS-40084",
+    "title": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05127",
     "title": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40196",
+    "title": "Dragon Quest & Final Fantasy in Itadaki Street Portable (Ultimate Hits)",
     "discs": 1,
     "languages": [
       "jp"
@@ -6117,6 +6411,14 @@
     "discs": 1,
     "languages": [
       "en"
+    ]
+  },
+  {
+    "id": "UCKS-45063",
+    "title": "Dragoneer's Aria - Ryuu ga Nemuru made",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -6264,6 +6566,30 @@
     ]
   },
   {
+    "id": "ULJS-00318",
+    "title": "Durarara!! 3way Standoff",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50296",
+    "title": "Durarara!! 3way Standoff",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00317",
+    "title": "Durarara!! 3way Standoff (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00400",
     "title": "Durarara!! 3way Standoff - Alley",
     "discs": 1,
@@ -6312,6 +6638,14 @@
     ]
   },
   {
+    "id": "ULAS-42084",
+    "title": "EA Replay",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULKS-46081",
     "title": "EA Replay",
     "discs": 1,
@@ -6324,6 +6658,7 @@
     "title": "Earth Saver Plus - Inseki Bakuha Daisakusen",
     "discs": 1,
     "languages": [
+      "en",
       "jp"
     ]
   },
@@ -6442,8 +6777,16 @@
     ]
   },
   {
-    "id": "NW10107890",
+    "id": "NW-1010789",
     "title": "Eiyuu Densetsu - Ao no Kiseki (Special Prize Version)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40117",
+    "title": "Eiyuu Densetsu - Sora no Kiseki FC",
     "discs": 1,
     "languages": [
       "jp"
@@ -6494,6 +6837,17 @@
   },
   {
     "id": [
+      "ULJM-05305",
+      "ULJM-05306"
+    ],
+    "title": "Eiyuu Densetsu - Sora no Kiseki SC (Complete Version)",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": [
       "NPJH-50706",
       "NPJH-50707"
     ],
@@ -6533,6 +6887,14 @@
   {
     "id": "ULJM-05353",
     "title": "Eiyuu Densetsu - Sora no Kiseki the 3rd",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "KISEKI3RD-01",
+    "title": "Eiyuu Densetsu - Sora no Kiseki the 3rd (Konamistyle Special Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -6796,7 +7158,7 @@
   },
   {
     "id": "NPJH-50687",
-    "title": "Entaku no Seito - The Eternal Legendt",
+    "title": "Entaku no Seito - The Eternal Legend",
     "discs": 1,
     "languages": [
       "jp"
@@ -6804,7 +7166,7 @@
   },
   {
     "id": "ULJS-00548",
-    "title": "Entaku no Seito - The Eternal Legendt",
+    "title": "Entaku no Seito - The Eternal Legend",
     "discs": 1,
     "languages": [
       "jp"
@@ -6998,6 +7360,14 @@
     ]
   },
   {
+    "id": "UCKS-45156",
+    "title": "Everybody's Tennis",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "NPJG-00017",
     "title": "Everyday Shooter",
     "discs": 1,
@@ -7008,6 +7378,14 @@
   {
     "id": "ULJM-05103",
     "title": "Exciting Pro Wrestling 7 - SmackDown! vs. Raw 2006",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40043",
+    "title": "Exit",
     "discs": 1,
     "languages": [
       "jp"
@@ -7030,7 +7408,23 @@
     ]
   },
   {
-    "id": "ULES-00620",
+    "id": "ULJM-05271(Eternal Hits)",
+    "title": "Exit",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40174",
+    "title": "Exit (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05108",
     "title": "Eyeshield 21 - Portable Edition",
     "discs": 1,
     "languages": [
@@ -7408,6 +7802,14 @@
     ]
   },
   {
+    "id": "ULAS-42078",
+    "title": "FIFA '07",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05191",
     "title": "FIFA '07",
     "discs": 1,
@@ -7481,6 +7883,14 @@
     ]
   },
   {
+    "id": "ULAS-42250",
+    "title": "FIFA 11",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05765",
     "title": "FIFA 11 - World Class Soccer",
     "discs": 1,
@@ -7502,6 +7912,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42292",
+    "title": "FIFA 12",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -7585,6 +8003,14 @@
     ]
   },
   {
+    "id": "ULAS-42004",
+    "title": "FIFA Soccer",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULKS-46011",
     "title": "FIFA Soccer",
     "discs": 1,
@@ -7599,6 +8025,14 @@
     "languages": [
       "en",
       "es"
+    ]
+  },
+  {
+    "id": "ULAS-42045",
+    "title": "FIFA Street 2",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -7682,6 +8116,14 @@
     ]
   },
   {
+    "id": "ULKS-49080",
+    "title": "Fight Night Round 3",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05420",
     "title": "Final Approach 2 - 1st Priority Portable",
     "discs": 1,
@@ -7709,6 +8151,15 @@
   {
     "id": "UCKS-45056",
     "title": "Final Fantasy Anniversary Edition",
+    "discs": 1,
+    "languages": [
+      "en",
+      "jp"
+    ]
+  },
+  {
+    "id": "BLJM-67013",
+    "title": "Final Fantasy 25TH Anniversary Ultimate Box",
     "discs": 1,
     "languages": [
       "en",
@@ -7932,8 +8383,57 @@
     ]
   },
   {
+    "id": [
+      "ULJM-05900",
+      "ULJM-05901"
+    ],
+    "title": "Final Fantasy Type-0",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": [
+      "NPJH-50443",
+      "NPJH-50444"
+    ],
+    "title": "Final Fantasy Type-0",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "SE-E0044",
+    "title": "Final Fantasy Type-0 (Collector's Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": [
+      "ULJM-06217",
+      "ULJM-06218"
+    ],
+    "title": "Final Fantasy Type-0 (Ultimate Hits)",
+    "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42063",
+    "title": "Finder Love - Fumina Hara - Futari no Futari de",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05143",
-    "title": "Finder Love - Hara Fumina - Futari no Futari de",
+    "title": "Finder Love - Fumina Hara - Futari no Futari de",
     "discs": 1,
     "languages": [
       "jp"
@@ -7941,7 +8441,7 @@
   },
   {
     "id": "CPCS-01023",
-    "title": "Finder Love - Hara Fumina - Futari no Futari de (Limited Edition)",
+    "title": "Finder Love - Fumina Hara - Futari no Futari de (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -7949,7 +8449,7 @@
   },
   {
     "id": "ULJM-05145",
-    "title": "Finder Love - Hoshino Aki - Nangoku Trouble Rendezvous",
+    "title": "Finder Love - Aki Hoshino  - Nangoku Trouble Rendezvous",
     "discs": 1,
     "languages": [
       "jp"
@@ -7957,7 +8457,7 @@
   },
   {
     "id": "CPCS-01025",
-    "title": "Finder Love - Hoshino Aki - Nangoku Trouble Rendezvous (Limited Edition)",
+    "title": "Finder Love - Aki Hoshino - Nangoku Trouble Rendezvous (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -7965,7 +8465,7 @@
   },
   {
     "id": "ULJM-05144",
-    "title": "Finder Love - Kudou Risa - First Shoot wa Kimi to",
+    "title": "Finder Love - Risa Kudou - First Shoot wa Kimi to",
     "discs": 1,
     "languages": [
       "jp"
@@ -7973,18 +8473,10 @@
   },
   {
     "id": "CPCS-01024",
-    "title": "Finder Love - Kudou Risa - First Shoot wa Kimi to (Limited Edition)",
+    "title": "Finder Love - Risa Kudou - First Shoot wa Kimi to (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
-    ]
-  },
-  {
-    "id": "NPEZ-00108",
-    "title": "Finde die Unterschiede! Welt Edition",
-    "discs": 1,
-    "languages": [
-      "de"
     ]
   },
   {
@@ -7993,6 +8485,14 @@
     "discs": 1,
     "languages": [
       "kr"
+    ]
+  },
+  {
+    "id": "UCAS-40115",
+    "title": "Fish Eyes Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -8028,6 +8528,14 @@
     ]
   },
   {
+    "id": "UCAS-40184",
+    "title": "FlatOut - Head On",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "NPJG-00004",
     "title": "FlOw",
     "discs": 1,
@@ -8041,6 +8549,22 @@
     "discs": 1,
     "languages": [
       "kr"
+    ]
+  },
+  {
+    "id": "ULJM-06390",
+    "title": "Flowers",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06403",
+    "title": "Flowers - Natsu-Hen",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -8068,24 +8592,24 @@
     ]
   },
   {
-    "id": "ULES-00588",
-    "title": "Ford Street Racing - XR Edition",
+    "id": "UCAS-40026",
+    "title": "Formula 1 - 2005 Portable",
     "discs": 1,
     "languages": [
-      "en"
-    ]
-  },
-  {
-    "id": "NPEZ-00180",
-    "title": "Forest Puzzle",
-    "discs": 1,
-    "languages": [
-      "en"
+      "jp"
     ]
   },
   {
     "id": "UCJS-10019",
     "title": "Formula 1 - 2005 Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40114",
+    "title": "Formula 1 - 2006 Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -8228,6 +8752,14 @@
     ]
   },
   {
+    "id": "ULAS-42174",
+    "title": "G.I. Joe - The Rise of Cobra",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05672",
     "title": "GA - Geijutsuka Art Design Class - Slapstick Wonder Land",
     "discs": 1,
@@ -8328,7 +8860,7 @@
   },
   {
     "id": "ULJM-06378",
-    "title": "Gakuen K - Wonderful School Days (Limited Edition)",
+    "title": "Gakuen K - Wonderful School Days",
     "discs": 1,
     "languages": [
       "jp"
@@ -8488,7 +9020,7 @@
   },
   {
     "id": "ULJM-05906",
-    "title": "Gekiatsu!! PachiGe-Damashi Portable Vol.1 - Evangelion - Shinjitsu no Tsubasa",
+    "title": "Gekiatsu!! PachiGe-Damashi Portable Vol.2 - Evangelion - Shinjitsu no Tsubasa",
     "discs": 1,
     "languages": [
       "jp"
@@ -8496,7 +9028,7 @@
   },
   {
     "id": "FLGM-00002",
-    "title": "Gekiatsu!! PachiGe-Damashi Portable Vol.1 - Evangelion - Shinjitsu no Tsubasa (Limited Edition)",
+    "title": "Gekiatsu!! PachiGe-Damashi Portable Vol.2 - Evangelion - Shinjitsu no Tsubasa (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -8585,6 +9117,14 @@
   {
     "id": "NPJH-00115",
     "title": "Genso Chronicle",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42041",
+    "title": "Genso Suikoden I & II",
     "discs": 1,
     "languages": [
       "jp"
@@ -8743,6 +9283,30 @@
     ]
   },
   {
+    "id": "ULJM-05358",
+    "title": "Ginga Ojousama Densetsu Collection (PC Engine Best Collection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00287",
+    "title": "Ginsei Igo Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50256",
+    "title": "Ginsei Igo Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00269",
     "title": "Ginsei Shogi Portable",
     "discs": 1,
@@ -8895,6 +9459,14 @@
     ]
   },
   {
+    "id": "ULAS42221",
+    "title": "God Eater",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00237",
     "title": "God Eater",
     "discs": 1,
@@ -8940,6 +9512,22 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42254",
+    "title": "God Eater Burst",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42272",
+    "title": "God Eater Burst",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -9004,6 +9592,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40191",
+    "title": "God of War - Chains of Olympus",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -9091,6 +9687,14 @@
     ]
   },
   {
+    "id": "ULAS-42069",
+    "title": "Goku Makai-Mura",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05147",
     "title": "Goku Makai-Mura",
     "discs": 1,
@@ -9115,7 +9719,7 @@
     ]
   },
   {
-    "id": "ULAS-42069",
+    "id": "ULAS-42107",
     "title": "Goku Makai-Mura Kai",
     "discs": 1,
     "languages": [
@@ -9123,7 +9727,7 @@
     ]
   },
   {
-    "id": "ULJM-05147",
+    "id": "ULJM-05265",
     "title": "Goku Makai-Mura Kai",
     "discs": 1,
     "languages": [
@@ -9238,7 +9842,7 @@
   },
   {
     "id": "ULJS-19068",
-    "title": "Grand Knights Histor (PSP the Best)",
+    "title": "Grand Knights History (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -9350,7 +9954,7 @@
   },
   {
     "id": "ULJS-00467",
-    "title": "Great Battle Fullblast Twin Battle Box)",
+    "title": "Great Battle Fullblast (Twin Battle Box)",
     "discs": 1,
     "languages": [
       "jp"
@@ -9403,6 +10007,30 @@
     ],
     "title": "Grisaia no Kajitsu - Le Fruit de la Grisaia",
     "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06382",
+    "title": "Grisaia no Meikyuu - Le Labyrinthe de la Grisaia",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06395",
+    "title": "Grisaia no Rakuen - Le Eden De La Grisaia",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40257",
+    "title": "Growlanser",
+    "discs": 1,
     "languages": [
       "jp"
     ]
@@ -9488,8 +10116,16 @@
     ]
   },
   {
+    "id": "UCAS-40228",
+    "title": "Guilty Gear Judgment (Arc System Works Best Selection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05397",
-    "title": "Guilty Gear Judgment (Best Selection)",
+    "title": "Guilty Gear Judgment (Arc System Works Best Selection)",
     "discs": 1,
     "languages": [
       "jp"
@@ -10024,6 +10660,22 @@
     ]
   },
   {
+    "id": "ULJM-05663",
+    "title": "Hakuouki - Yuugi Roku",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "HYTW-12093",
+    "title": "Hakuouki - Yuugi Roku (Twin Paxk)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-06165",
     "title": "Hakuouki - Yuugi Roku Ni - Matsuri Hayashi to Taishitachi",
     "discs": 1,
@@ -10032,7 +10684,7 @@
     ]
   },
   {
-    "id": "ULJM-06165",
+    "id": "ULJM-06164",
     "title": "Hakuouki - Yuugi Roku Ni - Matsuri Hayashi to Taishitachi (Limited Edition)",
     "discs": 1,
     "languages": [
@@ -10122,6 +10774,14 @@
   {
     "id": "ULJM-06047",
     "title": "Hanaoni - Yume no Tsudzuki (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "HOTW-12072",
+    "title": "Hanaoni - Yume no Tsudzuki (LTwin Pack)",
     "discs": 1,
     "languages": [
       "jp"
@@ -10245,6 +10905,14 @@
     "discs": 1,
     "languages": [
       "kr"
+    ]
+  },
+  {
+    "id": "ULAS-42145",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -10392,6 +11060,30 @@
     ]
   },
   {
+    "id": "ULJM-05843",
+    "title": "Harukanaru Toki no Naka de 5",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06274",
+    "title": "Harukanaru Toki no Naka de 5 (Koei Tecmo the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "KTGS-P0192",
+    "title": "Harukanaru Toki no Naka de 5 (Treasure Box)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-06025",
     "title": "Harukanaru Toki no Naka de 5 - Kazahanaki",
     "discs": 1,
@@ -10464,7 +11156,7 @@
     ]
   },
   {
-    "id": "ULJM-06252",
+    "id": "ULJM-05018",
     "title": "Harukanaru Toki no Naka de - Iroetebako",
     "discs": 1,
     "languages": [
@@ -10488,7 +11180,7 @@
     ]
   },
   {
-    "id": "ULJM-06252",
+    "id": "ULJM-06199",
     "title": "HatsuKare * Renai Debut Sengen!",
     "discs": 1,
     "languages": [
@@ -10758,6 +11450,30 @@
     ],
     "title": "Heart no Kuni no Alice - Wonderful Wonder World",
     "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06332",
+    "title": "Heart no Kuni no Alice - Wonderful Wonder World - New Version",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50861",
+    "title": "Heart no Kuni no Alice - Wonderful Wonder World - New Version",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ROSE-00032",
+    "title": "Heart no Kuni no Alice - Wonderful Wonder World - New Version (Limited  Edition)",
+    "discs": 1,
     "languages": [
       "jp"
     ]
@@ -11278,6 +11994,14 @@
     ]
   },
   {
+    "id": "ULJM-05522",
+    "title": "Hoshi no Furu Koku Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00172",
     "title": "Hoshigari Empusa Portable",
     "discs": 1,
@@ -11342,8 +12066,24 @@
     ]
   },
   {
+    "id": "UCAS-40133",
+    "title": "Hot Shots Golf - Open Tee (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCAS-40213",
     "title": "Hot Shots Golf - Open Tee 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCAS-40213",
+    "title": "Hot Shots Golf - Open Tee 2 (PSP Ultra Pop)",
     "discs": 1,
     "languages": [
       "en"
@@ -11430,6 +12170,14 @@
     ]
   },
   {
+    "id": "ROSE-00041",
+    "title": "Hyakki Yakou & Hyaku Monogatari (Twin PACK)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-06323",
     "title": "Hyaku Monogatari - Kaidan Romance",
     "discs": 1,
@@ -11448,6 +12196,14 @@
   {
     "id": "ROSE-00028",
     "title": "Hyaku Monogatari - Kaidan Romance (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40301",
+    "title": "Hyakumanton no Bara Bara",
     "discs": 1,
     "languages": [
       "jp"
@@ -11607,7 +12363,7 @@
     ]
   },
   {
-    "id": "ULJS-00227",
+    "id": "ULJS-00141",
     "title": "Ikuze! Gen-San - Yuuyake Daiku Monogatari",
     "discs": 1,
     "languages": [
@@ -11633,6 +12389,14 @@
   {
     "id": "ULJS-00205",
     "title": "Infinite Loop - Kojjou ga Miseta Yume (The Best Price)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "CF00-20022",
+    "title": "Infinity Plus Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -11743,6 +12507,14 @@
     ]
   },
   {
+    "id": "UCAS-40127",
+    "title": "Intelligent License 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00087",
     "title": "Intelligent License 2",
     "discs": 1,
@@ -11794,7 +12566,7 @@
   },
   {
     "id": "ULJM-06231",
-    "title": "Isshoni Gohan. Portable",
+    "title": "Issho ni Gohan. Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -11802,7 +12574,7 @@
   },
   {
     "id": "ULJM-06230",
-    "title": "Isshoni Gohan. Portable (Limited  Edition)",
+    "title": "Issho ni Gohan. Portable (Limited  Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -12225,7 +12997,7 @@
     ]
   },
   {
-    "id": "ULJM-06083",
+    "id": "ULJM-06206",
     "title": "Jikkyou Powerful Pro Jakyuu 2012 Ketteiban",
     "discs": 1,
     "languages": [
@@ -12549,7 +13321,7 @@
   },
   {
     "id": "ULJM-05276",
-    "title": "Kaito Apricot Portable",
+    "title": "Kaitou Apricot Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -12557,7 +13329,7 @@
   },
   {
     "id": "NPJH-50167",
-    "title": "Kaito Apricot Portable",
+    "title": "Kaitou Apricot Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -12644,8 +13416,16 @@
     ]
   },
   {
-    "id": "ULJM-05268",
+    "id": "UCAS-40248",
     "title": "Kamaitachi no Yoru 2 Tokubetsu Hen(Sega the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40248A",
+    "title": "Kamen no Maid Guy - Boyoyon Battle Royale",
     "discs": 1,
     "languages": [
       "jp"
@@ -12654,6 +13434,14 @@
   {
     "id": "ULJM-05418",
     "title": "Kamen no Maid Guy - Boyoyon Battle Royale",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40248A",
+    "title": "Kamen no Maid Guy - Boyoyon Battle Royale (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -12756,8 +13544,40 @@
     ]
   },
   {
+    "id": "NPJH-50809",
+    "title": "Kamigami no Asobi",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "PBGP-0104",
     "title": "Kamigami no Asobi (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06401",
+    "title": "Kamigami no Asobi InFinite",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH -50909",
+    "title": "Kamigami no Asobi InFinite",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "PBGP-0110",
+    "title": "Kamigami no Asobi InFinite (First Print Limited Mugen Box)",
     "discs": 1,
     "languages": [
       "jp"
@@ -12790,6 +13610,14 @@
   {
     "id": "CF00-20042",
     "title": "Kana - Imouto (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40112",
+    "title": "Kangaeru Exit",
     "discs": 1,
     "languages": [
       "jp"
@@ -12854,7 +13682,7 @@
   {
     "id": [
       "ULJM-05796",
-      "ULJM-05796"
+      "ULJM-05797"
     ],
     "title": "Kanuchi - Futatsu no Tsubasa",
     "discs": 2,
@@ -13001,6 +13829,14 @@
   {
     "id": "CF00-20038",
     "title": "Kazoku Keikaku (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCJS-10036",
+    "title": "Kazuo",
     "discs": 1,
     "languages": [
       "jp"
@@ -13335,6 +14171,14 @@
     ]
   },
   {
+    "id": "ULAS-42128",
+    "title": "Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00131",
     "title": "Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui",
     "discs": 1,
@@ -13361,6 +14205,14 @@
   {
     "id": "ULJS-19024",
     "title": "Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42153",
+    "title": "Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui V",
     "discs": 1,
     "languages": [
       "jp"
@@ -13535,7 +14387,7 @@
     ]
   },
   {
-    "id": "ULJS-00250",
+    "id": "ULJS-00181",
     "title": "Kidou Senshi Gundam - Senjou no Kizuna Portable",
     "discs": 1,
     "languages": [
@@ -13591,7 +14443,15 @@
     ]
   },
   {
-    "id": "ULJS-00398",
+    "id": "ULAS-42321",
+    "title": "Kidou Senshi Gundam AGE - Cosmic Drive",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00476",
     "title": "Kidou Senshi Gundam AGE - Cosmic Drive",
     "discs": 1,
     "languages": [
@@ -13839,14 +14699,6 @@
     ]
   },
   {
-    "id": "UCAS-40295",
-    "title": "Kingdom Hearts - Birth by Sleep",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "UCAS-40317",
     "title": "Kingdom Hearts - Birth by Sleep",
     "discs": 1,
@@ -13915,7 +14767,7 @@
     "title": "Kingdom Hearts - Birth by Sleep (Final Mix - Ultimate Hits)",
     "discs": 1,
     "languages": [
-      "en"
+      "jp"
     ]
   },
   {
@@ -13953,6 +14805,14 @@
   {
     "id": "ULJM-05569",
     "title": "Kin'iro no Koruda - La Corda d'Oro (Koei Teiban Series)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05198",
+    "title": "Kin'iro no Koruda - La Corda d'Oro (Koei The Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -14032,14 +14892,14 @@
   },
   {
     "id": "ULJM-05624",
-    "title": "Kin'iro no Koruda 2",
+    "title": "Kin'iro no Koruda 3",
     "discs": 1,
     "languages": [
       "jp"
     ]
   },
   {
-    "id": "ULJM-06011",
+    "id": "ULJM-06010",
     "title": "Kin'iro no Koruda 3 (Koei Tecmo the Best)",
     "discs": 1,
     "languages": [
@@ -14618,7 +15478,7 @@
     ]
   },
   {
-    "id": "ULJM-06264",
+    "id": "ULJM-05981",
     "title": "Kuon no Kizuna -  Sairin Mikotonori Portable",
     "discs": 1,
     "languages": [
@@ -14755,7 +15615,7 @@
   },
   {
     "id": "ULJM-06362",
-    "title": "Kuroyukihime - Snow Blackn",
+    "title": "Kuroyukihime - Snow Black",
     "discs": 1,
     "languages": [
       "jp"
@@ -14970,6 +15830,38 @@
     ]
   },
   {
+    "id": "ULJS-00133",
+    "title": "Lara Croft - Tomb Raider - Anniversary",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00221",
+    "title": "Lara Croft - Tomb Raider - Anniversary (Spike The Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00222",
+    "title": "Lara Croft - Tomb Raider - Legend",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05180",
+    "title": "Lara Croft - Tomb Raider - Legend (Spike The Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00256",
     "title": "Last Escort -  Club Katze",
     "discs": 1,
@@ -15036,6 +15928,22 @@
   {
     "id": "NPJH-70008",
     "title": "League Bowling",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00171",
+    "title": "LEGO Batman - The Video Game",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00156",
+    "title": "LEGO Indiana Jones - Original Adventures",
     "discs": 1,
     "languages": [
       "jp"
@@ -15450,6 +16358,14 @@
     ]
   },
   {
+    "id": "NPJH-00101",
+    "title": "Love@Wan-Jong",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05748",
     "title": "Lucian Bee's - Evil Violet",
     "discs": 1,
@@ -15690,6 +16606,22 @@
     ]
   },
   {
+    "id": "ULAS-42175",
+    "title": "Madden NFL 10",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULAS-42249",
+    "title": "Madden NFL 11",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05757",
     "title": "Madden NFL 11",
     "discs": 1,
@@ -15866,6 +16798,14 @@
     ]
   },
   {
+    "id": "ULAS-42006",
+    "title": "Mahjong Kakutou Club",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05002",
     "title": "Mahjong Kakutou Club",
     "discs": 1,
@@ -15964,6 +16904,14 @@
   {
     "id": "ULJS-19079",
     "title": "Mahou Shoujo Lyrical Nanoha A's Portable - The Battle of Aces (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42301",
+    "title": "Mahou Shoujo Lyrical Nanoha A's Portable - The Gears of Destiny",
     "discs": 1,
     "languages": [
       "jp"
@@ -16082,6 +17030,14 @@
     ]
   },
   {
+    "id": "ULAS-42310",
+    "title": "Major League Baseball 2K12",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJS-00473",
     "title": "Major League Baseball 2K12",
     "discs": 1,
@@ -16147,6 +17103,14 @@
     ]
   },
   {
+    "id": "UCAS-40250",
+    "title": "Makai Senki Disgaea 2 Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00183",
     "title": "Makai Senki Disgaea 2 Portable",
     "discs": 1,
@@ -16157,6 +17121,14 @@
   {
     "id": "NPJH-50281",
     "title": "Makai Senki Disgaea 2 Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40250A",
+    "title": "Makai Senki Disgaea 2 Portable (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -16284,7 +17256,7 @@
   },
   {
     "id": "ULJS-00272",
-    "title": "Marriage Royale - Prism Story (Dengeki SP)",
+    "title": "Marriage Royale - Prism Story (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -16292,7 +17264,7 @@
   },
   {
     "id": "ULJS-00481",
-    "title": "Marriage Royale - Prism Story (Limited Edition)",
+    "title": "Marriage Royale - Prism Story (Dengeki SP)",
     "discs": 1,
     "languages": [
       "jp"
@@ -16331,7 +17303,7 @@
     ]
   },
   {
-    "id": "ULJS-00436",
+    "id": "ULJS-00465",
     "title": "Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken 2 Portable",
     "discs": 1,
     "languages": [
@@ -16339,7 +17311,7 @@
     ]
   },
   {
-    "id": "NPJH-50506",
+    "id": "NPJH-50533",
     "title": "Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken 2 Portable",
     "discs": 1,
     "languages": [
@@ -16491,8 +17463,64 @@
     ]
   },
   {
+    "id": "ULJS-00584",
+    "title": "Maru Goukaku + NextRev: Kanri Gyomu Shuninsha Shiken Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00582",
+    "title": "Maru Goukaku + NextRev - Kihon Jouhou Gijutsusha Shiken Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00581",
+    "title": "Maru Goukaku + NextRev - Mansion kanrishi Shiken Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00583",
+    "title": "Maru Goukaku + NextRev - Ouyou Jouhou Gijutsumono Shiken Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00585",
+    "title": "Maru Goukaku + NextRev - Sharoushi Shiken Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00586",
+    "title": "Maru Goukaku + NextRev - Takken Shikken Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULKS-46036",
     "title": "Marvel Nemesis - Rise of the Imperfects",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULAS-42193",
+    "title": "Marvel Super Hero Squad",
     "discs": 1,
     "languages": [
       "en"
@@ -16685,7 +17713,7 @@
   },
   {
     "id": "ULJM-06294",
-    "title": "Meiji Toukyou Renka",
+    "title": "Meiji Tokyo Renka",
     "discs": 1,
     "languages": [
       "jp"
@@ -16693,7 +17721,7 @@
   },
   {
     "id": "NPJH-50808",
-    "title": "Meiji Toukyou Renka",
+    "title": "Meiji Tokyo Renka",
     "discs": 1,
     "languages": [
       "jp"
@@ -16701,7 +17729,7 @@
   },
   {
     "id": "PBGP-0106",
-    "title": "Meiji Toukyou Renka (Limited Edition)",
+    "title": "Meiji Tokyo Renka (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -16709,7 +17737,7 @@
   },
   {
     "id": "ULJM-06386",
-    "title": "Meiji Toukyou Renka - Twilight Kiss",
+    "title": "Meiji Tokyo Renka - Twilight Kiss",
     "discs": 1,
     "languages": [
       "jp"
@@ -16717,7 +17745,7 @@
   },
   {
     "id": "PBGP-0108",
-    "title": "Meiji Toukyou Renka - Twilight Kiss (Limited Edition)",
+    "title": "Meiji Tokyo Renka - Twilight Kiss (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -16734,22 +17762,6 @@
   {
     "id": "NPJH-50565",
     "title": "Meitantei Conan - Kakokara no Zensou Kyoku",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06226",
-    "title": "Megpoid the Music#",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "PA-0001",
-    "title": "Megpoid the Music# (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -17029,7 +18041,7 @@
   },
   {
     "id": "ULJM-05875",
-    "title": "Memories Off - Yubikiri no Kikou",
+    "title": "Memories Off - Yubikiri no Kioku",
     "discs": 1,
     "languages": [
       "jp"
@@ -17037,7 +18049,7 @@
   },
   {
     "id": "NPJH-50552",
-    "title": "Memories Off - Yubikiri no Kikou",
+    "title": "Memories Off - Yubikiri no Kioku",
     "discs": 1,
     "languages": [
       "jp"
@@ -17045,7 +18057,15 @@
   },
   {
     "id": "FVGK-0050",
-    "title": "Memories Off - Yubikiri no Kikou (Limited Edition)",
+    "title": "Memories Off - Yubikiri no Kioku (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05874",
+    "title": "Memories Off - Yubikiri no Kioku - Futari no Fuuryuuan",
     "discs": 1,
     "languages": [
       "jp"
@@ -17736,7 +18756,7 @@
   },
   {
     "id": "UCAS-40185",
-    "title": "Minna no Golf Portable 2 (PSP the Best)",
+    "title": "Minna no Golf Portable 2 (PSP Ultra Pop)",
     "discs": 1,
     "languages": [
       "jp"
@@ -17753,6 +18773,62 @@
   {
     "id": "UCJM-95401",
     "title": "Minna no Golf Portable - Coca-Cola (Special Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00051",
+    "title": "Minna no Map",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00104",
+    "title": "Minna no Map 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00103",
+    "title": "Minna no Map 2 (w/ GPS Receiver)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00117",
+    "title": "Minna no Map 2 Chiikiban (Central Japan)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00116",
+    "title": "Minna no Map 2 Chiikiban (Eastern Japan)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00118",
+    "title": "Minna no Map 2 Chiikiban (Western Japan)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00139",
+    "title": "Minna no Map 3",
     "discs": 1,
     "languages": [
       "jp"
@@ -17978,6 +19054,14 @@
     ]
   },
   {
+    "id": "MKTW-12069",
+    "title": "Miyako Twinpack",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05583",
     "title": "Mizu no Senritsu",
     "discs": 1,
@@ -18042,8 +19126,40 @@
     ]
   },
   {
+    "id": "UCKS-45023",
+    "title": "MLB 06 - The Show",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCKS-45046",
+    "title": "MLB 07 - The Show",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCAS-40205",
+    "title": "MLB 08 - The Show",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCKS-45085",
     "title": "MLB 08 - The Show",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCKS-45249",
+    "title": "MLB 09 - The Show",
     "discs": 1,
     "languages": [
       "en"
@@ -18059,6 +19175,14 @@
   },
   {
     "id": "UCAS-40332",
+    "title": "MLB 11 - The Show",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCKS-45171",
     "title": "MLB 11 - The Show",
     "discs": 1,
     "languages": [
@@ -18119,6 +19243,15 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40306",
+    "title": "Modnation Racers",
+    "discs": 1,
+    "languages": [
+      "en",
+      "zh"
     ]
   },
   {
@@ -18259,6 +19392,14 @@
     ]
   },
   {
+    "id": "ULAS-42243",
+    "title": "MonHun Nikki - Poka Poka Ailu Mura",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05710",
     "title": "MonHun Nikki - Poka Poka Ailu Mura",
     "discs": 1,
@@ -18293,6 +19434,14 @@
   {
     "id": "ULJM-08054",
     "title": "MonHun Nikki - Poka Poka Ailu Mura (PSP the Best Reprint)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05881",
+    "title": "MonHun Nikki - Poka Poka Ailu Mura G",
     "discs": 1,
     "languages": [
       "jp"
@@ -18355,18 +19504,6 @@
     ]
   },
   {
-    "id": "NPEZ-00118",
-    "title": "Monopoly",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
     "id": "ULAS-42060",
     "title": "Monster Hunter Freedom",
     "discs": 1,
@@ -18423,8 +19560,24 @@
     ]
   },
   {
+    "id": "ULAS-42033",
+    "title": "Monster Hunter Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05066",
     "title": "Monster Hunter Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42070",
+    "title": "Monster Hunter Portable (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -18447,8 +19600,24 @@
     ]
   },
   {
+    "id": "ULAS-42093",
+    "title": "Monster Hunter Portable 2nd",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05156",
     "title": "Monster Hunter Portable 2nd",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42133",
+    "title": "Monster Hunter Portable 2nd G",
     "discs": 1,
     "languages": [
       "jp"
@@ -18487,6 +19656,14 @@
     ]
   },
   {
+    "id": "ULAS-42149",
+    "title": "Monster Hunter Portable 2nd G (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-08019",
     "title": "Monster Hunter Portable 2nd G (PSP the Best)",
     "discs": 1,
@@ -18497,6 +19674,14 @@
   {
     "id": "ULJM-08053",
     "title": "Monster Hunter Portable 2nd G (PSP the Best Reprint)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42260",
+    "title": "Monster Hunter Portable 3rd",
     "discs": 1,
     "languages": [
       "jp"
@@ -18529,6 +19714,14 @@
   {
     "id": "PSPJ-30021",
     "title": "Monster Hunter Portable 3rd (PSP 3000 Rookie Hunters Pack - White / Blue)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42291",
+    "title": "Monster Hunter Portable 3rd (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -18647,19 +19840,19 @@
     ]
   },
   {
-    "id": "UCJS-10104",
-    "title": "MotorStorm - Raging Ice",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "UCKS-45124",
     "title": "MotorStorm - Arctic Edge",
     "discs": 1,
     "languages": [
       "kr"
+    ]
+  },
+  {
+    "id": "UCJS-10104",
+    "title": "MotorStorm - Raging Ice",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -18713,6 +19906,14 @@
   {
     "id": "ULJM-06029",
     "title": "Moujuutsukai to Oujisama - Snow Bride Portable (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "MTPP-12059",
+    "title": "Moujuutsukai to Oujisama Twin Pack",
     "discs": 1,
     "languages": [
       "jp"
@@ -18935,6 +20136,14 @@
     ]
   },
   {
+    "id": "KOEI-00093",
+    "title": "Musou W Pack",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULKS-46061",
     "title": "Mutajuice",
     "discs": 1,
@@ -18953,6 +20162,14 @@
   {
     "id": "ULKS-46006",
     "title": "MVP Baseball",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULAS-42205",
+    "title": "MX vs ATV Reflex",
     "discs": 1,
     "languages": [
       "en"
@@ -19119,6 +20336,14 @@
     ]
   },
   {
+    "id": "UCAS-40061",
+    "title": "Namco Museum Vol.2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "UCKS-45162",
     "title": "Namco Museum Vol.2",
     "discs": 1,
@@ -19215,6 +20440,14 @@
     ]
   },
   {
+    "id": "ULAS-42092",
+    "title": "Naruto - Narutimate Portable Mugenjou no Maki",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00055",
     "title": "Naruto - Narutimate Portable Mugenjou no Maki",
     "discs": 1,
@@ -19251,7 +20484,7 @@
     "title": "Naruto Shippuden - Kizuna Drive",
     "discs": 1,
     "languages": [
-      "jp"
+      "en"
     ]
   },
   {
@@ -19297,6 +20530,14 @@
   {
     "id": "ULJS-19066",
     "title": "Naruto Shippuden - Narutimate Accel 3 (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42297",
+    "title": "Naruto Shippuden - Narutimate Impact",
     "discs": 1,
     "languages": [
       "jp"
@@ -19399,8 +20640,32 @@
     ]
   },
   {
+    "id": "UCAS-40181",
+    "title": "NBA 08",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCAS-40225",
+    "title": "NBA 09 The Inside",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCKS-45101",
     "title": "NBA 09 The Inside",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCAS-40279",
+    "title": "NBA 10 The Inside",
     "discs": 1,
     "languages": [
       "en"
@@ -19927,8 +21192,24 @@
     ]
   },
   {
+    "id": "ULJS-00306",
+    "title": "NeoGeo Heroes - Ultimate Shooting",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "NPJH-50293",
     "title": "NeoGeo Heroes - Ultimate Shooting",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "KOEI-00108",
+    "title": "Neo Romance Box Portable Selection",
     "discs": 1,
     "languages": [
       "jp"
@@ -20207,6 +21488,14 @@
     ]
   },
   {
+    "id": "NW10107860",
+    "title": "Nippon Game Taishou Jushou Kinen: Zero & Ao no Kiseki Gold Set",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "UCJS-10080",
     "title": "Nippon no Asoko de",
     "discs": 1,
@@ -20217,6 +21506,22 @@
   {
     "id": "NPJG-00056",
     "title": "Nippon no Asoko de",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05703",
+    "title": "Nisenochigiri",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NCPP-00704",
+    "title": "Nisenochigiri (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -20385,6 +21690,14 @@
   {
     "id": "ULJM-05364",
     "title": "Nobunaga no Yabou - Tenshouki (Koei Teiban Series)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00161",
+    "title": "Nogizaka Haruka no Himitsu - Cosplay Hajimemashita - Himitsu no Radio",
     "discs": 1,
     "languages": [
       "jp"
@@ -20572,7 +21885,7 @@
     ]
   },
   {
-    "id": "NPJH-50889",
+    "id": "ULJM-06393",
     "title": "Omerta - Chinmoku no Okite - The Legacy",
     "discs": 1,
     "languages": [
@@ -20580,7 +21893,7 @@
     ]
   },
   {
-    "id": "ULJM-06393",
+    "id": "NPJH-50889",
     "title": "Omerta - Chinmoku no Okite - The Legacy",
     "discs": 1,
     "languages": [
@@ -20750,6 +22063,14 @@
   {
     "id": "NPJH-00003",
     "title": "Onore no Shinzuru Michi o Yuke",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40059",
+    "title": "Ooedo Senryoubako",
     "discs": 1,
     "languages": [
       "jp"
@@ -21003,30 +22324,43 @@
     ]
   },
   {
-    "id": [
-      "ULJM-05862",
-      "ULJM-05863"
-    ],
-    "title": "Otome wa Boku ni Koishiteru Portable - Futari no Elder",
-    "discs": 2,
+    "id": "ULJM-05647",
+    "title": "Otome wa Oanesama ni Koi Shiteru Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-00114",
+    "title": "Otome wa Oanesama ni Koi Shiteru Portable",
+    "discs": 1,
     "languages": [
       "jp"
     ]
   },
   {
     "id": [
-      "NPJH-50488",
-      "NPJH-50489"
+      "ULJM-05862",
+      "ULJM-05863"
     ],
-    "title": "Otome wa Boku ni Koishiteru Portable - Futari no Elder",
+    "title": "Otome wa Oanesama ni Koi Shiteru Portable 2Jin no Elder",
     "discs": 2,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50488",
+    "title": "Otome wa Oanesama ni Koi Shiteru Portable 2Jin no Elder",
+    "discs": 1,
     "languages": [
       "jp"
     ]
   },
   {
     "id": "ALCH-00031",
-    "title": "Otome wa Boku ni Koishiteru Portable - Futari no Elder (Limited Edition)",
+    "title": "Otome wa Oanesama ni Koi Shiteru Portable 2Jin no Elder (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -21042,7 +22376,7 @@
   },
   {
     "id": "ULJM-06236",
-    "title": ";Otometeki Koi Kakumei * Love Revo!! 100kg Karahajimaru-Koimonogatar (Limited Edition)",
+    "title": "Otometeki Koi Kakumei * Love Revo!! 100kg Karahajimaru-Koimonogatar (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -21058,7 +22392,7 @@
   },
   {
     "id": "ULJM-05409",
-    "title": ";Otsugea Uranai na Desu.",
+    "title": "Otsugea Uranai na Desu.",
     "discs": 1,
     "languages": [
       "jp"
@@ -21083,6 +22417,14 @@
   {
     "id": "ALCH-00039",
     "title": "Ouka Sengoku Portable (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ROSE-00040",
+    "title": "Oumagatoki & Tasogaredoki [Twin Pack]",
     "discs": 1,
     "languages": [
       "jp"
@@ -21126,14 +22468,6 @@
     "discs": 1,
     "languages": [
       "jp"
-    ]
-  },
-  {
-    "id": "NPEZ-00087",
-    "title": "Pac-Man Championship Edition",
-    "discs": 1,
-    "languages": [
-      "en"
     ]
   },
   {
@@ -21506,7 +22840,23 @@
     ]
   },
   {
+    "id": "UCAS-40253",
+    "title": "Persona",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05422",
+    "title": "Persona",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50265",
     "title": "Persona",
     "discs": 1,
     "languages": [
@@ -21770,7 +23120,7 @@
     ]
   },
   {
-    "id": "ULJM-6026",
+    "id": "ULJM-06026",
     "title": "Phase-D - Kurosei no Shou",
     "discs": 1,
     "languages": [
@@ -21786,7 +23136,7 @@
     ]
   },
   {
-    "id": "ULJM-5994",
+    "id": "ULJM-05994",
     "title": "Phase-D - Shirokage no Shou",
     "discs": 1,
     "languages": [
@@ -22141,6 +23491,14 @@
     ]
   },
   {
+    "id": "UCAS-40088",
+    "title": "Plus Plum 2 Again Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00066",
     "title": "Plus Plum 2 Again Portable",
     "discs": 1,
@@ -22437,6 +23795,30 @@
     ]
   },
   {
+    "id": "ULJM-06036",
+    "title": "Princess Evangile Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50645",
+    "title": "Princess Evangile Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "CF00-20072",
+    "title": "Princess Evangile Portable (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05852",
     "title": "Princess Frontier Portable",
     "discs": 1,
@@ -22533,7 +23915,7 @@
     ]
   },
   {
-    "id": "UCKS 45104",
+    "id": "UCKS-45104",
     "title": "Prinny - Ore ga Shujinkou de Iinsuka?",
     "discs": 1,
     "languages": [
@@ -22558,7 +23940,7 @@
   },
   {
     "id": "ULJS-00245",
-    "title": "Prinny - Ore ga Shujinkou de Iinsuka (The Best Price)?",
+    "title": "Prinny - Ore ga Shujinkou de Iinsuka? (The Best Price)",
     "discs": 1,
     "languages": [
       "jp"
@@ -22629,7 +24011,7 @@
     ]
   },
   {
-    "id": "VP064-J1",
+    "id": "ULJM-05631",
     "title": "Pro Yakyuu Spirits 2010",
     "discs": 1,
     "languages": [
@@ -22645,7 +24027,7 @@
     ]
   },
   {
-    "id": "VP078-J1",
+    "id": "ULJM-05772",
     "title": "Pro Yakyuu Spirits 2011",
     "discs": 1,
     "languages": [
@@ -22669,7 +24051,7 @@
     ]
   },
   {
-    "id": "NPJH-00031",
+    "id": "NPJH-50520",
     "title": "Pro Yakyuu Spirits 2012",
     "discs": 1,
     "languages": [
@@ -22759,6 +24141,14 @@
     ]
   },
   {
+    "id": "UCAS-40068",
+    "title": "Pursuit Force",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCKS-45016",
     "title": "Pursuit Force",
     "discs": 1,
@@ -22839,6 +24229,14 @@
     ]
   },
   {
+    "id": "ULAS-42098",
+    "title": "Puyo Puyo! 15th Anniversary",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05177",
     "title": "Puyo Puyo! 15th Anniversary",
     "discs": 1,
@@ -22911,6 +24309,14 @@
     ]
   },
   {
+    "id": "UCAS-40124",
+    "title": "Puzzle Bobble Pocket (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05090",
     "title": "Puzzle Bobble Pocket (Taito Best)",
     "discs": 1,
@@ -22921,6 +24327,14 @@
   {
     "id": "UCKS-45073",
     "title": "Puzzle Quest",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCAS-40183",
+    "title": "Puzzle Quest - Challenge of WarLords",
     "discs": 1,
     "languages": [
       "en"
@@ -23533,6 +24947,15 @@
     ]
   },
   {
+    "id": "UCAS-40001",
+    "title": "Ridge Racer",
+    "discs": 1,
+    "languages": [
+      "en",
+      "jp"
+    ]
+  },
+  {
     "id": "UCAS-40015",
     "title": "Ridge Racer",
     "discs": 1,
@@ -23577,8 +25000,28 @@
     ]
   },
   {
+    "id": "UCAS-40093",
+    "title": "Ridge Racer (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
     "id": "ULJS-19002",
     "title": "Ridge Racer (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40113",
+    "title": "Ridge Racer 2",
     "discs": 1,
     "languages": [
       "jp"
@@ -23610,6 +25053,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCKS-45090",
+    "title": "Ridge Racer 2 (PSP BigHit Series)",
+    "discs": 1,
+    "languages": [
+      "kr"
     ]
   },
   {
@@ -23698,7 +25149,7 @@
   },
   {
     "id": "ULJM-05030",
-    "title": "Rockman Dash  - Hagane no Boukenshin",
+    "title": "Rockman Dash - Hagane no Boukenshin",
     "discs": 1,
     "languages": [
       "jp"
@@ -23706,7 +25157,7 @@
   },
   {
     "id": "NPJH-50179",
-    "title": "Rockman Dash  - Hagane no Boukenshin",
+    "title": "Rockman Dash - Hagane no Boukenshin",
     "discs": 1,
     "languages": [
       "jp"
@@ -23714,7 +25165,7 @@
   },
   {
     "id": "ULJM-05215",
-    "title": "Rockman Dash  - Hagane no Boukenshin (CapKore)",
+    "title": "Rockman Dash - Hagane no Boukenshin (CapKore)",
     "discs": 1,
     "languages": [
       "jp"
@@ -23722,7 +25173,7 @@
   },
   {
     "id": "CPCS-01042",
-    "title": "Rockman DASH (With RockMan DASH 2 Value Pack)",
+    "title": "Rockman Dash + RockMan Dash 2 Value Pack",
     "discs": 1,
     "languages": [
       "jp"
@@ -24265,6 +25716,14 @@
     ]
   },
   {
+    "id": "NPJH-50463",
+    "title": "Sakura Taisen 1 & 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05292",
     "title": "Sakura Taisen 1 & 2 (Sega the Best)",
     "discs": 1,
@@ -24371,6 +25830,14 @@
   {
     "id": "ULJS-19084",
     "title": "Samurai Dou Portable (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40277",
+    "title": "Samurai Dou 2 Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -24652,6 +26119,14 @@
     ]
   },
   {
+    "id": "ULJM-06405",
+    "title": "Sangoku Rensenki - Otome no Heihou! Omoide Gaeshi - CS Edition",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "UCAS-40003",
     "title": "Saru Get You! P!",
     "discs": 1,
@@ -24769,6 +26244,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40235",
+    "title": "Saru Get You! - SaruSaru Daisakusen (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "zh"
     ]
   },
   {
@@ -24956,7 +26439,7 @@
     ]
   },
   {
-    "id": "ULJS-00363",
+    "id": "ULJS-00536",
     "title": "SD Gundam G Generation Over World",
     "discs": 1,
     "languages": [
@@ -24964,15 +26447,7 @@
     ]
   },
   {
-    "id": "ULJS-00366",
-    "title": "SD Gundam G Generation Over World (Limited Edition)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULAS-42331",
+    "id": "ULAS-42326",
     "title": "SD Gundam G Generation Over World (PSP the Best)",
     "discs": 1,
     "languages": [
@@ -24980,7 +26455,7 @@
     ]
   },
   {
-    "id": "ULJS-19061",
+    "id": "ULJS-19088",
     "title": "SD Gundam G Generation Over World (PSP the Best)",
     "discs": 1,
     "languages": [
@@ -24988,7 +26463,7 @@
     ]
   },
   {
-    "id": "NPJH-50695",
+    "id": "NPJH-50681",
     "title": "SD Gundam G Generation Over World (PSP the Best)",
     "discs": 1,
     "languages": [
@@ -25029,6 +26504,14 @@
   },
   {
     "id": "ULJS-00363",
+    "title": "SD Gundam G Generation World",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULKS-46267",
     "title": "SD Gundam G Generation World",
     "discs": 1,
     "languages": [
@@ -25172,6 +26655,14 @@
     ]
   },
   {
+    "id": "UCKS-45072",
+    "title": "Sega Rally Revo",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05302",
     "title": "Sega Rally Revo",
     "discs": 1,
@@ -25295,118 +26786,6 @@
     ]
   },
   {
-    "id": "ULJM-05540",
-    "title": "Sengoku Hime - Senran ni Mau Otometachi",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-05531",
-    "title": "Sengoku Hime - Senran ni Mau Otometachi (Limited Edition)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-05967",
-    "title": "Sengoku Hime - Senran ni Mau Otometachi (SystemSoft Selection)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-05774",
-    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "NPJH-50362",
-    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-05773",
-    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku (Limited Edition)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06082",
-    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku (SystemSoft Selection)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06004",
-    "title": "Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "NPJH-50547",
-    "title": "Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06003",
-    "title": "Sengoku Hime 3 . Tenka o Kirisaku Hikari to Kage (Limited Edition)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06333",
-    "title": "Sengoku Hime 3 Tenka o Kirisaku Hikari to Kage (SystemSoft Selection)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06330",
-    "title": "Sengoku Hime 4 - Souha Hyakkei, Hana Mamoru Chikai",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "NPJH-50820",
-    "title": "Sengoku Hime 4 - Souha Hyakkei, Hana Mamoru Chikai",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06329",
-    "title": "Sengoku Hime 4 . Souha Hyakkei, Hana Mamoru Chikai (Limited Edition)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "ULAS-42157",
     "title": "Sengoku Basara - Battle Heroes",
     "discs": 1,
@@ -25521,6 +26900,126 @@
   {
     "id": "NPJH-50321",
     "title": "Sengoku Efuda Yuugi - Hototogisu Tairan",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05540",
+    "title": "Sengoku Hime - Senran ni Mau Otometachi",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05531",
+    "title": "Sengoku Hime - Senran ni Mau Otometachi (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05967",
+    "title": "Sengoku Hime - Senran ni Mau Otometachi (SystemSoft Selection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05774",
+    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50362",
+    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05773",
+    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06082",
+    "title": "Sengoku Hime 2 Arashi - Hyakubana, Senran Tatsukaze no Gotoku (SystemSoft Selection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06004",
+    "title": "Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50547",
+    "title": "Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06003",
+    "title": "Sengoku Hime 3 . Tenka o Kirisaku Hikari to Kage (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06333",
+    "title": "Sengoku Hime 3 Tenka o Kirisaku Hikari to Kage (SystemSoft Selection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06330",
+    "title": "Sengoku Hime 4 - Souha Hyakkei, Hana Mamoru Chikai",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50820",
+    "title": "Sengoku Hime 4 - Souha Hyakkei, Hana Mamoru Chikai",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06329",
+    "title": "Sengoku Hime 4 . Souha Hyakkei, Hana Mamoru Chikai (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "KOEI-00063",
+    "title": "Sengoku Lucky Pack",
     "discs": 1,
     "languages": [
       "jp"
@@ -25679,7 +27178,7 @@
     ]
   },
   {
-    "id": "VP051-J1",
+    "id": "ULJM-05512",
     "title": "Shadow of Memories",
     "discs": 1,
     "languages": [
@@ -25689,6 +27188,14 @@
   {
     "id": "NPJH-50036",
     "title": "Shadow of Memories",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40048",
+    "title": "Shanghai",
     "discs": 1,
     "languages": [
       "jp"
@@ -25759,6 +27266,14 @@
     ]
   },
   {
+    "id": "UCAS-40106",
+    "title": "Shichida Shiki Training - Unou Tanren Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05157",
     "title": "Shichida Shiki Training - Unou Tanren Portable",
     "discs": 1,
@@ -25816,8 +27331,8 @@
   },
   {
     "id": [
-      "ULJM-05695",
-      "ULJM-05696"
+      "ULJM-05694",
+      "ULJM-05695"
     ],
     "title": "Shin Koihime Musou - Otome Ryouran * Sangokushi Engi - Shu-Hen",
     "discs": 2,
@@ -25963,6 +27478,14 @@
   {
     "id": "UCKS-45116",
     "title": "Shin Megami Tensei - Persona",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42008",
+    "title": "Shin Sangoku Musou",
     "discs": 1,
     "languages": [
       "jp"
@@ -26237,7 +27760,7 @@
     ]
   },
   {
-    "id": "ULJM-08020",
+    "id": "ULJM-08028",
     "title": "Shin Sangoku Musou - Multi Raid (PSP the Best)",
     "discs": 1,
     "languages": [
@@ -26245,7 +27768,7 @@
     ]
   },
   {
-    "id": "ULJM-05427",
+    "id": "ULJM-05637",
     "title": "Shin Sangoku Musou - Multi Raid 2",
     "discs": 1,
     "languages": [
@@ -26253,7 +27776,7 @@
     ]
   },
   {
-    "id": "ULJM-05637",
+    "id": "NPJH-50545",
     "title": "Shin Sangoku Musou - Multi Raid 2",
     "discs": 1,
     "languages": [
@@ -26303,6 +27826,14 @@
   {
     "id": "ROSE-00033",
     "title": "Shinigami Shogyou - Kaidan Romance (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ROSE-00042",
+    "title": "Shinigami Kagyou & Shinigami Shogyou (Twin Pack)",
     "discs": 1,
     "languages": [
       "jp"
@@ -26589,32 +28120,16 @@
     ]
   },
   {
+    "id": "CF00-20023",
+    "title": "Shinseiki Evangelion Portable Pack",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00142",
     "title": "Shinseiki GPX Cyber Formula VS",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-06332",
-    "title": "Shinsouhan Heart no Kuni no Alice - Wonderful Wonder World",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "NPJH-50861",
-    "title": "Shinsouhan Heart no Kuni no Alice - Wonderful Wonder World",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ROSE-00032",
-    "title": "Shinsouhan Heart no Kuni no Alice - Wonderful Wonder World (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -26630,7 +28145,7 @@
   },
   {
     "id": "ULJM-05013",
-    "title": "Shintenmakai - GOCIV Another Side",
+    "title": "Shinten makai - GOCIV Another Side",
     "discs": 1,
     "languages": [
       "jp"
@@ -26677,7 +28192,7 @@
     ]
   },
   {
-    "id": "ULJM-06313",
+    "id": "ULJM-06314",
     "title": "Shirahana no Ori - Hiiro no Kakera 4 - Shiki no Uta",
     "discs": 1,
     "languages": [
@@ -26805,6 +28320,14 @@
     ]
   },
   {
+    "id": "NPJH-50398",
+    "title": "Shogi ga Tsuyokunaru - Gekishi - Jouseki Dojo",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05806",
     "title": "Shogi ga Tsuyokunaru - Gekishi - Jouseki Dojo (Mycom Best)",
     "discs": 1,
@@ -26847,6 +28370,22 @@
   {
     "id": "NPJH-50402",
     "title": "Shukufuku no Campanella Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "KAD-016",
+    "title": "Shukufuku no Campanella Portable (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42010",
+    "title": "Shutokou Battle",
     "discs": 1,
     "languages": [
       "jp"
@@ -26953,7 +28492,7 @@
     ]
   },
   {
-    "id": ":VP062-J6",
+    "id": "ULJM-05828",
     "title": "Silent Hill - Shattered Memories (Best Selection)",
     "discs": 1,
     "languages": [
@@ -27025,6 +28564,14 @@
     ]
   },
   {
+    "id": "UCAS-40050",
+    "title": "Simple 2500 Series Portable!! Vol.1 - The Table Game",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00037",
     "title": "Simple 2500 Series Portable!! Vol.1 - The Table Game",
     "discs": 1,
@@ -27035,6 +28582,14 @@
   {
     "id": "NPJH-50252",
     "title": "Simple 2500 Series Portable!! Vol.1 - The Table Game",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40160",
+    "title": "Simple 2500 Series Portable!! Vol.2 - The Tennis",
     "discs": 1,
     "languages": [
       "jp"
@@ -27073,6 +28628,14 @@
     ]
   },
   {
+    "id": "UCAS-40058",
+    "title": "Simple 2500 Series Portable!! Vol.4 - The Unou Drill",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00039",
     "title": "Simple 2500 Series Portable!! Vol.4 - The Unou Drill",
     "discs": 1,
@@ -27081,8 +28644,24 @@
     ]
   },
   {
+    "id": "UCAS-40159",
+    "title": "Simple 2500 Series Portable!! Vol.5 - The Block Kuzushi Quest - Dragon Kingdom",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00057",
     "title": "Simple 2500 Series Portable!! Vol.5 - The Block Kuzushi Quest - Dragon Kingdom",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40075",
+    "title": "Simple 2500 Series Portable!! Vol.6 - The Sensha",
     "discs": 1,
     "languages": [
       "jp"
@@ -27113,6 +28692,14 @@
     ]
   },
   {
+    "id": "UCAS-40121",
+    "title": "Simple 2500 Series Portable!! Vol.8 - The Doko Demo Gal Mahjong",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00084",
     "title": "Simple 2500 Series Portable!! Vol.8 - The Doko Demo Gal Mahjong",
     "discs": 1,
@@ -27123,6 +28710,14 @@
   {
     "id": "NPJH-50253",
     "title": "Simple 2500 Series Portable!! Vol.8 - The Doko Demo Gal Mahjong",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40143",
+    "title": "Simple 2500 Series Portable!! Vol.9 - The My Taxi!",
     "discs": 1,
     "languages": [
       "jp"
@@ -27193,6 +28788,14 @@
     ]
   },
   {
+    "id": "KOEI-00094",
+    "title": "Simulation W Pack",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05822",
     "title": "Slotter Mania P - Mach Go Go Go III",
     "discs": 1,
@@ -27230,6 +28833,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40017",
+    "title": "Smart Bomb",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -27337,16 +28948,16 @@
     ]
   },
   {
-    "id": "ULJM-05673",
-    "title": "So-Ra-No-Wo-To - Otome no Gojuusou",
+    "id": "ULJM-06328",
+    "title": "Snow Bound Land",
     "discs": 1,
     "languages": [
       "jp"
     ]
   },
   {
-    "id": "SGPP-00503",
-    "title": "So-Ra-No-Wo-To - Otome no Gojuusou (Limited Edition)",
+    "id": "ULJM-06327",
+    "title": "Snow Bound Land (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -27389,12 +29000,20 @@
     ]
   },
   {
+    "id": "UCAS-40128",
+    "title": "SOCOM - U.S. Navy SEALs Fireteam Bravo 2",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCKS-45043",
     "title": "SOCOM - U.S. Navy SEALs Fireteam Bravo 2",
     "discs": 1,
     "languages": [
       "en",
-      "en"
+      "kr"
     ]
   },
   {
@@ -27411,6 +29030,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40163",
+    "title": "SOCOM - U.S. Navy SEALs Tactical Strike",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -27591,8 +29218,24 @@
     ]
   },
   {
-    "id": "ULJM-06203",
+    "id": "ULJM-05921",
     "title": "Sora no Otoshimono - DokiDoki Summer Vacation (Kadokawa the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05673",
+    "title": "Sora no Woto - Otome no Gojuusou",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "SGPP-00503",
+    "title": "Sora no Woto - Otome no Gojuusou (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -27751,14 +29394,6 @@
     ]
   },
   {
-    "id": "ULJS-00176",
-    "title": "Soul Eater - Battle Resonance",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "UCAS-40275",
     "title": "Soul Calibur - Broken Destiny",
     "discs": 1,
@@ -27768,19 +29403,19 @@
     ]
   },
   {
-    "id": "ULJS-19055",
-    "title": "Soul Calibur - Broken Destiny",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "UCKS-45126",
     "title": "Soul Calibur - Broken Destiny",
     "discs": 1,
     "languages": [
       "en",
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00202",
+    "title": "Soul Calibur - Broken Destiny",
+    "discs": 1,
+    "languages": [
       "jp"
     ]
   },
@@ -27804,6 +29439,14 @@
   {
     "id": "NPJH-50034",
     "title": "Soul Calibur - Broken Destiny (PSP the Best)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00176",
+    "title": "Soul Eater - Battle Resonance",
     "discs": 1,
     "languages": [
       "jp"
@@ -27914,6 +29557,14 @@
     ]
   },
   {
+    "id": "UCAS-40102",
+    "title": "Spectral vs Generation",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05162",
     "title": "Spectral vs Generation",
     "discs": 1,
@@ -27930,7 +29581,7 @@
     ]
   },
   {
-    "id": "ULKM8-4501",
+    "id": "ULKS-45018",
     "title": "Spider-Man 2",
     "discs": 1,
     "languages": [
@@ -27988,6 +29639,14 @@
   {
     "id": "ULJM-05389",
     "title": "SSX - On Tour Portable (EA Best Hits)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42270",
+    "title": "Star Driver - Kagayaki no Takuto - Ginga Bishounen Densetsu",
     "discs": 1,
     "languages": [
       "jp"
@@ -28079,6 +29738,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40230",
+    "title": "Star Strike Portable",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -28507,7 +30174,7 @@
   },
   {
     "id": "UCAS-40245",
-    "title": "Strikers 1934 Plus",
+    "title": "Strikers 1945 Plus",
     "discs": 1,
     "languages": [
       "kr"
@@ -28515,7 +30182,7 @@
   },
   {
     "id": "ULKS-46198",
-    "title": "Strikers 1934 Plus",
+    "title": "Strikers 1945 Plus",
     "discs": 1,
     "languages": [
       "kr"
@@ -28523,7 +30190,7 @@
   },
   {
     "id": "ULJM-05511",
-    "title": "Strikers 1934 Plus Portable",
+    "title": "Strikers 1945 Plus Portable",
     "discs": 1,
     "languages": [
       "jp"
@@ -28548,6 +30215,22 @@
   {
     "id": "CF00-20087",
     "title": "Sucre Portable (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40082",
+    "title": "Sudoku",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05146",
+    "title": "Sudoku",
     "discs": 1,
     "languages": [
       "jp"
@@ -28746,6 +30429,14 @@
     ]
   },
   {
+    "id": "UCAS-40214",
+    "title": "Super Robot Taisen A Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJS-00143",
     "title": "Super Robot Taisen A Portable",
     "discs": 1,
@@ -28772,6 +30463,14 @@
   {
     "id": "NPJH-50521",
     "title": "Super Robot Taisen OE - Operation Extend",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42302",
+    "title": "Super Robot Taisen OG Saga - Masou Kishin - The Lord of Elemental",
     "discs": 1,
     "languages": [
       "jp"
@@ -29438,14 +31137,6 @@
   {
     "id": "NPJH-50850",
     "title": "Tales of Destiny 2 (PSP the Best)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "UCAS-40141",
-    "title": "Tales of Destiny 2",
     "discs": 1,
     "languages": [
       "jp"
@@ -30473,7 +32164,7 @@
     "title": "Tenchi no Mon (PSP the Best)",
     "discs": 1,
     "languages": [
-      "jp"
+      "zh"
     ]
   },
   {
@@ -30605,6 +32296,14 @@
     ]
   },
   {
+    "id": "ULAS-42066",
+    "title": "Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05106",
     "title": "Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV)",
     "discs": 1,
@@ -30694,14 +32393,6 @@
     ]
   },
   {
-    "id": "NPEZ-00363",
-    "title": "The 2D Adventures of Rotating Octopus Character",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
     "id": "UCAS-40325",
     "title": "THE 3RD BIRTHDAY",
     "discs": 1,
@@ -30764,6 +32455,22 @@
     ]
   },
   {
+    "id": "ULJM-05702",
+    "title": "The Conveni Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50292",
+    "title": "The Conveni Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05122",
     "title": "The Dog - Happy Life",
     "discs": 1,
@@ -30774,6 +32481,14 @@
   {
     "id": "ULJM-95002",
     "title": "The Dog - Happy Life - Shiawase Wanko Seikatsu Dai Ichidan (McDonald's Ver.)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "UCAS-40282",
+    "title": "The Eye of Judgment - Shintaku no Wizard",
     "discs": 1,
     "languages": [
       "jp"
@@ -30988,6 +32703,14 @@
     ]
   },
   {
+    "id": "ULAS-42277",
+    "title": "The King of Fighters Collection - The Orochi Saga (SNK Best Collection)",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJS-00194",
     "title": "The King of Fighters Portable '94~'98 - Chapter of Orochi",
     "discs": 1,
@@ -31036,11 +32759,27 @@
     ]
   },
   {
+    "id": "ULKS-46159",
+    "title": "The Simpsons Game",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULKS-46045",
     "title": "The Sims 2",
     "discs": 1,
     "languages": [
       "kr"
+    ]
+  },
+  {
+    "id": "ULAS-42121",
+    "title": "The Sims 2 - Castaway",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -31069,14 +32808,6 @@
     ]
   },
   {
-    "id": "ULKS-46159",
-    "title": "The Simpsons Game",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
     "id": "NPJH-00004",
     "title": "Thexder Neo",
     "discs": 1,
@@ -31094,6 +32825,14 @@
   },
   {
     "id": "ULJS-00569",
+    "title": "Tiger & Bunny - Hero's Day",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50753",
     "title": "Tiger & Bunny - Hero's Day",
     "discs": 1,
     "languages": [
@@ -31253,14 +32992,6 @@
     ]
   },
   {
-    "id": "ULJS-00463",
-    "title": "Tir-Na-Nog - Yuukyuu no Jin (SystemSoft Selection)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "ULJM-05972",
     "title": "To Heart Portable (Aqua Price 2800)",
     "discs": 1,
@@ -31271,6 +33002,38 @@
   {
     "id": "NPJH-50791",
     "title": "To Heart Portable (Aqua Price 2800)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05873",
+    "title": "To Heart 2 - Dungeon Travelers",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50771",
+    "title": "To Heart 2 - Dungeon Travelers (Aqua Price 2800)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06267",
+    "title": "To Heart 2 - Dungeon Travelers (Aqua Price 2800)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05872",
+    "title": "To Heart 2 - Dungeon Travelers (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -31349,6 +33112,30 @@
   {
     "id": "ULJS-00153",
     "title": "To Love Ru Trouble - Doki Doki! Rinkaigakkou Hen (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00354",
+    "title": "Toaru Kagaku no Chou Denjihou",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-00353",
+    "title": "Toaru Kagaku no Chou Denjihou (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJS-19077",
+    "title": "Toaru Kagaku no Chou Denjihou (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -31483,6 +33270,30 @@
     ]
   },
   {
+    "id": "TKTW-13113",
+    "title": "Toki no Kizuna - Hanayui Tsuzuri [Twin Pack]",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06129",
+    "title": "Toki no Kizuna - Sekigahara Kitan",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06128",
+    "title": "Toki no Kizuna - Sekigahara Kitan (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULAS-42046",
     "title": "Tokimeki Memorial - Forever With You",
     "discs": 1,
@@ -31493,6 +33304,14 @@
   {
     "id": "ULJM-05078",
     "title": "Tokimeki Memorial - Forever With You",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "TOKIPSPS",
+    "title": "Tokimeki Memorial - Forever With You [Konamistyle Special Edition]",
     "discs": 1,
     "languages": [
       "jp"
@@ -31675,38 +33494,6 @@
     ]
   },
   {
-    "id": "ULJS-00133",
-    "title": "Tomb Raider - Anniversary",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJS-00221",
-    "title": "Tomb Raider - Anniversary (Spike The Best)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJM-05180",
-    "title": "Tomb Raider - Legend",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
-    "id": "ULJS-00222",
-    "title": "Tomb Raider - Legend (Spike The Best)",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "ULJM-05411",
     "title": "Tomoyo After - It's a Wonderful Life - CS Edition",
     "discs": 1,
@@ -31845,6 +33632,30 @@
   {
     "id": "ULJM-05050",
     "title": "Touhokudai Gaku Mirai Kagakugijutsu Kyoudoukenkyuu Center - Kahashima Ryuuta Kyouju Kanshuu Nou Chikara Trainer Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06290",
+    "title": "Toukiden",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "NPJH-50789",
+    "title": "Toukiden",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-08070",
+    "title": "Toukiden (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -32131,6 +33942,22 @@
     ]
   },
   {
+    "id": "ULAS-42096",
+    "title": "UEFA Championships League 2006-2007",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULAS-42135",
+    "title": "UEFA Euro 2008 Austria-Switzerland",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULKS-46182",
     "title": "UEFA Euro 2008 Austria-Switzerland",
     "discs": 1,
@@ -32176,6 +34003,14 @@
     "discs": 1,
     "languages": [
       "jp"
+    ]
+  },
+  {
+    "id": "ULKS-46055",
+    "title": "Ultra Puzzle Bobble Pocket",
+    "discs": 1,
+    "languages": [
+      "en"
     ]
   },
   {
@@ -32380,7 +34215,7 @@
   },
   {
     "id": "ULKS-46015",
-    "title": "Untold Legends - Brotherhood of the Blade (",
+    "title": "Untold Legends - Brotherhood of the Blade",
     "discs": 1,
     "languages": [
       "kr"
@@ -32427,7 +34262,7 @@
     ]
   },
   {
-    "id": "ULJM-06281",
+    "id": "ULJM-06280",
     "title": "Urakata Hakuouki (Limited Edition)",
     "discs": 1,
     "languages": [
@@ -32667,7 +34502,7 @@
     ]
   },
   {
-    "id": "ULJM-0581",
+    "id": "ULJM-05817",
     "title": "Uta no * Prince-Sama - Sweet Serenade",
     "discs": 1,
     "languages": [
@@ -32755,7 +34590,7 @@
     ]
   },
   {
-    "id": "ULJM-00075",
+    "id": "ULJS-00075",
     "title": "Valhalla Knights",
     "discs": 1,
     "languages": [
@@ -32957,6 +34792,14 @@
   {
     "id": "ULJM-05580",
     "title": "Vantage Master Portable (Super Price Series)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42266",
+    "title": "Venus & Braves - Majo to Megami to Horobi no Yogen",
     "discs": 1,
     "languages": [
       "jp"
@@ -33187,6 +35030,14 @@
     ]
   },
   {
+    "id": "UCAS-40126",
+    "title": "Vulcanus - Seek & Destroy",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "UCKS-45006",
     "title": "Vulcanus - Seek & Destroy",
     "discs": 1,
@@ -33205,6 +35056,30 @@
   {
     "id": "ULJM-05449",
     "title": "Vulcanus - Seek & Destroy (CH Selection)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-06404",
+    "title": "Walpurga no Uta - Walpurgisgedichte",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05689",
+    "title": "Wand of Fortune Portable",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "WFPP-00602",
+    "title": "Wand of Fortune Portable (Limited Edition)",
     "discs": 1,
     "languages": [
       "jp"
@@ -33253,6 +35128,14 @@
   {
     "id": "ULJM-06193",
     "title": "Wand of Fortune 2 FD - Kimi ni Sasageru Epilogue (Limited Edition)",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "WFTW-12094",
+    "title": "Wand of Fortune 2 Twin Pack",
     "discs": 1,
     "languages": [
       "jp"
@@ -33598,6 +35481,14 @@
     ]
   },
   {
+    "id": "UCKS-45078",
+    "title": "Wipeout Pulse",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCAS-40012",
     "title": "Wipeout Pure",
     "discs": 1,
@@ -33702,8 +35593,25 @@
     ]
   },
   {
+    "id": "ULAS-42127",
+    "title": "World Soccer Winning Eleven - Ubiquitous Edition 2008",
+    "discs": 1,
+    "languages": [
+      "en",
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05270",
     "title": "World Soccer Winning Eleven - Ubiquitous Edition 2008",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42018",
+    "title": "World Soccer Winning Eleven 9 - Ubiquitous Edition",
     "discs": 1,
     "languages": [
       "jp"
@@ -33720,6 +35628,14 @@
   {
     "id": "ULJM-05033",
     "title": "World Soccer Winning Eleven 9 - Ubiquitous Evolution",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42057",
+    "title": "World Soccer Winning Eleven 9 - Ubiquitous Evolution (PSP the Best)",
     "discs": 1,
     "languages": [
       "jp"
@@ -33768,6 +35684,14 @@
   {
     "id": "ULJM-05414",
     "title": "World Soccer Winning Eleven 2009",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42204",
+    "title": "World Soccer Winning Eleven 2010",
     "discs": 1,
     "languages": [
       "jp"
@@ -33889,14 +35813,6 @@
     ]
   },
   {
-    "id": "ULJM-05114",
-    "title": "WRC - FIA World Rally Championship",
-    "discs": 1,
-    "languages": [
-      "jp"
-    ]
-  },
-  {
     "id": "ULKS-46078",
     "title": "Worms - Open Warfare",
     "discs": 1,
@@ -33910,6 +35826,22 @@
     "discs": 1,
     "languages": [
       "en"
+    ]
+  },
+  {
+    "id": "UCAS-40070",
+    "title": "WRC - FIA World Rally Championship",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULJM-05114",
+    "title": "WRC - FIA World Rally Championship",
+    "discs": 1,
+    "languages": [
+      "jp"
     ]
   },
   {
@@ -33945,6 +35877,22 @@
     ]
   },
   {
+    "id": "ULAS-42194",
+    "title": "WWE Smackdown! vs. RAW 2010",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ULAS-42253",
+    "title": "WWE Smackdown! vs. RAW 2011",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "NPJH-00067",
     "title": "X-Radar Portable",
     "discs": 1,
@@ -33973,8 +35921,24 @@
     ]
   },
   {
+    "id": "UCAS-40182",
+    "title": "Xyanide Resurrection",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULJM-05295",
     "title": "Xyanide Resurrection",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "CF00-27019",
+    "title": "Yamada Hajime Box",
     "discs": 1,
     "languages": [
       "jp"
@@ -34415,15 +36379,11 @@
     ]
   },
   {
-    "id": "ULES-00267",
+    "id": "ULAS-42011",
     "title": "Ys - The Ark of Napishtim",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "jp"
     ]
   },
   {
@@ -34515,6 +36475,19 @@
     ]
   },
   {
+    "id": "ULAS-42075",
+    "title": "Yu-Gi-Oh! Duel Monsters GX Tag Force",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05151",
     "title": "Yu-Gi-Oh! Duel Monsters GX Tag Force",
     "discs": 1,
@@ -34528,8 +36501,24 @@
     ]
   },
   {
+    "id": "ULAS-42105",
+    "title": "Yu-Gi-Oh! Duel Monsters GX Tag Force 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
     "id": "ULJM-05260",
     "title": "Yu-Gi-Oh! Duel Monsters GX Tag Force 2",
+    "discs": 1,
+    "languages": [
+      "jp"
+    ]
+  },
+  {
+    "id": "ULAS-42144",
+    "title": "Yu-Gi-Oh! Duel Monsters GX Tag Force 3",
     "discs": 1,
     "languages": [
       "jp"
@@ -34935,7 +36924,7 @@
     ]
   },
   {
-    "id": "ULJS-19050",
+    "id": "ULJM-06149",
     "title": "Zill O'll Infinite Plus (Koei Tecmo Teiban Series)",
     "discs": 1,
     "languages": [

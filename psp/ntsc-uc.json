@@ -484,6 +484,14 @@
     ]
   },
   {
+    "id": "UCUS-98603",
+    "title": "ATV Offroad Fury - Blazin' Trails",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "UCUS-98648",
     "title": "ATV Offroad Fury Pro",
     "discs": 1,
@@ -759,7 +767,7 @@
     ]
   },
   {
-    "id": "ULUS-10200",
+    "id": "NPUZ-00218",
     "title": "Block Cascade Fusion",
     "discs": 1,
     "languages": [
@@ -967,14 +975,6 @@
     ]
   },
   {
-    "id": "ULES-00750",
-    "title": "Burnout Dominator",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
     "id": "ULUS-10025",
     "title": "Burnout Legends",
     "discs": 1,
@@ -988,7 +988,7 @@
   },
   {
     "id": "ULUS-10057",
-    "title": "Bust-A-Move Deluce",
+    "title": "Bust-A-Move Deluxe",
     "discs": 1,
     "languages": [
       "en"
@@ -1052,7 +1052,7 @@
   },
   {
     "id": "ULUS-10362",
-    "title": "Cake Mania: Baker's Challenge",
+    "title": "Cake Mania - Baker's Challenge",
     "discs": 1,
     "languages": [
       "en"
@@ -1148,11 +1148,7 @@
     "title": "Carol Vorderman's Sudoku",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "en"
     ]
   },
   {
@@ -1301,7 +1297,8 @@
     "discs": 1,
     "languages": [
       "en",
-      "fr"
+      "fr",
+      "es"
     ]
   },
   {
@@ -1314,7 +1311,7 @@
   },
   {
     "id": "ULUS-10184",
-    "title": "Co8ded Arms - Contagion",
+    "title": "Coded Arms - Contagion",
     "discs": 1,
     "languages": [
       "en"
@@ -1906,6 +1903,14 @@
     ]
   },
   {
+    "id": "ULUS-10520",
+    "title": "DreamWorks' Megamind - The Blue Defender",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
     "id": "ULUS-10187",
     "title": "DreamWorks' Over the Hedge - Hammy Goes Nuts!",
     "discs": 1,
@@ -2172,62 +2177,6 @@
   {
     "id": "ULUS-10147",
     "title": "Every Extend Extra",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
-    "id": "UCES-00012",
-    "title": "Everybody's Golf",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
-    "id": "UCES-00767",
-    "title": "Everybody's Golf 2",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
-    "id": "NPEG-00047",
-    "title": "Everybody's Stress Buster (Blue Pack)",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
-    "id": "NPEG-00046",
-    "title": "Everybody's Stress Buster (Green Pack)",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
-    "id": "NPEG-00048",
-    "title": "Everybody's Stress Buster (Red Pack)",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
-    "id": "NPEG-00049",
-    "title": "Everybody's Stress Buster (Yellow Pack)",
     "discs": 1,
     "languages": [
       "en"
@@ -2503,6 +2452,15 @@
   {
     "id": "ULUS-10595",
     "title": "FIFA Soccer '13",
+    "discs": 1,
+    "languages": [
+      "en",
+      "es"
+    ]
+  },
+  {
+    "id": "ULUS-10655",
+    "title": "FIFA Soccer '14",
     "discs": 1,
     "languages": [
       "en",
@@ -3697,7 +3655,11 @@
     "title": "Jelly Car 2",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
     ]
   },
   {
@@ -3878,6 +3840,30 @@
     "languages": [
       "en",
       "fr",
+      "es"
+    ]
+  },
+  {
+    "id": "ULUS-10253",
+    "title": "Lara Croft - Tomb Raider - Anniversary",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ]
+  },
+  {
+    "id": "ULUS-10110",
+    "title": "Lara Croft - Tomb Raider - Legend",
+    "discs": 1,
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
       "es"
     ]
   },
@@ -4416,14 +4402,6 @@
   {
     "id": "ULUS-10091",
     "title": "MegaMan - Powered Up",
-    "discs": 1,
-    "languages": [
-      "en"
-    ]
-  },
-  {
-    "id": "ULUS-10520",
-    "title": "Megamind - The Blue Defender",
     "discs": 1,
     "languages": [
       "en"
@@ -5076,22 +5054,6 @@
     ]
   },
   {
-    "id": "ULES-00463",
-    "title": "NBA Live 07",
-    "discs": 1,
-    "languages": [
-      "fr"
-    ]
-  },
-  {
-    "id": "ULES-00464",
-    "title": "NBA Live 07",
-    "discs": 1,
-    "languages": [
-      "es"
-    ]
-  },
-  {
     "id": "ULUS-10294",
     "title": "NBA Live 08",
     "discs": 1,
@@ -5199,6 +5161,14 @@
   {
     "id": "NPUH-10089",
     "title": "NeoGeo Heroes - Ultimate Shooting",
+    "discs": 1,
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "UCUS-98622",
+    "title": "Neopets Petpet Adventures - The Wand of Wishing",
     "discs": 1,
     "languages": [
       "en"
@@ -5339,11 +5309,7 @@
     "title": "Online Chess Kingdoms",
     "discs": 1,
     "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
+      "en"
     ]
   },
   {
@@ -6295,7 +6261,9 @@
     "title": "SBK - Superbike World Championship",
     "discs": 1,
     "languages": [
-      "en"
+      "en",
+      "fr",
+      "es"
     ]
   },
   {
@@ -7395,9 +7363,12 @@
     ]
   },
   {
-    "id": "NPUH-10191",
+    "id": [
+      "NPUH-10191",
+      "NPUH-10197"
+    ],
     "title": "The Legend of Heroes - Trails in the Sky SC",
-    "discs": 1,
+    "discs": 2,
     "languages": [
       "en"
     ]
@@ -7693,7 +7664,7 @@
   },
   {
     "id": "ULUS-10237",
-    "title": "Tom Clancy's Ghost Recon - Advanced Warfighter 2",
+    "title": "Tom Clancy's Ghost Recon - Advanced Warfighter",
     "discs": 1,
     "languages": [
       "en",
@@ -7729,30 +7700,6 @@
     "discs": 1,
     "languages": [
       "en"
-    ]
-  },
-  {
-    "id": "ULUS-10253",
-    "title": "Tomb Raider - Anniversary",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
-    ]
-  },
-  {
-    "id": "ULUS-10110",
-    "title": "Tomb Raider - Legend",
-    "discs": 1,
-    "languages": [
-      "en",
-      "fr",
-      "de",
-      "it",
-      "es"
     ]
   },
   {

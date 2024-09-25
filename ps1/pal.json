@@ -9,6 +9,15 @@
     "link": "https://psxdatacenter.com/games/P/0-9/SLES-03134.html"
   },
   {
+    "id": "SLES-03138",
+    "title": "007 - THE WORLD IS NOT ENOUGH",
+    "discs": 1,
+    "languages": [
+      "sv"
+    ],
+    "link": "https://psxdatacenter.com/games/P/0-9/SLES-03138.html"
+  },
+  {
     "id": "SLES-03135",
     "title": "007 - LE MONDE NE SUFFIT PAS",
     "discs": 1,
@@ -1086,6 +1095,18 @@
     "link": "https://psxdatacenter.com/games/P/A/SLES-02350.html"
   },
   {
+    "id": [
+      "SLES-02429",
+      "SLES-12429"
+    ],
+    "title": "AMERZONE - O TESTAMENTO DO EXPLORADOR",
+    "discs": 2,
+    "languages": [
+      "pt"
+    ],
+    "link": "https://psxdatacenter.com/games/P/A/SLES-02429.html"
+  },
+  {
     "id": "SLES-02961",
     "title": "ANASTASIA",
     "discs": 1,
@@ -1808,6 +1829,19 @@
       "it"
     ],
     "link": "https://psxdatacenter.com/games/P/A/SLES-01604.html"
+  },
+  {
+    "id": [
+      "SLES-01291",
+      "SLES-11291",
+      "SLES-21291"
+    ],
+    "title": "ATLANTIS - THE LOST TALES",
+    "discs": 3,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/P/A/SLES-01605.html"
   },
   {
     "id": [
@@ -2582,6 +2616,15 @@
     "link": "https://psxdatacenter.com/games/P/B/SLES-01169.html"
   },
   {
+    "id": "SLES-01192",
+    "title": "BLAST RADIUS",
+    "discs": 1,
+    "languages": [
+      "fr"
+    ],
+    "link": "https://psxdatacenter.com/games/P/B/SLES-01192.html"
+  },
+  {
     "id": "SLES-02273",
     "title": "BLASTER MASTER - BLASTING AGAIN",
     "discs": 1,
@@ -2736,6 +2779,15 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/B/SLES-03570.html"
+  },
+  {
+    "id": "SLES-03674",
+    "title": "BOB AGGIUSTATUTTO",
+    "discs": 1,
+    "languages": [
+      "it"
+    ],
+    "link": "https://psxdatacenter.com/games/P/B/SLES-03674.html"
   },
   {
     "id": "SLES-03798",
@@ -3207,6 +3259,18 @@
     "link": "https://psxdatacenter.com/games/P/B/SLES-00278.html"
   },
   {
+    "id": [
+      "SLES-04153",
+      "SLES-14153"
+    ],
+    "title": "BUST-A-MOVE 2 + BUST-A-MOVE 3 DX",
+    "discs": 2,
+    "languages": [
+      "en"
+    ],
+    "link": "https://psxdatacenter.com/games/P/B/SLES-04153.html"
+  },
+  {
     "id": "SLES-00991",
     "title": "BUST-A-MOVE 3 DX",
     "discs": 1,
@@ -3232,6 +3296,24 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/B/SLES-04104.html"
+  },
+  {
+    "id": "SLES-03563",
+    "title": "BYGGMESTER BOB - KAN DET FIKSES?",
+    "discs": 1,
+    "languages": [
+      "no"
+    ],
+    "link": "https://psxdatacenter.com/games/P/B/SLES-03563.html"
+  },
+  {
+    "id": "SLES-03562",
+    "title": "BYGGARE BOB - KAN VI FIXA DET?",
+    "discs": 1,
+    "languages": [
+      "sv"
+    ],
+    "link": "https://psxdatacenter.com/games/P/B/SLES-03562.html"
   },
   {
     "id": "SCES-03364",
@@ -3261,6 +3343,15 @@
       "es"
     ],
     "link": "https://psxdatacenter.com/games/P/C/SCES-03366.html"
+  },
+  {
+    "id": "SCES-03426",
+    "title": "C-12 FINAL RESISTANCE",
+    "discs": 1,
+    "languages": [
+      "ru"
+    ],
+    "link": "https://psxdatacenter.com/games/P/C/SCES-03426.html"
   },
   {
     "id": "SLES-01363",
@@ -5099,6 +5190,15 @@
     "link": "https://psxdatacenter.com/games/P/D/SLES-03919.html"
   },
   {
+    "id": "SLES-03952",
+    "title": "DELTA FORCE - URBAN WARFARE",
+    "discs": 1,
+    "languages": [
+      "fr"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SLES-03952.html"
+  },
+  {
     "id": "SLES-02018",
     "title": "DEMOLITION RACER",
     "discs": 1,
@@ -6286,6 +6386,15 @@
     "link": "https://psxdatacenter.com/games/P/D/SLES-03983.html"
   },
   {
+    "id": "SCES-03879",
+    "title": "DISNEY'S LILO & STITCH - BALLADE PÅ HAWAII!",
+    "discs": 1,
+    "languages": [
+      "da"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SCES-03879.html"
+  },
+  {
     "id": "SCES-03875",
     "title": "DISNEY'S LILO & STITCH - EN PROBLEMAS EN EL PARAISO",
     "discs": 1,
@@ -6313,6 +6422,15 @@
     "link": "https://psxdatacenter.com/games/P/D/SCES-03876.html"
   },
   {
+    "id": "SCES-03880",
+    "title": "DISNEY'S LILO & STITCH - HULA BALUBA!",
+    "discs": 1,
+    "languages": [
+      "no"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SCES-03880.html"
+  },
+  {
     "id": "SCES-03872",
     "title": "DISNEY'S LILO & STITCH - OURAGAN SUR HAWAI",
     "discs": 1,
@@ -6322,6 +6440,15 @@
     "link": "https://psxdatacenter.com/games/P/D/SCES-03872.html"
   },
   {
+    "id": "SCES-03877",
+    "title": "DISNEY'S LILO & STITCH - SARILHOS NO PARAÍSO",
+    "discs": 1,
+    "languages": [
+      "pt"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SCES-03877.html"
+  },
+  {
     "id": "SCES-03871",
     "title": "DISNEY'S LILO & STITCH - TROUBLE IN PARADISE",
     "discs": 1,
@@ -6329,6 +6456,15 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/D/SCES-03871.html"
+  },
+  {
+    "id": "SCES-03878",
+    "title": "DISNEY'S LILO & STITCH - TRUBBEL I PARADISET",
+    "discs": 1,
+    "languages": [
+      "sv"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SCES-03878.html"
   },
   {
     "id": "SCES-03873",
@@ -6574,6 +6710,15 @@
     "link": "https://psxdatacenter.com/games/P/D/SCES-03938.html"
   },
   {
+    "id": "SCES-03747",
+    "title": "DISNEY'S PLYS' SPIL-OG-LEG-STED",
+    "discs": 1,
+    "languages": [
+      "da"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SCES-03747.html"
+  },
+  {
     "id": "SCES-03749",
     "title": "DISNEY'S POOH E TIGRO! E QUI LA FESTA",
     "discs": 1,
@@ -6743,6 +6888,15 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/D/SCES-03032.html"
+  },
+  {
+    "id": "SLES-03261",
+    "title": "DISNEY'S TIGERDYRETS HONNINGJAGT",
+    "discs": 1,
+    "languages": [
+      "da"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SLES-03261.html"
   },
   {
     "id": "SLES-03179",
@@ -7067,6 +7221,15 @@
       "fr"
     ],
     "link": "https://psxdatacenter.com/games/P/D/SCES-03763.html"
+  },
+  {
+    "id": "SCES-03769",
+    "title": "DISNEY / PIXAR - MONSTROS E COMPANHIA - ILHA ASSUSTADORA",
+    "discs": 1,
+    "languages": [
+      "pt"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SCES-03769.html"
   },
   {
     "id": "SCES-03767",
@@ -7744,6 +7907,17 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/D/SLES-02821.html"
+  },
+  {
+    "id": "SLES-03377",
+    "title": "DUCATI WORLD RACING CHALLENGE",
+    "discs": 1,
+    "languages": [
+      "fr",
+      "de",
+      "it"
+    ],
+    "link": "https://psxdatacenter.com/games/P/D/SLES-03377.html"
   },
   {
     "id": "SLES-00703",
@@ -8760,6 +8934,15 @@
     "link": "https://psxdatacenter.com/games/P/F/SLES-03143.html"
   },
   {
+    "id": "SLES-03144",
+    "title": "FIFA 2001",
+    "discs": 1,
+    "languages": [
+      "he"
+    ],
+    "link": "https://psxdatacenter.com/games/P/F/SLES-03144.html"
+  },
+  {
     "id": "SLES-03145",
     "title": "FIFA 2001",
     "discs": 1,
@@ -9271,9 +9454,9 @@
   {
     "id": [
       "SLES-02084",
-      "SCES-12084",
-      "SCES-22084",
-      "SCES-32084"
+      "SLES-12084",
+      "SLES-22084",
+      "SLES-32084"
     ],
     "title": "FINAL FANTASY VIII",
     "discs": 4,
@@ -10761,6 +10944,15 @@
     "link": "https://psxdatacenter.com/games/P/H/SLES-03975.html"
   },
   {
+    "id": "SLES-03976",
+    "title": "HARRY POTTER JA SALAISUUKSIEN KAMMIO",
+    "discs": 1,
+    "languages": [
+      "fi"
+    ],
+    "link": "https://psxdatacenter.com/games/P/H/SLES-03976.html"
+  },
+  {
     "id": "SLES-03973",
     "title": "HARRY POTTER Y LA CÁMARA SECRETA",
     "discs": 1,
@@ -11196,6 +11388,15 @@
     "link": "https://psxdatacenter.com/games/P/H/SLES-01809.html"
   },
   {
+    "id": "SLES-01810",
+    "title": "HUGO 2",
+    "discs": 1,
+    "languages": [
+      "da"
+    ],
+    "link": "https://psxdatacenter.com/games/P/H/SLES-01810.html"
+  },
+  {
     "id": "SLES-01811",
     "title": "HUGO 2",
     "discs": 1,
@@ -11203,6 +11404,15 @@
       "sv"
     ],
     "link": "https://psxdatacenter.com/games/P/H/SLES-01811.html"
+  },
+  {
+    "id": "SLES-01812",
+    "title": "HUGO 2",
+    "discs": 1,
+    "languages": [
+      "no"
+    ],
+    "link": "https://psxdatacenter.com/games/P/H/SLES-01812.html"
   },
   {
     "id": "SLES-01813",
@@ -11221,6 +11431,15 @@
       "nl"
     ],
     "link": "https://psxdatacenter.com/games/P/H/SLES-01815.html"
+  },
+  {
+    "id": "SLES-02163",
+    "title": "HUGO 2",
+    "discs": 1,
+    "languages": [
+      "fi"
+    ],
+    "link": "https://psxdatacenter.com/games/P/H/SLES-02163.html"
   },
   {
     "id": "SLES-02590",
@@ -12159,7 +12378,7 @@
     "languages": [
       "it"
     ],
-    "link": "https://psxdatacenter.com/games/P/K/SLES-01062.html"
+    "link": "https://psxdatacenter.com/games/P/K/SLES-01063.html"
   },
   {
     "id": "SLES-01327",
@@ -12524,15 +12743,6 @@
     "link": "https://psxdatacenter.com/games/P/K/SLES-02901.html"
   },
   {
-    "id": "SLES-00125",
-    "title": "KRAZY IVAN",
-    "discs": 1,
-    "languages": [
-      "en"
-    ],
-    "link": "https://psxdatacenter.com/games/P/K/SLES-00125.html"
-  },
-  {
     "id": "SLES-00084",
     "title": "KRAZY IVAN",
     "discs": 1,
@@ -12540,6 +12750,24 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/K/SLES-00084.html"
+  },
+  {
+    "id": "SLES-00125",
+    "title": "KRAZY IVAN",
+    "discs": 1,
+    "languages": [
+      "it"
+    ],
+    "link": "https://psxdatacenter.com/games/P/K/SLES-00125.html"
+  },
+  {
+    "id": "SLES-00126",
+    "title": "KRAZY IVAN",
+    "discs": 1,
+    "languages": [
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/games/P/K/SLES-00126.html"
   },
   {
     "id": "SLES-00127",
@@ -12869,6 +13097,15 @@
     "link": "https://psxdatacenter.com/games/P/L/SLES-02955.html"
   },
   {
+    "id": "SLES-03300",
+    "title": "LEGO ØEN 2 - KIM COOL'S HÆVN",
+    "discs": 1,
+    "languages": [
+      "da"
+    ],
+    "link": "https://psxdatacenter.com/games/P/L/SLES-03300.html"
+  },
+  {
     "id": "SLES-03301",
     "title": "LEGO EILAND 2 - DE WRAAK VAN DONDERSTEEN",
     "discs": 1,
@@ -12896,6 +13133,24 @@
     "link": "https://psxdatacenter.com/games/P/L/SLES-03299.html"
   },
   {
+    "id": "SLES-03302",
+    "title": "LEGO ISLAND 2 - THE BRICKSTER'S REVENGE",
+    "discs": 1,
+    "languages": [
+      "fi"
+    ],
+    "link": "https://psxdatacenter.com/games/P/L/SLES-03302.html"
+  },
+  {
+    "id": "SLES-03306",
+    "title": "LEGO ISLAND 2 - THE BRICKSTER'S REVENGE",
+    "discs": 1,
+    "languages": [
+      "no"
+    ],
+    "link": "https://psxdatacenter.com/games/P/L/SLES-03306.html"
+  },
+  {
     "id": "SLES-03307",
     "title": "LEGO ISLAND 2 - THE BRICKSTER'S REVENGE",
     "discs": 1,
@@ -12903,6 +13158,15 @@
       "es"
     ],
     "link": "https://psxdatacenter.com/games/P/L/SLES-03307.html"
+  },
+  {
+    "id": "SLES-03308",
+    "title": "LEGO ISLAND 2 - THE BRICKSTER'S REVENGE",
+    "discs": 1,
+    "languages": [
+      "sv"
+    ],
+    "link": "https://psxdatacenter.com/games/P/L/SLES-03308.html"
   },
   {
     "id": "SLES-03305",
@@ -13442,6 +13706,24 @@
       "de"
     ],
     "link": "https://psxdatacenter.com/games/P/M/SLES-00831.html"
+  },
+  {
+    "id": "SLES-00832",
+    "title": "MACHINE HUNTER",
+    "discs": 1,
+    "languages": [
+      "it"
+    ],
+    "link": "https://psxdatacenter.com/games/P/M/SLES-00832.html"
+  },
+  {
+    "id": "SLES-00833",
+    "title": "MACHINE HUNTER",
+    "discs": 1,
+    "languages": [
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/games/P/M/SLES-00833.html"
   },
   {
     "id": "SLES-00436",
@@ -14010,24 +14292,6 @@
       "de"
     ],
     "link": "https://psxdatacenter.com/games/P/M/SLES-01200.html"
-  },
-  {
-    "id": "SLES-01201",
-    "title": "MEN IN BLACK",
-    "discs": 1,
-    "languages": [
-      "it"
-    ],
-    "link": "https://psxdatacenter.com/games/P/M/SLES-01201.html"
-  },
-  {
-    "id": "SLES-01202",
-    "title": "MEN IN BLACK",
-    "discs": 1,
-    "languages": [
-      "es"
-    ],
-    "link": "https://psxdatacenter.com/games/P/M/SLES-01202.html"
   },
   {
     "id": "SLES-03519",
@@ -16746,24 +17010,6 @@
     "link": "https://psxdatacenter.com/games/P/P/SCES-01358.html"
   },
   {
-    "id": "SCES-01359",
-    "title": "PET IN TV",
-    "discs": 1,
-    "languages": [
-      "it"
-    ],
-    "link": "https://psxdatacenter.com/games/P/P/SCES-01359.html"
-  },
-  {
-    "id": "SCES-01360",
-    "title": "PET IN TV",
-    "discs": 1,
-    "languages": [
-      "es"
-    ],
-    "link": "https://psxdatacenter.com/games/P/P/SCES-01360.html"
-  },
-  {
     "id": "SLES-02061",
     "title": "PGA EUROPEAN TOUR GOLF",
     "discs": 1,
@@ -16775,13 +17021,14 @@
   },
   {
     "id": "SLES-02396",
-    "title": "PGA European Tour Golf",
+    "title": "PGA EUROPEAN TOUR GOLF",
     "discs": 1,
     "languages": [
       "fr",
       "it",
       "es"
-    ]
+    ],
+    "link": "https://psxdatacenter.com/games/P/P/SLES-02396.html"
   },
   {
     "id": "SLES-00073",
@@ -16973,6 +17220,15 @@
       "de"
     ],
     "link": "https://psxdatacenter.com/games/P/P/SLES-02613.html"
+  },
+  {
+    "id": "SLES-02015",
+    "title": "PLAYER MANAGER - ÉPOCA 98-99",
+    "discs": 1,
+    "languages": [
+      "pt"
+    ],
+    "link": "https://psxdatacenter.com/games/P/P/SLES-02015.html"
   },
   {
     "id": "SLES-01346",
@@ -18039,6 +18295,15 @@
     "link": "https://psxdatacenter.com/games/P/R/SLES-00924.html"
   },
   {
+    "id": "SLES-00925",
+    "title": "REBOOT",
+    "discs": 1,
+    "languages": [
+      "es"
+    ],
+    "link": "https://psxdatacenter.com/games/P/R/SLES-00925.html"
+  },
+  {
     "id": "SLES-01727",
     "title": "REEL FISHING",
     "discs": 1,
@@ -19093,7 +19358,9 @@
     "languages": [
       "en",
       "fr",
-      "de"
+      "de",
+      "it",
+      "es"
     ],
     "link": "https://psxdatacenter.com/games/P/S/SLES-01208.html"
   },
@@ -20857,6 +21124,24 @@
     "link": "https://psxdatacenter.com/games/P/S/SCES-03850.html"
   },
   {
+    "id": "SCES-03853",
+    "title": "STUART LITTLE 2",
+    "discs": 1,
+    "languages": [
+      "no"
+    ],
+    "link": "https://psxdatacenter.com/games/P/S/SCES-03853.html"
+  },
+  {
+    "id": "SCES-03854",
+    "title": "STUART LITTLE 2",
+    "discs": 1,
+    "languages": [
+      "sv"
+    ],
+    "link": "https://psxdatacenter.com/games/P/S/SCES-03854.html"
+  },
+  {
     "id": "SCES-03855",
     "title": "STUART LITTLE 2",
     "discs": 1,
@@ -20873,6 +21158,15 @@
       "pt"
     ],
     "link": "https://psxdatacenter.com/games/P/S/SCES-03851.html"
+  },
+  {
+    "id": "SCES-03852",
+    "title": "STUART LITTLE 2",
+    "discs": 1,
+    "languages": [
+      "fi"
+    ],
+    "link": "https://psxdatacenter.com/games/P/S/SCES-03852.html"
   },
   {
     "id": "SCES-01223",
@@ -21518,6 +21812,15 @@
       "en"
     ],
     "link": "https://psxdatacenter.com/games/P/T/SCES-01237.html"
+  },
+  {
+    "id": "SLES-02131",
+    "title": "TELEFOOT MANAGER",
+    "discs": 1,
+    "languages": [
+      "fr"
+    ],
+    "link": "https://psxdatacenter.com/games/P/T/SLES-02131.html"
   },
   {
     "id": "SCES-02486",
@@ -22318,9 +22621,12 @@
     "link": "https://psxdatacenter.com/games/P/T/SLES-00051.html"
   },
   {
-    "id": "SLES-00039",
+    "id": [
+      "SLES-00039",
+      "SLES-00039"
+    ],
     "title": "THE RAVEN PROJECT",
-    "discs": 1,
+    "discs": 2,
     "languages": [
       "en",
       "fr",
@@ -22329,9 +22635,26 @@
     "link": "https://psxdatacenter.com/games/P/T/SLES-00039.html"
   },
   {
-    "id": "SLES-00519",
+    "id": [
+      "SLES-00518",
+      "SLES-10518"
+    ],
     "title": "THE RAVEN PROJECT",
-    "discs": 1,
+    "discs": 2,
+    "languages": [
+      "en",
+      "fr",
+      "de"
+    ],
+    "link": "https://psxdatacenter.com/games/P/T/SLES-00518.html"
+  },
+  {
+    "id": [
+      "SLES-00519",
+      "SLES-10519"
+    ],
+    "title": "THE RAVEN PROJECT",
+    "discs": 2,
     "languages": [
       "en",
       "fr",
@@ -24471,13 +24794,13 @@
     "link": "https://psxdatacenter.com/games/P/W/SCES-03025.html"
   },
   {
-    "id": "SCES-03028",
+    "id": "SCES-03030",
     "title": "WALT DISNEY DJUNGELBOKEN - GROOVE PARTY",
     "discs": 1,
     "languages": [
       "sv"
     ],
-    "link": "https://psxdatacenter.com/games/P/W/SCES-03028.html"
+    "link": "https://psxdatacenter.com/games/P/W/SCES-03030.html"
   },
   {
     "id": "SCES-03029",
@@ -24523,6 +24846,15 @@
       "no"
     ],
     "link": "https://psxdatacenter.com/games/P/W/SCES-03027.html"
+  },
+  {
+    "id": "SCES-03028",
+    "title": "WALT DISNEY KSIEGA DZUNGLI - GROOVE PARTY",
+    "discs": 1,
+    "languages": [
+      "pl"
+    ],
+    "link": "https://psxdatacenter.com/games/P/W/SCES-03028.html"
   },
   {
     "id": "SCES-03024",
@@ -25203,6 +25535,15 @@
     "discs": 1,
     "languages": [
       "de"
+    ],
+    "link": "https://psxdatacenter.com/games/P/W/SLES-00137.html"
+  },
+  {
+    "id": "SLES-00138",
+    "title": "WORLD CUP GOLF - PROFESSIONAL EDITION",
+    "discs": 1,
+    "languages": [
+      "fr"
     ],
     "link": "https://psxdatacenter.com/games/P/W/SLES-00137.html"
   },
