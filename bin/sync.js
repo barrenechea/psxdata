@@ -25,34 +25,65 @@ const SOURCES = {
   },
 };
 
-async function processGameDetails(gameUrl) {
-  console.log(`Fetching details for ${gameUrl}...`);
-  const dom = await JSDOM.fromURL(gameUrl);
-  const document = dom.window.document;
-
-  const gameDetails = {};
-
-  // Extract cover image link
-  const coverImg = document.querySelector("td.sectional > img");
-  if (coverImg) {
-    gameDetails.cover = new URL(coverImg.src, gameUrl).href;
+async function processInParallel(
+  items,
+  processFunction,
+  concurrency = 5,
+  delayMs = 1000
+) {
+  const chunks = [];
+  for (let i = 0; i < items.length; i += concurrency) {
+    chunks.push(items.slice(i, i + concurrency));
   }
 
-  // Extract other details (examples)
-  gameDetails.officialTitle = document
-    .querySelector('td[style*="Official Title"] + td')
-    ?.textContent.trim();
-  gameDetails.developer = document
-    .querySelector('td[style*="Developer"] + td')
-    ?.textContent.trim();
-  gameDetails.publisher = document
-    .querySelector('td[style*="Publisher"] + td')
-    ?.textContent.trim();
-  gameDetails.releaseDate = document
-    .querySelector('td[style*="Date Released"] + td')
-    ?.textContent.trim();
+  const results = [];
+  for (const chunk of chunks) {
+    const chunkPromises = chunk.map(processFunction);
+    const chunkResults = await Promise.all(chunkPromises);
+    results.push(...chunkResults);
 
-  return gameDetails;
+    // Add a delay between chunks to avoid overwhelming the server
+    await new Promise((resolve) => setTimeout(resolve, delayMs));
+  }
+
+  return results;
+}
+
+async function processGameDetails(game) {
+  if (!game.link) return game;
+
+  console.log(`Fetching game details for '${game.link}'...`);
+  try {
+    const dom = await JSDOM.fromURL(game.link);
+    const document = dom.window.document;
+
+    const gameDetails = {};
+
+    // Extract cover image link
+    const coverImg = document.querySelector("td.sectional > img");
+    if (coverImg) {
+      gameDetails.cover = new URL(coverImg.src, game.link).href;
+    }
+
+    // Extract other details (examples)
+    gameDetails.officialTitle = document
+      .querySelector('td[style*="Official Title"] + td')
+      ?.textContent.trim();
+    gameDetails.developer = document
+      .querySelector('td[style*="Developer"] + td')
+      ?.textContent.trim();
+    gameDetails.publisher = document
+      .querySelector('td[style*="Publisher"] + td')
+      ?.textContent.trim();
+    gameDetails.releaseDate = document
+      .querySelector('td[style*="Date Released"] + td')
+      ?.textContent.trim();
+
+    return { ...game, ...gameDetails };
+  } catch (error) {
+    console.error(`Error processing ${game.link}:`, error);
+    return game;
+  }
 }
 
 async function processPlatform(platform, platformRegions) {
@@ -65,19 +96,19 @@ async function processPlatform(platform, platformRegions) {
       const dom = await JSDOM.fromURL(url);
       const index = consumeIndex(dom.window.document);
 
-      // Process each game in the index
-      for (const game of index) {
-        if (game.link) {
-          const gameDetails = await processGameDetails(game.link);
-          Object.assign(game, gameDetails);
-        }
-      }
+      // Process games in parallel
+      const processedGames = await processInParallel(
+        index,
+        processGameDetails,
+        10, // 10 requests at a time
+        300 // 300ms delay between requests
+      );
 
       const outputFile = path.join(__dirname, "..", platform, `${region}.json`);
       console.log(`writing to '${outputFile}'...`);
 
       await fs.mkdir(path.dirname(outputFile), { recursive: true });
-      await fs.writeFile(outputFile, JSON.stringify(index, null, 2));
+      await fs.writeFile(outputFile, JSON.stringify(processedGames, null, 2));
     } catch (error) {
       console.error(`error processing ${platform}/${region}`, error);
     }
