@@ -119,10 +119,12 @@ async function processGameDetails(game, platform, region, single) {
               game.genre = value.replace(/^\s*&nbsp;/, "").trim();
               break;
             case "Developer":
-              game.developer = value;
+              // Remove trailing dot
+              game.developer = value.replace(/\.$/, "");
               break;
             case "Publisher":
-              game.publisher = value;
+              // Remove trailing dot
+              game.publisher = value.replace(/\.$/, "");
               break;
             case "Date Released":
               game.releaseDate = value;
