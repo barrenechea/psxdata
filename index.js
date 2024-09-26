@@ -57,7 +57,7 @@ async function downloadCover(url, platform, region, gameId) {
     "dist",
     platform,
     region,
-    "cover",
+    "covers",
     `${gameId}${ext}`
   );
 
@@ -184,8 +184,21 @@ async function generateIndexHtml() {
 
 async function main() {
   try {
-    for (const [platform, platformRegions] of Object.entries(SOURCES)) {
-      await processPlatform(platform, platformRegions);
+    const platform = process.argv[2]?.toUpperCase();
+
+    if (platform && !["PS1", "PS2", "PSP"].includes(platform)) {
+      console.error("Invalid platform. Please use PS1, PS2, or PSP.");
+      process.exit(1);
+    }
+
+    const platformsToProcess = platform
+      ? { [platform]: SOURCES[platform] }
+      : SOURCES;
+
+    for (const [currentPlatform, platformRegions] of Object.entries(
+      platformsToProcess
+    )) {
+      await processPlatform(currentPlatform, platformRegions);
     }
     await generateIndexHtml();
     console.log("Done!");
