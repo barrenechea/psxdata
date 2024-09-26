@@ -96,18 +96,50 @@ async function processGameDetails(game, platform, region, single) {
     }
 
     // Extract other details
-    game.officialTitle = document
-      .querySelector('td[style*="Official Title"] + td')
-      ?.textContent.trim();
-    game.developer = document
-      .querySelector('td[style*="Developer"] + td')
-      ?.textContent.trim();
-    game.publisher = document
-      .querySelector('td[style*="Publisher"] + td')
-      ?.textContent.trim();
-    game.releaseDate = document
-      .querySelector('td[style*="Date Released"] + td')
-      ?.textContent.trim();
+    const detailsTable = document.getElementById("table4");
+    if (detailsTable) {
+      const rows = detailsTable.querySelectorAll("tr");
+      rows.forEach((row) => {
+        const cells = row.querySelectorAll("td");
+        if (cells.length >= 2) {
+          const label = cells[0].textContent.trim();
+          const value = cells[1].textContent.trim();
+
+          switch (label) {
+            case "Official Title":
+              game.officialTitle = value;
+              break;
+            case "Common Title":
+              game.commonTitle = value;
+              break;
+            case "Region":
+              game.region = value;
+              break;
+            case "Genre / Style":
+              game.genre = value.replace(/^\s*&nbsp;/, "").trim();
+              break;
+            case "Developer":
+              game.developer = value;
+              break;
+            case "Publisher":
+              game.publisher = value;
+              break;
+            case "Date Released":
+              game.releaseDate = value;
+              break;
+          }
+        }
+      });
+    }
+
+    // Extract game description
+    const descriptionTable = document.getElementById("table16");
+    if (descriptionTable) {
+      const descriptionCell = descriptionTable.querySelector("td");
+      if (descriptionCell) {
+        game.description = descriptionCell.textContent.trim();
+      }
+    }
 
     console.log(
       `Successfully fetched data for ${game.title}${
