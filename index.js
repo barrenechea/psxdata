@@ -68,7 +68,7 @@ async function downloadCover(url, platform, region, gameId) {
   return filePath;
 }
 
-async function processGameDetails(game, platform, region) {
+async function processGameDetails(game, platform, region, single) {
   if (!game.link) return game;
 
   let coverDownloaded = false;
@@ -83,7 +83,12 @@ async function processGameDetails(game, platform, region) {
       game.cover = new URL(coverImg.src, game.link).href;
       try {
         const gameId = Array.isArray(game.id) ? game.id[0] : game.id;
-        await downloadCover(game.cover, platform, region, gameId);
+        await downloadCover(
+          game.cover,
+          !single ? platform : "",
+          region,
+          gameId
+        );
         coverDownloaded = true;
       } catch (error) {
         // Silently handle the error, cover download status will remain false
@@ -132,7 +137,7 @@ async function saveGameData(platform, region, game) {
   }
 }
 
-async function processPlatform(platform, platformRegions) {
+async function processPlatform(platform, platformRegions, single) {
   console.log(`Processing platform '${platform}'...`);
 
   for (const [region, url] of Object.entries(platformRegions)) {
@@ -143,8 +148,13 @@ async function processPlatform(platform, platformRegions) {
       const index = consumeIndex(dom.window.document);
 
       await processInParallel(index, async (game) => {
-        const processedGame = await processGameDetails(game, platform, region);
-        await saveGameData(platform, region, processedGame);
+        const processedGame = await processGameDetails(
+          game,
+          platform,
+          region,
+          single
+        );
+        await saveGameData(!single ? platform : "", region, processedGame);
       });
 
       console.log(`Finished processing ${platform}/${region}`);
@@ -198,7 +208,7 @@ async function main() {
     for (const [currentPlatform, platformRegions] of Object.entries(
       platformsToProcess
     )) {
-      await processPlatform(currentPlatform, platformRegions);
+      await processPlatform(currentPlatform, platformRegions, !!platform);
     }
     await generateIndexHtml();
     console.log("Done!");
