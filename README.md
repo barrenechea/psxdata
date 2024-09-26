@@ -1,14 +1,14 @@
-# PSX Data
+# PSXData
 
-This project serves data from the [PSX Data Center](https://psxdatacenter.com) as static resources via Cloudflare Pages, providing fast CDN access across the globe.
+This project serves serialized data from the [PSX DataCenter](https://psxdatacenter.com) as static resources via Cloudflare Pages, providing fast CDN access across the globe.
 
 ## Overview
 
-PSX Data is a modernized version of the original [psxdata](https://github.com/ticky/psxdata) project by [ticky](https://github.com/ticky). While the original project focused on parsing and serializing data from PSX Data Center, this version takes it a step further by hosting the parsed data on Cloudflare Pages for efficient global distribution.
+PSXData is a modernized version of the original [psxdata](https://github.com/ticky/psxdata) project by [ticky](https://github.com/ticky). While the original project focused on parsing and serializing data from PSX DataCenter, this version takes it a step further by hosting the parsed data on Cloudflare Pages for efficient global distribution.
 
 ## Features
 
-- Parsed data from PSX Data Center for PlayStation 1, PlayStation 2, and PSP
+- Parsed data from PSX DataCenter for PlayStation 1, PlayStation 2, and PSP
 - Static resources hosted on Cloudflare Pages for fast, global access
 - Monthly updates to ensure data freshness
 - Cover images for games (when available)
@@ -66,15 +66,19 @@ Each JSON file contains an object with the following properties:
 - `title`: Game title
 - `discs`: Number of discs
 - `languages`: List of language codes
-- `link`: URL to the PSX Data Center entry (if available)
+- `link`: URL to the PSX DataCenter entry (if available)
 - `includes`: Additional content information (if applicable)
 - `cover`: URL to the cover image (if available)
-- `officialTitle`: Official game title (if different from `title`)
+- `officialTitle`: Official game title (if available)
+- `commonTitle`: Common title of the game (if available)
+- `region`: Region information
+- `genre`: Game genre or style
 - `developer`: Game developer (if available)
 - `publisher`: Game publisher (if available)
 - `releaseDate`: Game release date (if available)
+- `description`: Game description (if available)
 
-Not all properties may be present for every game.
+Note: The actual content and availability of fields may vary depending on the specific game and the information available in the PSX DataCenter database.
 
 ## Contributing
 
@@ -84,4 +88,4 @@ Contributions are welcome! If you notice any discrepancies in the data or have s
 
 The code in this repository is licensed under the GNU General Public License v3.0 (GPL-3.0). You can find a copy of the license in the LICENSE file.
 
-Please note that the data itself is sourced from PSX Data Center and may be subject to different terms. We kindly request that you credit [PSX Data Center](https://psxdatacenter.com) if you use this data in your projects.
+Please note that the data itself is sourced from PSX DataCenter and may be subject to different terms. We kindly request that you credit [PSX DataCenter](https://psxdatacenter.com) if you use this data in your projects.
