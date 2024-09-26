@@ -164,22 +164,32 @@ async function processPlatform(platform, platformRegions, single) {
   }
 }
 
-async function generateIndexHtml() {
+async function generateIndexHtml(single) {
   const distDir = path.join(__dirname, "dist");
   let content =
     "<html><head><title>PlayStation DataCenter Index</title></head><body><h1>PlayStation DataCenter Index</h1>";
 
-  for (const platform of await fs.readdir(distDir)) {
-    content += `<h2>${platform}</h2>`;
+  const platforms = single ? [""] : await fs.readdir(distDir);
+
+  for (const platform of platforms) {
+    if (platform) {
+      content += `<h2>${platform}</h2>`;
+    }
     const platformDir = path.join(distDir, platform);
 
-    for (const region of await fs.readdir(platformDir)) {
+    const regions = await fs.readdir(platformDir);
+    for (const region of regions) {
       content += `<h3>${region}</h3><ul>`;
       const regionDir = path.join(platformDir, region);
 
       const files = await fs.readdir(regionDir);
       for (const file of files) {
-        content += `<li><a href="${platform}/${region}/${file}">${file}</a></li>`;
+        if (file.endsWith(".json")) {
+          const relativePath = path
+            .join(platform, region, file)
+            .replace(/\\/g, "/");
+          content += `<li><a href="${relativePath}">${file}</a></li>`;
+        }
       }
 
       content += "</ul>";
@@ -188,7 +198,7 @@ async function generateIndexHtml() {
 
   content += "</body></html>";
 
-  await fs.writeFile(path.join(__dirname, "dist", "index.html"), content);
+  await fs.writeFile(path.join(distDir, "index.html"), content);
   console.log("Generated index.html");
 }
 
@@ -210,7 +220,7 @@ async function main() {
     )) {
       await processPlatform(currentPlatform, platformRegions, !!platform);
     }
-    await generateIndexHtml();
+    await generateIndexHtml(!!platform);
     console.log("Done!");
   } catch (error) {
     console.error(error);
