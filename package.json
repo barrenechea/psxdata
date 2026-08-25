@@ -20,6 +20,6 @@
     "test": "node --test"
   },
   "devDependencies": {
-    "jsdom": "^25.0.1"
+    "jsdom": "^30.0.1"
   }
 }
