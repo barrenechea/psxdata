@@ -1,8 +1,9 @@
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
-import { JSDOM } from "jsdom";
 import consumeIndex from "./lib/consumeIndex.js";
+import extractDetails from "./lib/extractDetails.js";
+import { loadDocument } from "./lib/html.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -74,13 +75,10 @@ async function processGameDetails(game, platform, region, single) {
   let coverDownloaded = false;
 
   try {
-    const dom = await JSDOM.fromURL(game.link);
-    const document = dom.window.document;
+    const page = await loadDocument(game.link);
+    extractDetails(page, game);
 
-    // Extract cover image link
-    const coverImg = document.querySelector("td.sectional > img");
-    if (coverImg) {
-      game.cover = new URL(coverImg.src, game.link).href;
+    if (game.cover) {
       try {
         const gameId = Array.isArray(game.id) ? game.id[0] : game.id;
         await downloadCover(
@@ -92,54 +90,6 @@ async function processGameDetails(game, platform, region, single) {
         coverDownloaded = true;
       } catch (error) {
         // Silently handle the error, cover download status will remain false
-      }
-    }
-
-    // Extract other details
-    const detailsTable = document.getElementById("table4");
-    if (detailsTable) {
-      const rows = detailsTable.querySelectorAll("tr");
-      rows.forEach((row) => {
-        const cells = row.querySelectorAll("td");
-        if (cells.length >= 2) {
-          const label = cells[0].textContent.trim();
-          const value = cells[1].textContent.trim();
-
-          switch (label) {
-            case "Official Title":
-              game.officialTitle = value;
-              break;
-            case "Common Title":
-              game.commonTitle = value;
-              break;
-            case "Region":
-              game.region = value;
-              break;
-            case "Genre / Style":
-              game.genre = value.replace(/^\s*&nbsp;/, "").trim();
-              break;
-            case "Developer":
-              // Remove trailing dot
-              game.developer = value.replace(/\.$/, "");
-              break;
-            case "Publisher":
-              // Remove trailing dot
-              game.publisher = value.replace(/\.$/, "");
-              break;
-            case "Date Released":
-              game.releaseDate = value;
-              break;
-          }
-        }
-      });
-    }
-
-    // Extract game description
-    const descriptionTable = document.getElementById("table16");
-    if (descriptionTable) {
-      const descriptionCell = descriptionTable.querySelector("td");
-      if (descriptionCell) {
-        game.description = descriptionCell.textContent.trim();
       }
     }
 
@@ -178,8 +128,8 @@ async function processPlatform(platform, platformRegions, single) {
     console.log(`Fetching and parsing '${url}'...`);
 
     try {
-      const dom = await JSDOM.fromURL(url);
-      const index = consumeIndex(dom.window.document);
+      const page = await loadDocument(url);
+      const index = consumeIndex(page, url);
 
       await processInParallel(index, async (game) => {
         const processedGame = await processGameDetails(

@@ -20,6 +20,7 @@
     "test": "node --test"
   },
   "devDependencies": {
-    "jsdom": "^30.0.1"
+    "cheerio": "^1.2.0",
+    "html-encoding-sniffer": "^6.0.0"
   }
 }
