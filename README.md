@@ -2,61 +2,59 @@
 
 This project serves serialized data from the [PSX DataCenter](https://psxdatacenter.com) as static resources via Cloudflare Pages, providing fast CDN access across the globe.
 
+PlayStation 1 and PlayStation 2 are published as **separate Pages projects** (`ps1data` and `ps2data`) so each stays under the free-tier file limit.
+
 ## Overview
 
 PSXData is a modernized version of the original [psxdata](https://github.com/ticky/psxdata) project by [ticky](https://github.com/ticky). While the original project focused on parsing and serializing data from PSX DataCenter, this version takes it a step further by hosting the parsed data on Cloudflare Pages for efficient global distribution.
 
 ## Features
 
-- Parsed data from PSX DataCenter for PlayStation 1, PlayStation 2, and PSP
+- Parsed data from PSX DataCenter for PlayStation 1 and PlayStation 2
 - Static resources hosted on Cloudflare Pages for fast, global access
 - Monthly updates to ensure data freshness
 - Cover images for games (when available)
 
 ## Usage
 
-The data is accessible at [https://psxdata.barrenechea.cl](https://psxdata.barrenechea.cl). Each game's data is stored in an individual JSON file, organized by platform, region, and game ID.
+Each platform is its own site. Game files are organized by region and game ID (there is no platform segment in the path):
 
-The format for accessing a specific game's data is:
+| Platform | Pages project | Site |
+| --- | --- | --- |
+| PlayStation 1 | `ps1data` | [https://ps1data.pages.dev](https://ps1data.pages.dev) |
+| PlayStation 2 | `ps2data` | [https://ps2data.pages.dev](https://ps2data.pages.dev) |
 
 ```
-https://psxdata.barrenechea.cl/{Platform}/{Region}/{GameID}.json
+https://{site}/{Region}/{GameID}.json
 ```
 
 Where:
 
-- `{Platform}` is either `PS1`, `PS2`, or `PSP`
-- `{Region}` is either `America`, `Europe`, or `Japan`
-- `{GameID}` is the specific game ID (e.g., SLUS-00594)
+- `{site}` is `ps1data.pages.dev` or `ps2data.pages.dev`
+- `{Region}` is `America`, `Europe`, or `Japan`
+- `{GameID}` is the specific game ID (e.g. `SLUS-00594`)
 
-For example, to access the data for the game "Crash Bandicoot" (SCUS-94900) on PlayStation 1 in the American region, you would use:
+For example, Crash Bandicoot (SCUS-94900) on PlayStation 1 in America:
 
 ```
-https://psxdata.barrenechea.cl/PS1/America/SCUS-94900.json
+https://ps1data.pages.dev/America/SCUS-94900.json
 ```
-
-This will return a JSON file containing the game's information.
 
 ### Cover Images
 
-Cover images are available for many games. To access a cover image, use the following URL format:
+Cover images are available for many games:
 
 ```
-https://psxdata.barrenechea.cl/{Platform}/{Region}/cover/{GameID}.{extension}
+https://{site}/{Region}/covers/{GameID}.{extension}
 ```
 
-Where:
-
-- `{Platform}`, `{Region}`, and `{GameID}` are the same as above
-- `{extension}` is the file extension of the cover image (typically jpg or png)
-
-For example:
+`{extension}` is typically `jpg`. For example:
 
 ```
-https://psxdata.barrenechea.cl/PS1/America/cover/SCUS-94900.jpg
+https://ps1data.pages.dev/America/covers/SCUS-94900.jpg
 ```
 
-Note: Not all games have cover images available. The presence of a cover image is indicated by the `cover` property in the game's JSON data.
+Not every game has a cover. Presence is indicated by the `cover` property in the game's JSON (that URL points at PSX DataCenter; the hosted file is under `covers/` as above).
 
 ## Data Format
 

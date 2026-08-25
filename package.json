@@ -17,6 +17,8 @@
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
+    "build:ps1": "node index.js PS1",
+    "build:ps2": "node index.js PS2",
     "test": "node --test"
   },
   "devDependencies": {
